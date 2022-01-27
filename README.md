@@ -7,3 +7,6 @@
 **Current Server:** https://discord.gg/QRxNw8NfcE
 
 **Shop:** https://sellix.io/Skid-Tools
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=blaststar&show_icons=true&locale=en&layout=compact" alt="blaststar" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=blaststar&show_icons=true&locale=en" alt="blaststar" /></p>
