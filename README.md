@@ -2,9 +2,9 @@
 
 **Main Language:** JavaScript
 
-**Discord:** Tech Support[sad_times]#2510
+**Discord:** Tech Support[sad_times]#8987
 
-**Current Server:** https://discord.gg/QRxNw8NfcE
+**Current Server:** https://discord.gg/2KkGmzVFqW
 
 **Shop:** https://skid-tools.sellix.io
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=blaststar&show_icons=true&locale=en&layout=compact" alt="blaststar" /></p>
