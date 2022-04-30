@@ -7,6 +7,7 @@
 **Current Server:** https://discord.gg/2KkGmzVFqW
 
 **Shop:** https://skid-tools.sellix.io
+
  <img src="https://badges.pufler.dev/visits/Blaststar/Blaststar"/> 
  <!-- <img src="https://badges.pufler.dev/years/Blaststar"/> -->
  <img src="https://badges.pufler.dev/repos/Blaststar"/>
