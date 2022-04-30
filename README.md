@@ -1,4 +1,4 @@
-![alt text](https://cdn.discordapp.com/attachments/929133475695575103/933197982185193522/skid-tools_FINAL_server_pfp.jpg)
+![alt text](https://imgur.com/a/FAfFtJy)
 
 **Main Language:** JavaScript
 
