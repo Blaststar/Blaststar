@@ -1,4 +1,4 @@
-![alt text](https://imgur.com/a/FAfFtJy)
+![alt text](https://i.imgur.com/EsYUN3k.png)
 
 **Main Language:** JavaScript
 
