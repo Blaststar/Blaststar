@@ -2,6 +2,8 @@
 
 **Main Language:** JavaScript
 
+**Learning:** C#
+
 **Discord:** Tech Support[sad_times]#8987
 
 **Current Server:** https://discord.gg/2KkGmzVFqW
