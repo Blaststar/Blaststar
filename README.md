@@ -4,7 +4,7 @@
 
 **Learning:** C#
 
-**Discord:** Tech Support[sad_times]#8987
+**Discord:** Tech Support[sad_times]#3737
 
 **Current Server:** https://discord.gg/2KkGmzVFqW
 
