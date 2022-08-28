@@ -6,7 +6,7 @@
 
 **Discord:** Tech Support[sad_times]#3737
 
-**Current Server:** https://discord.gg/2KkGmzVFqW
+**Current Server:** https://discord.gg/7JX69GVVen
 
 **Shop:** https://skid-tools.sellix.io
 
