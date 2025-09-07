@@ -1,10 +1,30 @@
-**Main Language:** JavaScript
+# 👋 Hi, I'm Blaststar  
 
-**Learning:** C#
+**Main Language:** JavaScript  
+**Currently Learning:** C#  
+**Discord:** _techsupport  
 
-**Discord:** _techsupport.
+---
 
- <img src="https://badges.pufler.dev/visits/Blaststar/Blaststar"/> <!-- <img src="https://badges.pufler.dev/years/Blaststar"/> --> <img src="https://badges.pufler.dev/repos/Blaststar"/> <img src="https://badges.pufler.dev/commits/yearly/Blaststar" />
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=blaststar&show_icons=true&locale=en&layout=compact" alt="blaststar" /></p>
+## 🛠️ Tech & Tools
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=blaststar&show_icons=true&locale=en" alt="blaststar" /></p>
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=blaststar&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blaststar&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+## 🌍 Connect with Me
+[![Discord](https://img.shields.io/badge/Discord-%5Ftechsupport-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/your-discord-id)  
