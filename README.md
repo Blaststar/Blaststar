@@ -2,6 +2,14 @@
 **Main Language:** JavaScript  
 **Currently Learning:** C#  
 **Discord:** _techsupport  
+---
+
+## 📈 Profile Stats & Badges
+![GitHub Repos](https://img.shields.io/github/repos/blaststar?style=for-the-badge&logo=github)
+![Total Stars](https://img.shields.io/github/stars/blaststar?style=for-the-badge&logo=github)
+![Profile Views](https://komarev.com/ghpvc/?username=blaststar&style=for-the-badge&color=blue)
+
+---
 
 ---
 
