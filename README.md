@@ -1,7 +1,7 @@
 # 👋 Greetings, I'm Blaststar
 **Main Language:** JavaScript, C#, Python (First being most experienced to least)
-
 **Discord:** _techsupport  
+
 ---
 
 ## 📈 Profile Stats & Badges
