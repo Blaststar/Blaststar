@@ -1,12 +1,11 @@
-# 👋 Hi, I'm Blaststar  
-
+# 👋 Greetings, I'm Blaststar
 **Main Language:** JavaScript  
 **Currently Learning:** C#  
 **Discord:** _techsupport  
 
 ---
 
-## 🛠️ Tech & Tools
+## 🛠️ Languages & Tools
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -27,4 +26,4 @@
 ---
 
 ## 🌍 Connect with Me
-[![Discord](https://img.shields.io/badge/Discord-%5Ftechsupport-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/your-discord-id)  
+[![Discord](https://img.shields.io/badge/Discord-%5Ftechsupport-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1121203144152588288)  
