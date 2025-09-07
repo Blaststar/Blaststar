@@ -5,7 +5,7 @@
 ---
 
 ## 📈 Profile Stats & Badges
-![GitHub Repos](https://img.shields.io/github/repositories/blaststar?style=for-the-badge&logo=github)
+![Repositories](https://img.shields.io/badge/dynamic/json.svg?label=Repositories&query=$.public_repos&url=https://api.github.com/users/blaststar&style=for-the-badge&logo=github)
 ![Total Stars](https://img.shields.io/github/stars/blaststar?style=for-the-badge&logo=github)
 ![Profile Views](https://komarev.com/ghpvc/?username=blaststar&style=for-the-badge&color=blue)
 
