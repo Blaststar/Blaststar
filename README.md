@@ -33,4 +33,4 @@
 ---
 
 ## 🌍 Connect with Me
-[![Discord](https://img.shields.io/badge/Discord-%5Ftechsupport-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1121203144152588288)  
+[![Discord](https://img.shields.io/badge/Discord-%5FBlaststart-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1121203144152588288)  
