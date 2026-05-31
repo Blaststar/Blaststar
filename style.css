@@ -31,14 +31,6 @@
   }
 
   /* ── IDENTITY ROW ── */
-  /*
-    .identity-row is the positioning context.
-    .stripe-wrap is fixed 512x128, centered inside it.
-    badge-stack, rank-icon, stripe-username are all absolutely
-    positioned relative to .identity-row, placed to sit ON the stripe.
-    Badge left edge is slightly negative relative to stripe's left edge
-    so it bleeds off the stripe — but stays inside the card.
-  */
   .identity-row {
     position: relative;
     height: 128px;
@@ -47,15 +39,12 @@
     align-items: center;
   }
 
-  /* Stripe: fixed 512x128, centered by flex parent, never stretches */
   .stripe-wrap {
     width: 512px;
     height: 128px;
-    flex-shrink: 0;
     border: 1px solid #333;
     background: #111;
     overflow: hidden;
-    position: relative;
     z-index: 1;
   }
   .stripe-wrap img.stripe-img {
@@ -65,27 +54,10 @@
     display: block;
   }
 
-  /*
-    All overlays are positioned relative to .identity-row.
-    The stripe is centered, so its left edge is at:
-    (cardWidth - 512) / 2  — but since we can't know card width in CSS,
-    we use left: 50% and offset from stripe center.
-
-    Stripe is 512px wide centered → its left edge is at calc(50% - 256px).
-    Badge (96px wide) bleeds 20px off stripe left:
-      left = calc(50% - 256px - 20px) = calc(50% - 276px)
-    Rank (64px wide) sits after badge right edge + 10px gap:
-      badge right = calc(50% - 276px + 96px) = calc(50% - 180px)
-      rank left   = calc(50% - 180px + 10px) = calc(50% - 170px)
-    Username sits after rank right edge + 14px gap:
-      rank right  = calc(50% - 170px + 64px) = calc(50% - 106px)
-      uname left  = calc(50% - 106px + 14px) = calc(50% - 92px)
-  */
   .badge-stack {
     position: absolute;
     top: 50%;
     transform: translateY(-50%);
-    left: calc(50% - 276px);
     width: 96px;
     height: 96px;
     z-index: 3;
@@ -101,7 +73,6 @@
     position: absolute;
     top: 50%;
     transform: translateY(-50%);
-    left: calc(50% - 182px);
     width: 56px;
     height: 56px;
     display: flex;
@@ -129,7 +100,6 @@
     position: absolute;
     top: calc(50% + 2px);
     transform: translateY(-50%);
-    left: calc(50% - 122px);
     z-index: 3;
   }
   .stripe-username .uname {
@@ -139,6 +109,56 @@
     color: #ffffff;
     white-space: nowrap;
     text-shadow: 1px 1px 3px #000, 0 0 6px rgba(0,0,0,0.8);
+  }
+
+  /* ── DESKTOP: identity-scaler is a neutral passthrough ── */
+  .identity-scaler {
+    position: relative;
+    width: 512px;
+    height: 128px;
+    flex-shrink: 0;
+  }
+
+  /* stripe and overlays positioned inside scaler */
+  .identity-scaler .stripe-wrap {
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+
+  .identity-scaler .badge-stack {
+    /* badge bleeds left: left edge at -20px from stripe left (stripe starts at 0 inside scaler) */
+    left: -20px;
+    top: 50%;
+    transform: translateY(-50%);
+  }
+
+  .identity-scaler .rank-icon {
+    /* badge(-20) + badge width(96) + gap(10) = 86 */
+    left: 86px;
+    top: 50%;
+    transform: translateY(-50%);
+  }
+
+  .identity-scaler .stripe-username {
+    /* rank(86) + rank width(56) + gap(14) = 156 */
+    left: 156px;
+    top: calc(50% + 2px);
+    transform: translateY(-50%);
+  }
+
+  /* ── MOBILE: scale the whole scaler down ── */
+  @media (max-width: 560px) {
+    .identity-row {
+      height: 74px; /* 128 * 0.578 ≈ 74 */
+    }
+
+    .identity-scaler {
+      transform-origin: top center;
+      transform: scale(0.578);
+      /* kill the phantom height from pre-scale size */
+      margin-bottom: -54px;
+    }
   }
 
   /* ── HR ── */
@@ -185,7 +205,7 @@
     overflow-y: auto;
     padding-right: 6px;
   }
-  
+
   .news-scroll::-webkit-scrollbar { width: 6px; }
   .news-scroll::-webkit-scrollbar-track { background: #111; }
   .news-scroll::-webkit-scrollbar-thumb { background: #333; }
@@ -201,7 +221,6 @@
     font-size: 13px;
     font-weight: bold;
     color: #ffffff;
-    margin-bottom: 4px;
   }
 
   .news-header-row {
@@ -222,6 +241,7 @@
   a { color: #ff4000; text-decoration: none; }
   a:hover { text-decoration: underline; }
 
+  /* ── MODAL ── */
   .modal-overlay {
     display: none;
     position: fixed;
@@ -230,6 +250,8 @@
     z-index: 100;
     align-items: center;
     justify-content: center;
+    /* Fix mobile centering */
+    padding: 16px;
   }
   .modal-overlay.open { display: flex; }
   .modal-box {
@@ -239,6 +261,9 @@
     min-width: 280px;
     max-width: 360px;
     width: 100%;
+    /* Prevent modal from being taller than viewport */
+    max-height: 90vh;
+    overflow-y: auto;
   }
   .modal-title {
     font-size: 14px;
