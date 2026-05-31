@@ -1,5 +1,5 @@
   * { box-sizing: border-box; margin: 0; padding: 0; }
-
+ 
   body {
     font-family: Verdana, Geneva, sans-serif;
     font-size: 13px;
@@ -7,7 +7,7 @@
     color: #d0d0d0;
     min-height: 100vh;
   }
-
+ 
   .page-bg {
     position: fixed;
     inset: 0;
@@ -15,7 +15,7 @@
     filter: brightness(0.45) saturate(0.5);
     z-index: 0;
   }
-
+ 
   .wrapper {
     position: relative;
     z-index: 1;
@@ -23,13 +23,13 @@
     margin: 0 auto;
     padding: 40px 16px 60px;
   }
-
+ 
   .profile-card {
     background: #0a0a0a;
     border: 1px solid #333;
     padding: 20px 22px 24px;
   }
-
+ 
   /* ── IDENTITY ROW ── */
   .identity-row {
     position: relative;
@@ -38,7 +38,7 @@
     justify-content: center;
     align-items: center;
   }
-
+ 
   .stripe-wrap {
     width: 512px;
     height: 128px;
@@ -53,7 +53,7 @@
     object-fit: cover;
     display: block;
   }
-
+ 
   .badge-stack {
     position: absolute;
     top: 50%;
@@ -68,7 +68,7 @@
     width: 96px; height: 96px;
     object-fit: contain;
   }
-
+ 
   .rank-icon {
     position: absolute;
     top: 50%;
@@ -85,7 +85,7 @@
     height: 56px;
     object-fit: contain;
   }
-
+ 
   .stripe-username .clan {
     font-family: Verdana, Geneva, sans-serif;
     font-size: 16px;
@@ -95,7 +95,7 @@
     text-shadow: 1px 1px 2px #000;
     letter-spacing: 0.05em;
   }
-
+ 
   .stripe-username {
     position: absolute;
     top: calc(50% + 2px);
@@ -110,7 +110,7 @@
     white-space: nowrap;
     text-shadow: 1px 1px 3px #000, 0 0 6px rgba(0,0,0,0.8);
   }
-
+ 
   /* ── DESKTOP: identity-scaler is a neutral passthrough ── */
   .identity-scaler {
     position: relative;
@@ -118,41 +118,41 @@
     height: 128px;
     flex-shrink: 0;
   }
-
+ 
   /* stripe and overlays positioned inside scaler */
   .identity-scaler .stripe-wrap {
     position: absolute;
     top: 0;
     left: 0;
   }
-
+ 
   .identity-scaler .badge-stack {
     /* badge bleeds left: left edge at -20px from stripe left (stripe starts at 0 inside scaler) */
     left: -20px;
     top: 50%;
     transform: translateY(-50%);
   }
-
+ 
   .identity-scaler .rank-icon {
-    /* badge(-20) + badge width(96) + gap(10) = 86 */
-    left: 86px;
+    /* badge(-20) + badge width(96) + gap(1) = 77 */
+    left: 77px;
     top: 50%;
     transform: translateY(-50%);
   }
-
+ 
   .identity-scaler .stripe-username {
-    /* rank(86) + rank width(56) + gap(14) = 156 */
-    left: 156px;
+    /* rank(77) + rank width(56) + gap(3) = 136 */
+    left: 136px;
     top: calc(50% + 2px);
     transform: translateY(-50%);
   }
-
+ 
   /* ── MOBILE: scale the whole scaler down ── */
   @media (max-width: 560px) {
     .identity-row {
       height: 74px; /* 128 * 0.578 ≈ 74 */
     }
-
+ 
     .identity-scaler {
       transform-origin: top center;
       transform: scale(0.578);
@@ -160,14 +160,14 @@
       margin-bottom: -54px;
     }
   }
-
+ 
   /* ── HR ── */
   hr {
     border: none;
     border-top: 1px solid #2e2e2e;
     margin: 16px 0;
   }
-
+ 
   .section-title {
     font-family: Verdana, Geneva, sans-serif;
     font-size: 13px;
@@ -175,7 +175,7 @@
     color: #ffffff;
     margin-bottom: 10px;
   }
-
+ 
   .stats-table {
     width: 100%;
     border-collapse: collapse;
@@ -193,19 +193,19 @@
     grid-template-columns: 1fr 1fr;
     gap: 0 28px;
   }
-
+ 
   .about-text {
     color: #b0b0b0;
     line-height: 1.7;
     font-size: 12px;
   }
-
+ 
   .news-scroll {
     max-height: 220px;
     overflow-y: auto;
     padding-right: 6px;
   }
-
+ 
   .news-scroll::-webkit-scrollbar { width: 6px; }
   .news-scroll::-webkit-scrollbar-track { background: #111; }
   .news-scroll::-webkit-scrollbar-thumb { background: #333; }
@@ -216,13 +216,13 @@
   }
   .news-item:first-child { padding-top: 0; }
   .news-item:last-child { border-bottom: none; padding-bottom: 0; }
-
+ 
   .news-header {
     font-size: 13px;
     font-weight: bold;
     color: #ffffff;
   }
-
+ 
   .news-header-row {
     display: flex;
     justify-content: space-between;
@@ -235,12 +235,12 @@
     flex-shrink: 0;
     margin-left: 10px;
   }
-
+ 
   .news-desc { font-size: 12px; color: #999; line-height: 1.6; }
-
+ 
   a { color: #ff4000; text-decoration: none; }
   a:hover { text-decoration: underline; }
-
+ 
   /* ── MODAL ── */
   .modal-overlay {
     display: none;
@@ -285,7 +285,7 @@
   .social-link:hover { color: #fff; }
   .social-icon { width: 20px; height: 20px; flex-shrink: 0; fill: #888; }
   .modal-close-row { margin-top: 16px; display: flex; justify-content: flex-end; }
-
+ 
   .btn-row { display: flex; justify-content: flex-end; margin-top: 6px; }
   .btn {
     font-family: Verdana, Geneva, sans-serif;
