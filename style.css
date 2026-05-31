@@ -1,0 +1,278 @@
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 13px;
+    background: #000;
+    color: #d0d0d0;
+    min-height: 100vh;
+  }
+
+  .page-bg {
+    position: fixed;
+    inset: 0;
+    background: url('wf/afghan.jpg') center / cover no-repeat;
+    filter: brightness(0.45) saturate(0.5);
+    z-index: 0;
+  }
+
+  .wrapper {
+    position: relative;
+    z-index: 1;
+    max-width: 860px;
+    margin: 0 auto;
+    padding: 40px 16px 60px;
+  }
+
+  .profile-card {
+    background: #0a0a0a;
+    border: 1px solid #333;
+    padding: 20px 22px 24px;
+  }
+
+  /* ── IDENTITY ROW ── */
+  /*
+    .identity-row is the positioning context.
+    .stripe-wrap is fixed 512x128, centered inside it.
+    badge-stack, rank-icon, stripe-username are all absolutely
+    positioned relative to .identity-row, placed to sit ON the stripe.
+    Badge left edge is slightly negative relative to stripe's left edge
+    so it bleeds off the stripe — but stays inside the card.
+  */
+  .identity-row {
+    position: relative;
+    height: 128px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  /* Stripe: fixed 512x128, centered by flex parent, never stretches */
+  .stripe-wrap {
+    width: 512px;
+    height: 128px;
+    flex-shrink: 0;
+    border: 1px solid #333;
+    background: #111;
+    overflow: hidden;
+    position: relative;
+    z-index: 1;
+  }
+  .stripe-wrap img.stripe-img {
+    width: 512px;
+    height: 128px;
+    object-fit: cover;
+    display: block;
+  }
+
+  /*
+    All overlays are positioned relative to .identity-row.
+    The stripe is centered, so its left edge is at:
+    (cardWidth - 512) / 2  — but since we can't know card width in CSS,
+    we use left: 50% and offset from stripe center.
+
+    Stripe is 512px wide centered → its left edge is at calc(50% - 256px).
+    Badge (96px wide) bleeds 20px off stripe left:
+      left = calc(50% - 256px - 20px) = calc(50% - 276px)
+    Rank (64px wide) sits after badge right edge + 10px gap:
+      badge right = calc(50% - 276px + 96px) = calc(50% - 180px)
+      rank left   = calc(50% - 180px + 10px) = calc(50% - 170px)
+    Username sits after rank right edge + 14px gap:
+      rank right  = calc(50% - 170px + 64px) = calc(50% - 106px)
+      uname left  = calc(50% - 106px + 14px) = calc(50% - 92px)
+  */
+  .badge-stack {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    left: calc(50% - 276px);
+    width: 96px;
+    height: 96px;
+    z-index: 3;
+  }
+  .badge-stack img {
+    position: absolute;
+    top: 0; left: 0;
+    width: 96px; height: 96px;
+    object-fit: contain;
+  }
+
+  .rank-icon {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    left: calc(50% - 182px);
+    width: 56px;
+    height: 56px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 3;
+  }
+  .rank-icon img {
+    width: 56px;
+    height: 56px;
+    object-fit: contain;
+  }
+
+  .stripe-username .clan {
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    color: #c2c2c2;
+    white-space: nowrap;
+    text-shadow: 1px 1px 2px #000;
+    letter-spacing: 0.05em;
+  }
+
+  .stripe-username {
+    position: absolute;
+    top: calc(50% + 2px);
+    transform: translateY(-50%);
+    left: calc(50% - 122px);
+    z-index: 3;
+  }
+  .stripe-username .uname {
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    color: #ffffff;
+    white-space: nowrap;
+    text-shadow: 1px 1px 3px #000, 0 0 6px rgba(0,0,0,0.8);
+  }
+
+  /* ── HR ── */
+  hr {
+    border: none;
+    border-top: 1px solid #2e2e2e;
+    margin: 16px 0;
+  }
+
+  .section-title {
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 13px;
+    font-weight: bold;
+    color: #ffffff;
+    margin-bottom: 10px;
+  }
+
+  .stats-table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  .stats-table td {
+    padding: 4px 6px;
+    font-size: 13px;
+    border-bottom: 1px solid #1c1c1c;
+  }
+  .stats-table tr:last-child td { border-bottom: none; }
+  .stats-table .lbl { color: #888; width: 48%; }
+  .stats-table .val { color: #d0d0d0; text-align: right; font-weight: bold; }
+  .stats-two-col {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 0 28px;
+  }
+
+  .about-text {
+    color: #b0b0b0;
+    line-height: 1.7;
+    font-size: 12px;
+  }
+
+  .news-scroll {
+    max-height: 220px;
+    overflow-y: auto;
+    padding-right: 6px;
+  }
+  
+  .news-scroll::-webkit-scrollbar { width: 6px; }
+  .news-scroll::-webkit-scrollbar-track { background: #111; }
+  .news-scroll::-webkit-scrollbar-thumb { background: #333; }
+  .news-scroll::-webkit-scrollbar-thumb:hover { background: #444; }
+  .news-item {
+    border-bottom: 1px solid #1e1e1e;
+    padding: 10px 0;
+  }
+  .news-item:first-child { padding-top: 0; }
+  .news-item:last-child { border-bottom: none; padding-bottom: 0; }
+
+  .news-header {
+    font-size: 13px;
+    font-weight: bold;
+    color: #ffffff;
+    margin-bottom: 4px;
+  }
+
+  .news-header-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    margin-bottom: 4px;
+  }
+  .news-date {
+    font-size: 11px;
+    color: #555;
+    flex-shrink: 0;
+    margin-left: 10px;
+  }
+
+  .news-desc { font-size: 12px; color: #999; line-height: 1.6; }
+
+  a { color: #ff4000; text-decoration: none; }
+  a:hover { text-decoration: underline; }
+
+  .modal-overlay {
+    display: none;
+    position: fixed;
+    inset: 0;
+    background: rgba(0,0,0,0.75);
+    z-index: 100;
+    align-items: center;
+    justify-content: center;
+  }
+  .modal-overlay.open { display: flex; }
+  .modal-box {
+    background: #0f0f0f;
+    border: 1px solid #333;
+    padding: 24px 28px;
+    min-width: 280px;
+    max-width: 360px;
+    width: 100%;
+  }
+  .modal-title {
+    font-size: 14px;
+    font-weight: bold;
+    color: #fff;
+    margin-bottom: 16px;
+  }
+  .social-link {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 9px 0;
+    border-bottom: 1px solid #1e1e1e;
+    text-decoration: none;
+    color: #c0c0c0;
+    font-size: 13px;
+  }
+  .social-link:last-of-type { border-bottom: none; }
+  .social-link:hover { color: #fff; }
+  .social-icon { width: 20px; height: 20px; flex-shrink: 0; fill: #888; }
+  .modal-close-row { margin-top: 16px; display: flex; justify-content: flex-end; }
+
+  .btn-row { display: flex; justify-content: flex-end; margin-top: 6px; }
+  .btn {
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    background: #ff4000;
+    color: #fff;
+    border: 1px solid #cc3300;
+    padding: 6px 20px;
+    cursor: pointer;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+  }
+  .btn:hover { background: #cc3300; border-color: #aa2200; }
+  .btn:active { background: #aa2200; }

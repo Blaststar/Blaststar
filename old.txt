@@ -1,0 +1,49 @@
+    <!-- IDENTITY ROW: [badge+mark] [rank] [stripe/username] -->
+    <div class="identity-row">
+
+      <!-- Badge with mark overlaid on top -->
+      <div class="badge-stack">
+        <img src="wf/badges/Challenge_badge_114.png" alt="badge">
+        <img src="wf/marks/Challenge_mark_gold_05.png" alt="mark">
+      </div>
+
+      <!-- Rank icon — overlaps into left edge of stripe -->
+      <div class="rank-icon">
+        <img src="wf/ranks/Rank72.png" alt="rank">
+      </div>
+
+      <!-- Stripe — rank overlaps its left, username upper area -->
+      <div class="stripe-wrap">
+        <img class="stripe-img" src="wf/stripes/Challenge_strip_166.png" alt="stripe">
+        <div class="stripe-username">       
+          <div class="clan">Valor</div>
+          <div class="uname">Blaststar</div>
+        </div>
+      </div>
+
+    </div>
+
+    <!-- IDENTITY ROW: [badge+mark] [rank] [stripe/username] -->
+    <div class="identity-row">
+
+      <!-- Badge with mark overlaid on top -->
+      <div class="badge-stack">
+        <img src="wf/badges/Challenge_badge_bp07_07.png" alt="badge">
+        <img src="wf/marks/Challenge_mark_bp07_08.png" alt="mark">
+      </div>
+
+      <!-- Rank icon — overlaps into left edge of stripe -->
+      <div class="rank-icon">
+        <img src="wf/ranks/Rank72.png" alt="rank">
+      </div>
+
+      <!-- Stripe — rank overlaps its left, username upper area -->
+      <div class="stripe-wrap">
+        <img class="stripe-img" src="wf/stripes/Challenge_strip_bp07_04.png" alt="stripe">
+        <div class="stripe-username">       
+          <div class="clan">Valor</div>
+          <div class="uname">Blaststar</div>
+        </div>
+      </div>
+
+    </div>

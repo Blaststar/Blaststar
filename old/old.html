@@ -1,0 +1,456 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="icon" href="wf/favicon.ico">
+<title>Blaststar</title>
+<!-- /marks/Challenge_mark_cc01_02.png -->
+<meta property="og:title" content="Blaststar">
+<meta property="og:description" content="Self-taught developer and hobbyist.">
+<meta property="og:image" content="https://yourdomain.com/preview.png">
+<meta property="og:url" content="https://yourdomain.com">
+<meta property="og:type" content="website">
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Blaststar">
+<meta name="twitter:description" content="Self-taught developer and hobbyist.">
+<meta name="twitter:image" content="https://yourdomain.com/preview.png">
+</head>
+<!-- CSS and JS
+ <link rel="stylesheet" href="style.css">
+<script src="script.js" defer></script>
+-->
+<style>
+   * { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 13px;
+    background: #000;
+    color: #d0d0d0;
+    min-height: 100vh;
+  }
+
+  /* PAGE BACKGROUND */
+  .page-bg {
+    position: fixed;
+    inset: 0;
+    background: url('wf/afgan.jpg') center / cover no-repeat;
+    filter: brightness(0.45) saturate(0.5);
+    z-index: 0;
+  }
+
+  .wrapper {
+    position: relative;
+    z-index: 1;
+    max-width: 860px;
+    margin: 0 auto;
+    padding: 40px 16px 60px;
+  }
+
+  /* PROFILE CARD */
+  .profile-card {
+    background: #0a0a0a;
+    border: 1px solid #333;
+    padding: 20px 22px 24px;
+  }
+
+  /* ── IDENTITY ROW ── */
+  .identity-row {
+    display: flex;
+    align-items: center;
+    gap: 14px;
+    margin-bottom: 20px;
+  }
+
+  /* Badge + Mark: both same size, mark sits exactly on top of badge */
+  .badge-stack {
+    position: relative;
+    width: 96px;
+    height: 96px;
+    flex-shrink: 0;
+  }
+  .badge-stack img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 96px;
+    height: 96px;
+    object-fit: contain;
+  }
+  /* Placeholder */
+  .badge-ph {
+    position: absolute;
+    top: 0; left: 0;
+    width: 64px; height: 64px;
+    border: 1px solid #444;
+    background: #111;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #555;
+    font-size: 10px;
+    text-align: center;
+    line-height: 1.3;
+  }
+  .mark-ph {
+    position: absolute;
+    top: 0; left: 0;
+    width: 64px; height: 64px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #666;
+    font-size: 9px;
+    pointer-events: none;
+  }
+
+  /* Rank icon */
+  .rank-icon {
+    flex-shrink: 0;
+    width: 64px;
+    height: 64px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .rank-icon img {
+    width: 64px;
+    height: 64px;
+    object-fit: contain;
+  }
+  .rank-ph {
+    width: 64px;
+    height: 64px;
+    border: 1px solid #444;
+    background: #111;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #888;
+    font-size: 11px;
+  }
+
+  /* stripe 512x128, scaled to fit */
+  .stripe-wrap {
+    flex: 1;
+    position: relative;
+    height: 128px;
+    border: 1px solid #333;
+    background: #111;
+    overflow: hidden;
+  }
+  .stripe-wrap img.stripe-img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+  }
+  .stripe-ph {
+    width: 100%;
+    height: 100%;
+    background: #111;
+  }
+  .stripe-username {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding: 6px 12px 8px;
+    background: linear-gradient(to top, rgba(0,0,0,0.75) 0%, transparent 100%);
+  }
+  .stripe-username .uname {
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    color: #ffffff;
+    text-shadow: 1px 1px 3px #000, 0 0 6px rgba(0,0,0,0.8);
+  }
+
+  /* ── HR ── */
+  hr {
+    border: none;
+    border-top: 1px solid #2e2e2e;
+    margin: 16px 0;
+  }
+
+  /* ── SECTION HEADERS ── */
+  .section-title {
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 13px;
+    font-weight: bold;
+    color: #ffffff;
+    margin-bottom: 10px;
+  }
+
+  /* ── STATS TABLE ── */
+  .stats-table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  .stats-table td {
+    padding: 4px 6px;
+    font-size: 13px;
+    border-bottom: 1px solid #1c1c1c;
+  }
+  .stats-table tr:last-child td { border-bottom: none; }
+  .stats-table .lbl {
+    color: #888;
+    width: 48%;
+  }
+  .stats-table .val {
+    color: #d0d0d0;
+    text-align: right;
+    font-weight: bold;
+  }
+  /* Two-column layout: split into two side-by-side tables */
+  .stats-two-col {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 0 28px;
+  }
+
+  /* ── ABOUT ME ── */
+  .about-text {
+    color: #b0b0b0;
+    line-height: 1.7;
+    font-size: 12px;
+  }
+
+  /* ── NEWS ── */
+  .news-scroll {
+    max-height: 220px;
+    overflow-y: auto;
+    padding-right: 6px;
+  }
+  .news-scroll::-webkit-scrollbar { width: 6px; }
+  .news-scroll::-webkit-scrollbar-track { background: #111; }
+  .news-scroll::-webkit-scrollbar-thumb { background: #333; }
+  .news-scroll::-webkit-scrollbar-thumb:hover { background: #444; }
+  .news-item {
+    border-bottom: 1px solid #1e1e1e;
+    padding: 10px 0;
+  }
+  .news-item:first-child { padding-top: 0; }
+  .news-item:last-child { border-bottom: none; padding-bottom: 0; }
+  .news-header {
+    font-size: 13px;
+    font-weight: bold;
+    color: #ffffff;
+    margin-bottom: 4px;
+  }
+  .news-desc {
+    font-size: 12px;
+    color: #999;
+    line-height: 1.6;
+  }
+  a {
+    color: #ff4000;
+    text-decoration: none;
+  }
+  a:hover { text-decoration: underline; }
+
+  /* ── MODAL ── */
+  .modal-overlay {
+    display: none;
+    position: fixed;
+    inset: 0;
+    background: rgba(0,0,0,0.75);
+    z-index: 100;
+    align-items: center;
+    justify-content: center;
+  }
+  .modal-overlay.open { display: flex; }
+  .modal-box {
+    background: #0f0f0f;
+    border: 1px solid #333;
+    padding: 24px 28px;
+    min-width: 280px;
+    max-width: 360px;
+    width: 100%;
+  }
+  .modal-title {
+    font-size: 14px;
+    font-weight: bold;
+    color: #fff;
+    margin-bottom: 16px;
+  }
+  .social-link {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 9px 0;
+    border-bottom: 1px solid #1e1e1e;
+    text-decoration: none;
+    color: #c0c0c0;
+    font-size: 13px;
+  }
+  .social-link:last-of-type { border-bottom: none; }
+  .social-link:hover { color: #fff; }
+  .social-icon {
+    width: 20px;
+    height: 20px;
+    flex-shrink: 0;
+    fill: #888;
+  }
+  .modal-close-row {
+    margin-top: 16px;
+    display: flex;
+    justify-content: flex-end;
+  }
+
+  /* ── BUTTON ── */
+  .btn-row {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 6px;
+  }
+  .btn {
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    background: #ff4000;
+    color: #fff;
+    border: 1px solid #cc3300;
+    padding: 6px 20px;
+    cursor: pointer;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+  }
+  .btn:hover {
+    background: #cc3300;
+    border-color: #aa2200;
+  }
+  .btn:active {
+    background: #aa2200;
+  }
+</style>
+
+<body>
+
+<div class="page-bg"></div>
+
+<div class="wrapper">
+  <div class="profile-card">
+
+    <!-- IDENTITY ROW: badge+mark | rank | stripe -->
+    <div class="identity-row">
+
+      <!-- Badge with mark directly overlaid on top -->
+      <div class="badge-stack">
+          <img src="wf/badges/Challenge_badge_114.png" alt="badge">
+          <img src="wf/marks/Challenge_mark_gold_05.png" alt="mark">
+      </div>
+
+      <!-- Rank icon -->
+      <div class="rank-icon">
+            <img src="wf/ranks/Rank72.png" alt="rank">
+      </div>
+
+      <!-- stripe (512x128 native ratio) -->
+      <div class="stripe-wrap">
+        <img class="stripe-img" src="wf/stripes/Challenge_strip_166.png" alt="stripe">
+        <div class="stripe-username">
+          <div class="uname">Blaststar</div>
+        </div>
+      </div>
+
+    </div>
+
+    <hr>
+
+    <!-- ABOUT ME -->
+    <div class="section-title">About Me</div>
+    <p class="about-text">Hey, I'm Blaststar — a self-taught <span id="age-text"></span> year old developer and hobbyist who spends way too much time working on and making random things sporadically. I am currently working on a project called Envision which, to put it simply, is basically Discord but without the unnecessary bloat. I'm into retro web aesthetics, old-school community sites, and the general philosophy that software should do one thing and do it well. If you're here now, you probably found this site through a server list or just remember me from something I did, posted, or we met years ago — whatever the reason, I believe in fate. Feel free to add me via the socials provided below.</p>
+    <hr>
+
+    <!-- GAMES -->
+    <div class="section-title">Games</div>
+    <p class="about-text">My favorite online games of all time would have to be <a href='https://warface.com/' target='_blank'>Warface</a> (which this site is themed after), <a href='http://marvelrivals.gg/' target='_blank'>Marvel Rivals</a>, and <a href='https://www.rockstargames.com/gta-v' target='_blank'>Grand Theft Auto V</a>. However, for single player games that would have to be <a href='https://en.wikipedia.org/wiki/Middle-earth:_Shadow_of_War' target='_blank'>Shadow of War</a>, and <a href='https://en.wikipedia.org/wiki/God_of_War_(franchise)' target='_blank'>God of War</a>.</p>
+    <hr>
+
+    <!-- NEWS -->
+    <div class="section-title">News</div>
+    <div class="news-scroll" id="news-container">
+      <!-- populated by JS -->
+    </div>
+
+    <hr>
+
+    <div class="btn-row">
+      <button class="btn" onclick="document.getElementById('socials-modal').classList.add('open')">Socials</button>
+    </div>
+
+  </div>
+</div>
+
+<!-- SOCIALS MODAL -->
+<div class="modal-overlay" id="socials-modal">
+  <div class="modal-box">
+    <div class="modal-title">Socials</div>
+
+    <a class="social-link" href="https://discord.com/users/825142544576937984" target="_blank">
+      <svg class="social-icon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 256 199">
+        <path fill="currentColor" d="M216.856 16.597A208.5 208.5 0 0 0 164.042 0c-2.275 4.113-4.933 9.645-6.766 14.046q-29.538-4.442-58.533 0c-1.832-4.4-4.55-9.933-6.846-14.046a207.8 207.8 0 0 0-52.855 16.638C5.618 67.147-3.443 116.4 1.087 164.956c22.169 16.555 43.653 26.612 64.775 33.193A161 161 0 0 0 79.735 175.3a136.4 136.4 0 0 1-21.846-10.632a109 109 0 0 0 5.356-4.237c42.122 19.702 87.89 19.702 129.51 0a132 132 0 0 0 5.355 4.237a136 136 0 0 1-21.886 10.653c4.006 8.02 8.638 15.67 13.873 22.848c21.142-6.58 42.646-16.637 64.815-33.213c5.316-56.288-9.08-105.09-38.056-148.36M85.474 135.095c-12.645 0-23.015-11.805-23.015-26.18s10.149-26.2 23.015-26.2s23.236 11.804 23.015 26.2c.02 14.375-10.148 26.18-23.015 26.18m85.051 0c-12.645 0-23.014-11.805-23.014-26.18s10.148-26.2 23.014-26.2c12.867 0 23.236 11.804 23.015 26.2c0 14.375-10.148 26.18-23.015 26.18"></path>
+      </svg>
+      Discord — .blaststar
+    </a>
+
+    <a class="social-link" href="https://steamcommunity.com/id/Blaststar/" target="_blank">
+      <svg class="social-icon" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+        <path d="M11.979 0C5.678 0 .511 4.86.022 11.037l6.432 2.658c.545-.371 1.203-.59 1.912-.59.063 0 .125.004.188.006l2.861-4.142V8.91c0-2.495 2.028-4.524 4.524-4.524 2.494 0 4.524 2.031 4.524 4.527s-2.03 4.525-4.524 4.525h-.105l-4.076 2.911c0 .052.004.105.004.159 0 1.875-1.515 3.396-3.39 3.396-1.635 0-3.016-1.173-3.331-2.718L.436 15.27C1.862 20.307 6.486 24 11.979 24c6.627 0 11.999-5.373 11.999-12S18.606 0 11.979 0zM7.54 18.21l-1.473-.61c.262.543.714.999 1.314 1.25 1.297.539 2.793-.076 3.332-1.375.263-.63.264-1.319.005-1.949s-.75-1.121-1.377-1.383c-.624-.26-1.29-.249-1.878-.03l1.523.63c.956.4 1.409 1.5 1.009 2.455-.397.957-1.497 1.41-2.455 1.012H7.54zm11.415-9.303c0-1.662-1.353-3.015-3.015-3.015-1.665 0-3.015 1.353-3.015 3.015 0 1.665 1.35 3.015 3.015 3.015 1.662 0 3.015-1.35 3.015-3.015zm-5.273-.005c0-1.252 1.013-2.266 2.265-2.266 1.249 0 2.266 1.014 2.266 2.266 0 1.251-1.017 2.265-2.266 2.265-1.252 0-2.265-1.014-2.265-2.265z"/>
+      </svg>
+      Steam — Blaststar
+    </a>
+
+    <a class="social-link" href="https://github.com/Blaststar/" target="_blank">
+      <svg class="social-icon" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+        <path d="M12 .297c-6.63 0-12 5.373-12 12 0 5.303 3.438 9.8 8.205 11.385.6.113.82-.258.82-.577 0-.285-.01-1.04-.015-2.04-3.338.724-4.042-1.61-4.042-1.61C4.422 18.07 3.633 17.7 3.633 17.7c-1.087-.744.084-.729.084-.729 1.205.084 1.838 1.236 1.838 1.236 1.07 1.835 2.809 1.305 3.495.998.108-.776.417-1.305.76-1.605-2.665-.3-5.466-1.332-5.466-5.93 0-1.31.465-2.38 1.235-3.22-.135-.303-.54-1.523.105-3.176 0 0 1.005-.322 3.3 1.23.96-.267 1.98-.399 3-.405 1.02.006 2.04.138 3 .405 2.28-1.552 3.285-1.23 3.285-1.23.645 1.653.24 2.873.12 3.176.765.84 1.23 1.91 1.23 3.22 0 4.61-2.805 5.625-5.475 5.92.42.36.81 1.096.81 2.22 0 1.606-.015 2.896-.015 3.286 0 .315.21.69.825.57C20.565 22.092 24 17.592 24 12.297c0-6.627-5.373-12-12-12"/>
+      </svg>
+      GitHub — Blaststar
+    </a>
+
+    <div class="modal-close-row">
+      <button class="btn" onclick="document.getElementById('socials-modal').classList.remove('open')">Close</button>
+    </div>
+  </div>
+</div>
+</body>
+<script>
+  // Age calculation
+(function() {
+  const now = new Date();
+  const birth = new Date(2006, 8, 1); // (0-indexed)
+  let age = now.getFullYear() - birth.getFullYear();
+  if (now < new Date(now.getFullYear(), 7, 1)) age--;
+  document.getElementById('age-text').textContent = age;
+})();
+
+// Link example in description: <a href='https://github.com' target='_blank'>GitHub</a>
+
+const news = [
+  {
+    header: "Site Launched",
+    description: "After 500 years finally got around to making personal website. Built in plain HTML/CSS."
+  },
+  {
+    header: "Envision Development",
+    description: "Currently working on Envision, hope to release relatively soon, join the <a href='https://discord.com/invite/6f459fHsVZ' target='_blank'>Discord</a> to stay updated."
+  }
+];
+
+const container = document.getElementById('news-container');
+container.innerHTML = news.map(item => `
+  <div class="news-item">
+    <div class="news-header">${item.header}</div>
+    <div class="news-desc">${item.description}</div>
+  </div>
+`).join('');
+
+// Close modal on overlay click
+document.getElementById('socials-modal').addEventListener('click', function(e) {
+  if (e.target === this) this.classList.remove('open');
+});
+</script>
+</html>

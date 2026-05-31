@@ -1,0 +1,3 @@
+Darkest: #ff0000
+Dark: #ff4000
+Light: #ff4d00

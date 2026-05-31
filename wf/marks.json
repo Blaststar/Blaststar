@@ -1,0 +1,4552 @@
+[
+    {
+        "title": "Cheat death",
+        "imageName": "Challenge_mark_so_heist_01.png",
+        "description": "Complete The Heist without dying."
+    },
+    {
+        "title": "Good Doctor",
+        "imageName": "Challenge_mark_so_heist_02.png",
+        "description": "Restore 3,000 health to allies in Heist"
+    },
+    {
+        "title": "The Death Blow",
+        "imageName": "Challenge_mark_so_heist_03.png",
+        "description": "Destroy 10 Juggernauts on the rooftop in The Heist."
+    },
+    {
+        "title": "The bird is about to fly out.",
+        "imageName": "Challenge_mark_so_heist_04.png",
+        "description": "Destroy 25 helicopters in The Heist"
+    },
+    {
+        "title": "Tamer",
+        "imageName": "Challenge_mark_so_heist_05.png",
+        "description": "Destroy 25 Juggernauts in The Heist"
+    },
+    {
+        "title": "The holiday is coming",
+        "imageName": "Challenge_mark_so_heist_06.png",
+        "description": "Set off fireworks on the roof in The Heist"
+    },
+    {
+        "title": "Breath of the past",
+        "imageName": "Challenge_mark_so_heist_07.png",
+        "description": "Collect 100 exhibits in \"The Heist\""
+    },
+    {
+        "title": "Achieve success",
+        "imageName": "Challenge_mark_so_heist_08.png",
+        "description": "Steal money from the bank 100 times in Heist"
+    },
+    {
+        "title": "Immunity to bites",
+        "imageName": "Challenge_mark_swarm_01.png",
+        "description": "Complete the Swarm mission without dying."
+    },
+    {
+        "title": "Health swarm generation",
+        "imageName": "Challenge_mark_swarm_02.png",
+        "description": "Restore 5,000 health points to allies in the Swarm mission."
+    },
+    {
+        "title": "Killer of Kings and Queens",
+        "imageName": "Challenge_mark_swarm_03.png",
+        "description": "Complete the Swarm mission by hitting the boss 5 times."
+    },
+    {
+        "title": "Exterminator",
+        "imageName": "Challenge_mark_swarm_04.png",
+        "description": "Destroy 25 hives in the Swarm mission."
+    },
+    {
+        "title": "Burner",
+        "imageName": "Challenge_mark_swarm_05.png",
+        "description": "Kill 1,000 Arachnids with the Flamethrower in the Swarm mission."
+    },
+    {
+        "title": "Lost laptop",
+        "imageName": "Challenge_mark_swarm_06.png",
+        "description": "Activate 20 laptops in the Swarm mission."
+    },
+    {
+        "title": "So small, but already a kamikaze",
+        "imageName": "Challenge_mark_swarm_07.png",
+        "description": "Destroy 50 kamikaze arachnids in the Swarm mission."
+    },
+    {
+        "title": "Faster than the speed of light",
+        "imageName": "Challenge_mark_raid_01.png",
+        "description": "Complete Operation Blackwood with a strike on Quantum."
+    },
+    {
+        "title": "Second generation",
+        "imageName": "Challenge_mark_raid_02.png",
+        "description": "Complete Operation Blackwood by striking the Drone."
+    },
+    {
+        "title": "Argus lasers",
+        "imageName": "Challenge_mark_raid_03.png",
+        "description": "Complete Operation Blackwood by striking the Argus Reactor."
+    },
+    {
+        "title": "Dark Future",
+        "imageName": "Challenge_mark_raid_04.png",
+        "description": "Kill 1,000 enemies with a blaster in Operation Blackwood."
+    },
+    {
+        "title": "Air defense",
+        "imageName": "Challenge_mark_raid_05.png",
+        "description": "Destroy a helicopter in Operation Blackwood 15 times."
+    },
+    {
+        "title": "To hell and back",
+        "imageName": "Challenge_mark_raid_06.png",
+        "description": "Complete Operation Blackwood 15 times."
+    },
+    {
+        "title": "Invulnerable",
+        "imageName": "Challenge_mark_raid_07.png",
+        "description": "Complete Operation Blackwood without dying."
+    },
+    {
+        "title": "Black shadow",
+        "imageName": "Challenge_mark_raid_08.png",
+        "description": "Kill 1,000 enemies in Operation Blackwood using a suppressed weapon."
+    },
+    {
+        "title": "We'll go, we'll rush!",
+        "imageName": "Challenge_mark_pve_arena_01.png",
+        "description": "Secret achievement with unknown conditions"
+    },
+    {
+        "title": "Undermining the foundations",
+        "imageName": "Challenge_mark_pve_arena_02.png",
+        "description": "Kill 100 enemies with explosive barrels in the Hydra mission."
+    },
+    {
+        "title": "Apply it and everything will go away!",
+        "imageName": "Challenge_mark_pve_arena_03.png",
+        "description": "Restore 5,000 HP to allies in the Hydra mission."
+    },
+    {
+        "title": "Right on target!",
+        "imageName": "Challenge_mark_pve_arena_04.png",
+        "description": "Kill 300 enemies with headshots in the Hydra mission."
+    },
+    {
+        "title": "Thrifty shooter",
+        "imageName": "Challenge_mark_marsop_01.png",
+        "description": "Kill 500 enemies with headshots while aiming in the Mars mission."
+    },
+    {
+        "title": "Noble metal",
+        "imageName": "Challenge_mark_marsop_02.png",
+        "description": "Kill 1,000 enemies with golden weapons in the Mars mission."
+    },
+    {
+        "title": "I come in peace",
+        "imageName": "Challenge_mark_marsop_03.png",
+        "description": "Kill 1,000 enemies in the Mars mission."
+    },
+    {
+        "title": "Alive and well",
+        "imageName": "Challenge_mark_marsop_04.png",
+        "description": "Complete the Mars mission (Pro) 10 times"
+    },
+    {
+        "title": "Martian",
+        "imageName": "Challenge_mark_marsop_05.png",
+        "description": "Complete the Mars mission on Hard Mode without dying."
+    },
+    {
+        "title": "Reiki",
+        "imageName": "Challenge_mark_japan_01.png",
+        "description": "Restore 5,000 health points to allies in the Sunrise mission."
+    },
+    {
+        "title": "Kabuto",
+        "imageName": "Challenge_mark_japan_02.png",
+        "description": "Restore 5,000 armor points to allies in the Sunrise mission."
+    },
+    {
+        "title": "Steel Demon",
+        "imageName": "Challenge_mark_japan_03.png",
+        "description": "Destroy 20 SEDs with grenade launchers in the Sunrise mission (Pro)"
+    },
+    {
+        "title": "Fire Demon",
+        "imageName": "Challenge_mark_japan_04.png",
+        "description": "Destroy a SED with a flamethrower in the Sunrise mission (Pro)"
+    },
+    {
+        "title": "Deadly Duck",
+        "imageName": "Challenge_mark_japan_05.png",
+        "description": "Secret achievement with unknown conditions"
+    },
+    {
+        "title": "Rehabilitation program",
+        "imageName": "Challenge_mark_chernobil_01.png",
+        "description": "Restore 5,000 HP to allies in the Pripyat mission."
+    },
+    {
+        "title": "Blockade",
+        "imageName": "Challenge_mark_chernobil_02.png",
+        "description": "Destroy 5 APCs in the Pripyat mission"
+    },
+    {
+        "title": "Quacking Fire",
+        "imageName": "Challenge_mark_chernobil_03.png",
+        "description": "Secret achievement with unknown conditions"
+    },
+    {
+        "title": "Duck in apples",
+        "imageName": "Challenge_mark_chernobil_04.png",
+        "description": "Secret achievement with unknown conditions"
+    },
+    {
+        "title": "Under the wing",
+        "imageName": "Challenge_mark_chernobil_05.png",
+        "description": "Secret achievement with unknown conditions"
+    },
+    {
+        "title": "Duck hunting",
+        "imageName": "Challenge_mark_chernobil_06.png",
+        "description": "Secret achievement with unknown conditions"
+    },
+    {
+        "title": "Last bell",
+        "imageName": "Challenge_mark_chernobil_07.png",
+        "description": "Secret achievement with unknown conditions"
+    },
+    {
+        "title": "Dust-free work",
+        "imageName": "Challenge_mark_afro_05.png",
+        "description": "Complete the Eclipse mission (Easy)"
+    },
+    {
+        "title": "The path to the elite",
+        "imageName": "Challenge_mark_afro_06.png",
+        "description": "Kill 2,000 enemies in the Blackout mission using elite weapons ."
+    },
+    {
+        "title": "Face to face with the enemy",
+        "imageName": "Challenge_mark_afro_07.png",
+        "description": "Kill 100 enemies in the Blackout mission using melee weapons."
+    },
+    {
+        "title": "Search expedition",
+        "imageName": "Challenge_mark_ice_02.png",
+        "description": "Complete the Icebreaker mission (Easy)"
+    },
+    {
+        "title": "Living battering ram",
+        "imageName": "Challenge_mark_ice_03.png",
+        "description": "Kill 1,000 enemies in the Icebreaker mission."
+    },
+    {
+        "title": "A risky shot",
+        "imageName": "Challenge_mark_ice_04.png",
+        "description": "Kill 500 enemies with headshots while aiming ( Icebreaker )"
+    },
+    {
+        "title": "A born demolitionist",
+        "imageName": "Challenge_mark_ice_05.png",
+        "description": "Kill 100 enemies with the Rocket Launcher in the Icebreaker mission."
+    },
+    {
+        "title": "Unlimited Fury Ⅰ",
+        "imageName": "Challenge_mark_zsd02_01.png",
+        "description": "Kill 3,000 soldiers in the Black Shark mission."
+    },
+    {
+        "title": "Shark Tooth Ⅰ",
+        "imageName": "Challenge_mark_zsd02_04.png",
+        "description": "Kill 3,000 enemies with headshots in the Black Shark mission."
+    },
+    {
+        "title": "Unlimited Fury II",
+        "imageName": "Challenge_mark_zsd02_02.png",
+        "description": "Kill 5,000 soldiers in the Black Shark mission."
+    },
+    {
+        "title": "Shark Tooth II",
+        "imageName": "Challenge_mark_zsd02_05.png",
+        "description": "Kill 5,000 enemies with headshots in the Black Shark mission."
+    },
+    {
+        "title": "Unlimited Fury III",
+        "imageName": "Challenge_mark_zsd02_03.png",
+        "description": "Kill 10,000 soldiers in the Black Shark mission."
+    },
+    {
+        "title": "Shark Tooth Ⅲ",
+        "imageName": "Challenge_mark_zsd02_06.png",
+        "description": "Kill 10,000 enemies with headshots in Black Shark Special Operations."
+    },
+    {
+        "title": "Tomb Raider (Assault)",
+        "imageName": "Challenge_mark_afro_01.png",
+        "description": "Complete Operation Anubis (Hard) as a Stormtrooper 5 times"
+    },
+    {
+        "title": "Tomb Raider (Medic)",
+        "imageName": "Challenge_mark_afro_02.png",
+        "description": "Complete Operation Anubis (Hard) as a Medic 5 times"
+    },
+    {
+        "title": "Tomb Raider (Engineer)",
+        "imageName": "Challenge_mark_afro_03.png",
+        "description": "Complete Operation Anubis (Hard) as an Engineer 5 times"
+    },
+    {
+        "title": "Tomb Raider (sniper)",
+        "imageName": "Challenge_mark_afro_04.png",
+        "description": "Complete Operation Anubis (Hard) as a Sniper 5 times"
+    },
+    {
+        "title": "Volcano explorer",
+        "imageName": "Challenge_mark_vol_01.png",
+        "description": "Complete the Volcano mission (Easy)"
+    },
+    {
+        "title": "Turret Specialist",
+        "imageName": "Challenge_mark_vol_02.png",
+        "description": "Destroy 500 turrets in the Volcano mission."
+    },
+    {
+        "title": "Tactical expert",
+        "imageName": "Challenge_mark_vol_03.png",
+        "description": "Complete the Volcano mission on Hard Mode without dying."
+    },
+    {
+        "title": "Cleanup in the volcano",
+        "imageName": "Challenge_mark_vol_04.png",
+        "description": "Kill 1,000 enemies with headshots in the Volcano mission."
+    },
+    {
+        "title": "Exercise for the mind",
+        "imageName": "Challenge_mark_zsd_01.png",
+        "description": "Kill 2,000 zombies with headshots"
+    },
+    {
+        "title": "Shooter",
+        "imageName": "Challenge_mark_zsd_04.png",
+        "description": "Kill 10,000 zombies"
+    },
+    {
+        "title": "Headache treatment",
+        "imageName": "Challenge_mark_zsd_02.png",
+        "description": "Kill 5,000 zombies with headshots"
+    },
+    {
+        "title": "Monster",
+        "imageName": "Challenge_mark_zsd_05.png",
+        "description": "Kill 25,000 zombies"
+    },
+    {
+        "title": "A harsh sentence",
+        "imageName": "Challenge_mark_zsd_03.png",
+        "description": "Kill 10,000 zombies with headshots"
+    },
+    {
+        "title": "A real beast",
+        "imageName": "Challenge_mark_zsd_06.png",
+        "description": "Kill 50,000 zombies"
+    },
+    {
+        "title": "Migraine medicine",
+        "imageName": "Challenge_mark_zsd_10.png",
+        "description": "Kill 1,000 zombies with headshots using a pistol ."
+    },
+    {
+        "title": "Perfect precision",
+        "imageName": "Challenge_mark_zsd_09.png",
+        "description": "Earn 1,000 Zombie Hunter awards"
+    },
+    {
+        "title": "Mission \"Spearhead\" (attack aircraft)",
+        "imageName": "Challenge_mark_rw_03.png",
+        "description": "Complete the Spearhead mission as a Stormtrooper"
+    },
+    {
+        "title": "Mission \"Spearhead\" (Medic)",
+        "imageName": "Challenge_mark_rw_04.png",
+        "description": "Complete the Spearhead mission as a Medic"
+    },
+    {
+        "title": "Mission \"Spearhead\" (Engineer)",
+        "imageName": "Challenge_mark_rw_05.png",
+        "description": "Complete the Spearhead mission as an Engineer"
+    },
+    {
+        "title": "Mission \"Spearhead\" (sniper)",
+        "imageName": "Challenge_mark_rw_06.png",
+        "description": "Complete the Spearhead mission as a sniper"
+    },
+    {
+        "title": "Mission \"Ambush\" (attack aircraft)",
+        "imageName": "Challenge_mark_rw_07.png",
+        "description": "Complete the Ambush mission as a Stormtrooper"
+    },
+    {
+        "title": "Mission \"Ambush\" (Medic)",
+        "imageName": "Challenge_mark_rw_08.png",
+        "description": "Complete the Ambush mission as a medic ."
+    },
+    {
+        "title": "Mission \"Ambush\" (Engineer)",
+        "imageName": "Challenge_mark_rw_09.png",
+        "description": "Complete the Ambush mission as an Engineer"
+    },
+    {
+        "title": "Mission \"Ambush\" (sniper)",
+        "imageName": "Challenge_mark_rw_10.png",
+        "description": "Complete the Ambush mission as a sniper"
+    },
+    {
+        "title": "The show must go on",
+        "imageName": "Challenge_mark_rw_01.png",
+        "description": "Complete the Ambush mission without dying."
+    },
+    {
+        "title": "Musical cannonade",
+        "imageName": "Challenge_mark_rw_02.png",
+        "description": "Destroy the tower in the Zenith mission 100 times."
+    },
+    {
+        "title": "Mission \"Spearhead\" (SED)",
+        "imageName": "Challenge_mark_rw_14.png",
+        "description": "Complete the mission \"Spearhead\" as SED"
+    },
+    {
+        "title": "Mission \"Ambush\" (SED)",
+        "imageName": "Challenge_mark_rw_15.png",
+        "description": "Complete the mission \"Ambush\" for SED"
+    },
+    {
+        "title": "High five!",
+        "imageName": "Challenge_mark_sm_stage_05.png",
+        "description": "Complete 5 floors in a row in the White Shark mission."
+    },
+    {
+        "title": "Stronger than steel",
+        "imageName": "Challenge_mark_sm_stage_06.png",
+        "description": "Complete 6 floors in a row in the White Shark mission."
+    },
+    {
+        "title": "Higher and higher",
+        "imageName": "Challenge_mark_sm_stage_07.png",
+        "description": "Complete 7 floors in a row in the White Shark mission."
+    },
+    {
+        "title": "Evil Corporation",
+        "imageName": "Challenge_mark_sm_stage_08.png",
+        "description": "Complete 8 floors in a row in the White Shark mission."
+    },
+    {
+        "title": "Solution to the problem",
+        "imageName": "Challenge_mark_sm_stage_09.png",
+        "description": "Complete 9 floors in a row in the White Shark mission."
+    },
+    {
+        "title": "Office showdown",
+        "imageName": "Challenge_mark_sm_stage_10.png",
+        "description": "Complete 10 floors in a row in the White Shark mission."
+    },
+    {
+        "title": "Ascent",
+        "imageName": "Challenge_mark_sm_stage_11.png",
+        "description": "Complete 11 floors in a row in the White Shark mission."
+    },
+    {
+        "title": "The Dirty Dozen",
+        "imageName": "Challenge_mark_sm_stage_12.png",
+        "description": "Complete 12 floors in a row in the White Shark special operation."
+    },
+    {
+        "title": "Lucky number",
+        "imageName": "Challenge_mark_sm_stage_13.png",
+        "description": "Complete 13 floors in a row in the White Shark mission."
+    },
+    {
+        "title": "The performance is in full swing",
+        "imageName": "Challenge_mark_sm_stage_14.png",
+        "description": "Complete 14 floors in a row in the White Shark mission."
+    },
+    {
+        "title": "In the epicenter of the battle",
+        "imageName": "Challenge_mark_sm_stage_15.png",
+        "description": "Complete 15 floors in a row in the White Shark mission."
+    },
+    {
+        "title": "Going to Death",
+        "imageName": "Challenge_mark_sm_stage_16.png",
+        "description": "Complete 16 floors in a row in the White Shark mission."
+    },
+    {
+        "title": "An unequal fight",
+        "imageName": "Challenge_mark_sm_stage_17.png",
+        "description": "Complete 17 floors in a row in the White Shark mission."
+    },
+    {
+        "title": "Bloody Harvest",
+        "imageName": "Challenge_mark_sm_stage_18.png",
+        "description": "Complete 18 floors in a row in the White Shark mission."
+    },
+    {
+        "title": "Return from Hell",
+        "imageName": "Challenge_mark_sm_stage_19.png",
+        "description": "Complete 19 floors in a row in the White Shark mission."
+    },
+    {
+        "title": "Too big for the elevator",
+        "imageName": "Challenge_mark_sm_01.png",
+        "description": "Kill the Juggernaut in the White Shark mission."
+    },
+    {
+        "title": "Backup option",
+        "imageName": "Challenge_mark_40.png",
+        "description": "Kill a Juggernaut 10 times with a pistol ."
+    },
+    {
+        "title": "A desperate move",
+        "imageName": "Challenge_mark_41.png",
+        "description": "Kill a Juggernaut 100 times with a pistol ."
+    },
+    {
+        "title": "Unparalleled valor",
+        "imageName": "Challenge_mark_42.png",
+        "description": "Kill a Juggernaut with a pistol 500 times"
+    },
+    {
+        "title": "Scrap metal collector",
+        "imageName": "Challenge_mark_126.png",
+        "description": "Destroy 20 Thunder PBMs with any weapon on Easy difficulty."
+    },
+    {
+        "title": "Victory Banner",
+        "imageName": "Challenge_mark_11.png",
+        "description": "Win 10 matches in Conquest mode."
+    },
+    {
+        "title": "Team player",
+        "imageName": "Challenge_mark_43.png",
+        "description": "Win 10 matches in Team Deathmatch mode"
+    },
+    {
+        "title": "Iwo Jima",
+        "imageName": "Challenge_mark_27.png",
+        "description": "Win 100 matches in Conquest mode."
+    },
+    {
+        "title": "Together we are strong",
+        "imageName": "Challenge_mark_32.png",
+        "description": "Win 100 matches in Team Deathmatch mode"
+    },
+    {
+        "title": "A breathtaking spectacle",
+        "imageName": "Challenge_mark_92.png",
+        "description": "Win 1,000 matches in Conquest mode"
+    },
+    {
+        "title": "No compromises",
+        "imageName": "Challenge_mark_09.png",
+        "description": "Win 1,000 matches in Team Deathmatch mode"
+    },
+    {
+        "title": "Red button",
+        "imageName": "Challenge_mark_14.png",
+        "description": "Win 10 matches in Bomb It"
+    },
+    {
+        "title": "Total destruction",
+        "imageName": "Challenge_mark_12.png",
+        "description": "Win 10 matches in Elimination mode"
+    },
+    {
+        "title": "Lord of Bombs",
+        "imageName": "Challenge_mark_30.png",
+        "description": "Win 100 matches in Bomb It"
+    },
+    {
+        "title": "The embodiment of chaos",
+        "imageName": "Challenge_mark_28.png",
+        "description": "Win 100 matches in Destruction mode"
+    },
+    {
+        "title": "Explosives specialist",
+        "imageName": "Challenge_mark_80.png",
+        "description": "Win 1,000 matches in Bomb It"
+    },
+    {
+        "title": "Total destruction",
+        "imageName": "Challenge_mark_93.png",
+        "description": "Win 1,000 matches in Destruction mode"
+    },
+    {
+        "title": "Strong link",
+        "imageName": "Challenge_mark_15.png",
+        "description": "Win 10 matches in Assault mode"
+    },
+    {
+        "title": "Unanimous decision",
+        "imageName": "Challenge_mark_dm_04.png",
+        "description": "Win 100 matches in Domination mode"
+    },
+    {
+        "title": "Hurricane pressure",
+        "imageName": "Challenge_mark_31.png",
+        "description": "Win 100 matches in Assault mode"
+    },
+    {
+        "title": "A win-win strategy",
+        "imageName": "Challenge_mark_dm_05.png",
+        "description": "Win 500 matches in Domination mode"
+    },
+    {
+        "title": "Tornado",
+        "imageName": "Challenge_mark_36.png",
+        "description": "Win 1,000 matches in Assault mode"
+    },
+    {
+        "title": "Algorithm of victory",
+        "imageName": "Challenge_mark_dm_06.png",
+        "description": "Win 1,500 matches in Domination mode"
+    },
+    {
+        "title": "Keep your money in the cash register",
+        "imageName": "Challenge_mark_bank_01.png",
+        "description": "Win 10 Deposit matches in Capture mode"
+    },
+    {
+        "title": "Lighthouse keeper",
+        "imageName": "Challenge_mark_lhouse_01.png",
+        "description": "Win 10 matches on Lighthouse in Destruction mode"
+    },
+    {
+        "title": "Safe cracking",
+        "imageName": "Challenge_mark_bank_02.png",
+        "description": "Win 25 Deposit matches in Capture mode"
+    },
+    {
+        "title": "A ray of light in the darkness",
+        "imageName": "Challenge_mark_lhouse_02.png",
+        "description": "Win 25 matches on Lighthouse in Destruction mode"
+    },
+    {
+        "title": "Who wants to be a millionaire?",
+        "imageName": "Challenge_mark_bank_03.png",
+        "description": "Win 50 Deposit matches in Capture mode"
+    },
+    {
+        "title": "Guiding Light",
+        "imageName": "Challenge_mark_lhouse_03.png",
+        "description": "Win 50 matches on Lighthouse in Destruction mode"
+    },
+    {
+        "title": "A street hooligan",
+        "imageName": "Challenge_mark_dtown_01.png",
+        "description": "Win 10 matches on the Square in Team Deathmatch mode ."
+    },
+    {
+        "title": "The train is leaving.",
+        "imageName": "Challenge_mark_shuttle_01.png",
+        "description": "Win 10 matches on Terminal in Team Deathmatch mode ."
+    },
+    {
+        "title": "Local resident",
+        "imageName": "Challenge_mark_dtown_02.png",
+        "description": "Win 25 matches on the Square in Team Deathmatch mode ."
+    },
+    {
+        "title": "The Path to the Future",
+        "imageName": "Challenge_mark_shuttle_02.png",
+        "description": "Win 25 matches on Terminal in Team Deathmatch mode ."
+    },
+    {
+        "title": "King of the Concrete Jungle",
+        "imageName": "Challenge_mark_dtown_03.png",
+        "description": "Win 50 matches on the Square in Team Deathmatch mode ."
+    },
+    {
+        "title": "Don't mess with the train",
+        "imageName": "Challenge_mark_shuttle_03.png",
+        "description": "Win 50 matches on Terminal in Team Deathmatch mode ."
+    },
+    {
+        "title": "Overtime work",
+        "imageName": "Challenge_mark_factory_01.png",
+        "description": "Win 10 Factory matches in Bomb It"
+    },
+    {
+        "title": "The best place in the world",
+        "imageName": "Challenge_mark_palace_01.png",
+        "description": "Win 10 matches on Palace in Bomb It"
+    },
+    {
+        "title": "Heavy industry",
+        "imageName": "Challenge_mark_factory_02.png",
+        "description": "Win 25 Factory matches in Bomb It"
+    },
+    {
+        "title": "The palace of my dreams",
+        "imageName": "Challenge_mark_palace_02.png",
+        "description": "Win 25 matches on Palace in Bomb It"
+    },
+    {
+        "title": "Industrial magnate",
+        "imageName": "Challenge_mark_factory_03.png",
+        "description": "Win 50 Factory matches in Bomb It"
+    },
+    {
+        "title": "If I were a sultan",
+        "imageName": "Challenge_mark_palace_03.png",
+        "description": "Win 50 matches on Palace in Bomb It"
+    },
+    {
+        "title": "Stay alive",
+        "imageName": "Challenge_mark_13.png",
+        "description": "Take first place in the \"Meat Grinder\" mode 50 times"
+    },
+    {
+        "title": "Breadwinner",
+        "imageName": "Challenge_mark_dm_01.png",
+        "description": "Kill 500 enemies while capturing a point in Domination and Assault."
+    },
+    {
+        "title": "Bloody massacre",
+        "imageName": "Challenge_mark_29.png",
+        "description": "Take first place in the \"Meat Grinder\" mode 250 times"
+    },
+    {
+        "title": "Expropriator",
+        "imageName": "Challenge_mark_dm_02.png",
+        "description": "Kill 1,000 enemies while capturing a point in Domination and Assault."
+    },
+    {
+        "title": "A predator on the hunt",
+        "imageName": "Challenge_mark_87.png",
+        "description": "Take first place in the \"Meat Grinder\" mode 1,000 times"
+    },
+    {
+        "title": "Raider",
+        "imageName": "Challenge_mark_dm_03.png",
+        "description": "Kill 5,000 enemies while capturing a point in Domination and Assault."
+    },
+    {
+        "title": "Confirmed kills",
+        "imageName": "Challenge_mark_hunt_01.png",
+        "description": "Collect 25 tokens in Survival mode"
+    },
+    {
+        "title": "Cold souvenir",
+        "imageName": "Challenge_mark_winter_01.png",
+        "description": "Collect 10 tokens in Survival mode ( Siberia )"
+    },
+    {
+        "title": "Greetings from the past",
+        "imageName": "Challenge_mark_hunt_06.png",
+        "description": "Kill 50 enemies with mines in Survival mode."
+    },
+    {
+        "title": "Ice souvenir",
+        "imageName": "Challenge_mark_winter_02.png",
+        "description": "Collect 50 tokens in Survival mode ( Siberia )"
+    },
+    {
+        "title": "Explosive surprise",
+        "imageName": "Challenge_mark_hunt_07.png",
+        "description": "Kill 100 enemies with grenades in Survival mode."
+    },
+    {
+        "title": "Frozen souvenir",
+        "imageName": "Challenge_mark_winter_03.png",
+        "description": "Collect 100 tokens in Survival mode ( Siberia )"
+    },
+    {
+        "title": "Night Hunter-Medic",
+        "imageName": "Challenge_mark_hunt_02.png",
+        "description": "Kill 1,000 enemies in Survival mode while playing as a Medic."
+    },
+    {
+        "title": "Night Hunter-Assault",
+        "imageName": "Challenge_mark_hunt_03.png",
+        "description": "Kill 1,000 enemies in Survival mode while playing as a Stormtrooper ."
+    },
+    {
+        "title": "Night Hunter Engineer",
+        "imageName": "Challenge_mark_hunt_04.png",
+        "description": "Kill 1,000 enemies in Survival mode while playing as an Engineer ."
+    },
+    {
+        "title": "Night Hunter Sniper",
+        "imageName": "Challenge_mark_hunt_05.png",
+        "description": "Kill 1,000 enemies in Survival mode while playing as a Sniper ."
+    },
+    {
+        "title": "A well-placed strike",
+        "imageName": "Challenge_mark_20.png",
+        "description": "Kill 10 players with headshots (PvP)"
+    },
+    {
+        "title": "Silent Hunter",
+        "imageName": "Challenge_mark_07.png",
+        "description": "Kill 100 players with a silenced weapon."
+    },
+    {
+        "title": "Thug",
+        "imageName": "Challenge_mark_90.png",
+        "description": "Kill 100 players with headshots (PvP)"
+    },
+    {
+        "title": "Whisper of the Abyss",
+        "imageName": "Challenge_mark_08.png",
+        "description": "Kill 1,000 players with a silenced weapon."
+    },
+    {
+        "title": "Master of hand-to-hand combat",
+        "imageName": "Challenge_mark_91.png",
+        "description": "Kill 1,000 players with headshots (PvP)"
+    },
+    {
+        "title": "Death from nowhere",
+        "imageName": "Challenge_mark_82.png",
+        "description": "Kill 10,000 players with a silenced weapon."
+    },
+    {
+        "title": "One-two and done Ⅰ",
+        "imageName": "Challenge_mark_44.png",
+        "description": "Get 500 double kills in PvP"
+    },
+    {
+        "title": "Headhunting",
+        "imageName": "Challenge_mark_16.png",
+        "description": "Kill 100 enemies with headshots using any sniper rifle (PvP)"
+    },
+    {
+        "title": "One-two and done Ⅱ",
+        "imageName": "Challenge_mark_45.png",
+        "description": "Get 1,000 double kills in PvP"
+    },
+    {
+        "title": "Snake in the grass",
+        "imageName": "Challenge_mark_23.png",
+        "description": "Kill 100 players from prone position"
+    },
+    {
+        "title": "One-two and done Ⅲ",
+        "imageName": "Challenge_mark_46.png",
+        "description": "Get 2,500 double kills in PvP"
+    },
+    {
+        "title": "Dangerous cargo",
+        "imageName": "Challenge_mark_18.png",
+        "description": "Bring missile launch codes to your base 100 times"
+    },
+    {
+        "title": "Champion character",
+        "imageName": "Challenge_mark_26.png",
+        "description": "Place first on a winning team in a PvP match 100 times"
+    },
+    {
+        "title": "Master of Sabotage",
+        "imageName": "Challenge_mark_25.png",
+        "description": "Plant and detonate a bomb 100 times in Bomb mode."
+    },
+    {
+        "title": "Raider takeover",
+        "imageName": "Challenge_mark_blackgold_01.png",
+        "description": "Win 10 matches on Black Gold in Assault mode."
+    },
+    {
+        "title": "Recycling expert",
+        "imageName": "Challenge_mark_d17_01.png",
+        "description": "Win 10 matches on the D17 map in Plant the Bomb mode."
+    },
+    {
+        "title": "Pumping oil",
+        "imageName": "Challenge_mark_blackgold_02.png",
+        "description": "Win 25 matches on Black Gold in Assault mode."
+    },
+    {
+        "title": "Clearing the object",
+        "imageName": "Challenge_mark_d17_02.png",
+        "description": "Win 25 matches on the D17 map in Plant the Bomb mode."
+    },
+    {
+        "title": "Gold mine",
+        "imageName": "Challenge_mark_blackgold_03.png",
+        "description": "Win 50 matches on Black Gold in Assault mode."
+    },
+    {
+        "title": "Object Destroyer",
+        "imageName": "Challenge_mark_d17_03.png",
+        "description": "Win 50 matches on the D17 map in Plant the Bomb mode."
+    },
+    {
+        "title": "Laborer",
+        "imageName": "Challenge_mark_hangar_01.png",
+        "description": "Win 10 matches on the Hangar map in Team Deathmatch mode ."
+    },
+    {
+        "title": "Tanker captain",
+        "imageName": "Challenge_mark_oildepot_01.png",
+        "description": "Win 10 matches on the Oil Depot map in Team Deathmatch mode ."
+    },
+    {
+        "title": "Container loader",
+        "imageName": "Challenge_mark_hangar_02.png",
+        "description": "Win 25 matches on the Hangar map in Team Deathmatch mode ."
+    },
+    {
+        "title": "Financial tycoon",
+        "imageName": "Challenge_mark_oildepot_02.png",
+        "description": "Win 25 matches on the Oil Depot map in Team Deathmatch mode ."
+    },
+    {
+        "title": "Hangar manager",
+        "imageName": "Challenge_mark_hangar_03.png",
+        "description": "Win 50 matches on the Hangar map in Team Deathmatch mode ."
+    },
+    {
+        "title": "Oil tycoon",
+        "imageName": "Challenge_mark_oildepot_03.png",
+        "description": "Win 50 matches on the Oil Depot map in Team Deathmatch mode ."
+    },
+    {
+        "title": "Streets on fire",
+        "imageName": "Challenge_mark_streetwars_01.png",
+        "description": "Win 10 matches on the Quarter map in Team Deathmatch mode ."
+    },
+    {
+        "title": "Dark Path",
+        "imageName": "Challenge_mark_afghan_01.png",
+        "description": "Win 10 matches on the Alleys map in Plant the Bomb mode."
+    },
+    {
+        "title": "Urban riot",
+        "imageName": "Challenge_mark_streetwars_02.png",
+        "description": "Win 25 matches on the Quarter map in Team Deathmatch mode ."
+    },
+    {
+        "title": "Labyrinth of streets",
+        "imageName": "Challenge_mark_afghan_02.png",
+        "description": "Win 25 matches on the Alleys map in Plant the Bomb mode."
+    },
+    {
+        "title": "Battle for the Quarter",
+        "imageName": "Challenge_mark_streetwars_03.png",
+        "description": "Win 50 matches on the Quarter map in Team Deathmatch mode ."
+    },
+    {
+        "title": "Alley expert",
+        "imageName": "Challenge_mark_afghan_03.png",
+        "description": "Win 50 matches on the Alleys map in Plant the Bomb mode."
+    },
+    {
+        "title": "Where is the pilot?",
+        "imageName": "Challenge_mark_airbase_01.png",
+        "description": "Win 10 matches on the Airbase map in Team Deathmatch mode ."
+    },
+    {
+        "title": "Battle for the village",
+        "imageName": "Challenge_mark_aul_01.png",
+        "description": "Win 10 matches on the Village map in Team Deathmatch mode ."
+    },
+    {
+        "title": "Hard landing",
+        "imageName": "Challenge_mark_airbase_02.png",
+        "description": "Win 25 matches on the Airbase map in Team Deathmatch mode ."
+    },
+    {
+        "title": "Trip out of town",
+        "imageName": "Challenge_mark_aul_02.png",
+        "description": "Win 25 matches on the Village map in Team Deathmatch mode ."
+    },
+    {
+        "title": "A real ace",
+        "imageName": "Challenge_mark_airbase_03.png",
+        "description": "Win 50 matches on the Airbase map in Team Deathmatch mode ."
+    },
+    {
+        "title": "Liberator of the village",
+        "imageName": "Challenge_mark_aul_03.png",
+        "description": "Win 50 matches on the Village map in Team Deathmatch mode ."
+    },
+    {
+        "title": "Call of the Jungle",
+        "imageName": "Challenge_mark_crossriver_01.png",
+        "description": "Win 10 matches on the Crossing map in Team Deathmatch mode ."
+    },
+    {
+        "title": "Field work",
+        "imageName": "Challenge_mark_farm_01.png",
+        "description": "Win 10 matches on the Farm map in Team Deathmatch mode ."
+    },
+    {
+        "title": "Left bank, right bank",
+        "imageName": "Challenge_mark_crossriver_02.png",
+        "description": "Win 25 matches on the Crossing map in Team Deathmatch mode ."
+    },
+    {
+        "title": "A rich harvest",
+        "imageName": "Challenge_mark_farm_02.png",
+        "description": "Win 25 matches on the Farm map in Team Deathmatch mode ."
+    },
+    {
+        "title": "King of the Jungle",
+        "imageName": "Challenge_mark_crossriver_03.png",
+        "description": "Win 50 matches on the Crossing map in Team Deathmatch mode ."
+    },
+    {
+        "title": "The best farmer",
+        "imageName": "Challenge_mark_farm_03.png",
+        "description": "Win 50 matches on the Farm map in Team Deathmatch mode ."
+    },
+    {
+        "title": "Forward and only forward",
+        "imageName": "Challenge_mark_towers_01.png",
+        "description": "Win 10 matches on the Towers map in Destruction mode."
+    },
+    {
+        "title": "Blitz: Reconnaissance",
+        "imageName": "Challenge_mark_hawkrock_01.png",
+        "description": "Take first place on the Villa map 10 times"
+    },
+    {
+        "title": "Always on top",
+        "imageName": "Challenge_mark_towers_02.png",
+        "description": "Win 25 matches on the Towers map in Destruction mode."
+    },
+    {
+        "title": "Blitz: Pursuit",
+        "imageName": "Challenge_mark_hawkrock_02.png",
+        "description": "Take first place on the Villa map 25 times"
+    },
+    {
+        "title": "Torn Towers",
+        "imageName": "Challenge_mark_towers_03.png",
+        "description": "Win 50 matches on the Towers map in Destruction mode."
+    },
+    {
+        "title": "Blitz: rout",
+        "imageName": "Challenge_mark_hawkrock_03.png",
+        "description": "Take first place on the Villa map 50 times"
+    },
+    {
+        "title": "Object protection",
+        "imageName": "Challenge_mark_21.png",
+        "description": "Kill 10 players while holding the briefcase with the missile launch codes."
+    },
+    {
+        "title": "Brain explosion",
+        "imageName": "Challenge_mark_124.png",
+        "description": "Earn 5,000 Head-Blasters"
+    },
+    {
+        "title": "Nuclear threat",
+        "imageName": "Challenge_mark_22.png",
+        "description": "Kill 100 players while holding the briefcase with the missile launch codes."
+    },
+    {
+        "title": "Survival Master Class",
+        "imageName": "Challenge_mark_125.png",
+        "description": "Take first place in Survival mode 1,000 times"
+    },
+    {
+        "title": "Undercover agent",
+        "imageName": "Challenge_mark_37.png",
+        "description": "Kill 1,000 players while holding the briefcase with missile launch codes."
+    },
+    {
+        "title": "Float like a butterfly",
+        "imageName": "Challenge_mark_127.png",
+        "description": "Win 750 PvP matches without dying."
+    },
+    {
+        "title": "Rapid rise",
+        "imageName": "Challenge_mark_destination_01.png",
+        "description": "Win 10 matches on the Final Destination map in Plant the Bomb mode."
+    },
+    {
+        "title": "First batch",
+        "imageName": "Challenge_mark_dock_01.png",
+        "description": "Win 10 matches on the Dock map in Team Deathmatch mode ."
+    },
+    {
+        "title": "Cat on the roof",
+        "imageName": "Challenge_mark_destination_02.png",
+        "description": "Win 25 matches on Final Destination in Plant the Bomb mode."
+    },
+    {
+        "title": "Port Master",
+        "imageName": "Challenge_mark_dock_02.png",
+        "description": "Win 25 matches on the Dock map in Team Deathmatch."
+    },
+    {
+        "title": "You can't escape fate",
+        "imageName": "Challenge_mark_destination_03.png",
+        "description": "Win 50 matches on Final Destination in Plant the Bomb mode."
+    },
+    {
+        "title": "Cargo specialist",
+        "imageName": "Challenge_mark_dock_03.png",
+        "description": "Win 50 matches on the Dock map in Team Deathmatch."
+    },
+    {
+        "title": "Things are looking up",
+        "imageName": "Challenge_mark_highhill_01.png",
+        "description": "Win 10 matches on the Hills map in Assault mode."
+    },
+    {
+        "title": "Room for the night",
+        "imageName": "Challenge_mark_hotel_01.png",
+        "description": "Win 10 matches on the Motel map in Team Deathmatch mode ."
+    },
+    {
+        "title": "Conquering heights",
+        "imageName": "Challenge_mark_highhill_02.png",
+        "description": "Win 25 matches on the Hills map in Assault mode."
+    },
+    {
+        "title": "Regular customer",
+        "imageName": "Challenge_mark_hotel_02.png",
+        "description": "Win 25 matches on the Motel map in Team Deathmatch mode ."
+    },
+    {
+        "title": "Flag on the hill",
+        "imageName": "Challenge_mark_highhill_03.png",
+        "description": "Win 50 matches on the Hills map in Assault mode."
+    },
+    {
+        "title": "Personal apartments",
+        "imageName": "Challenge_mark_hotel_03.png",
+        "description": "Win 50 matches on the Motel map in Team Deathmatch mode ."
+    },
+    {
+        "title": "The Last Hero",
+        "imageName": "Challenge_mark_LMS_04.png",
+        "description": "Take first place in the Battle Royale mode"
+    },
+    {
+        "title": "The fruits of effort",
+        "imageName": "Challenge_mark_night_farm_01.png",
+        "description": "Win 10 matches on the Farm (Sunset) map in Team Deathmatch mode ."
+    },
+    {
+        "title": "Man of Steel",
+        "imageName": "Challenge_mark_LMS_03.png",
+        "description": "Place second in Battle Royale mode"
+    },
+    {
+        "title": "Evening Harvest",
+        "imageName": "Challenge_mark_night_farm_02.png",
+        "description": "Win 25 matches on the Farm (Sunset) map in Team Deathmatch mode ."
+    },
+    {
+        "title": "The Elusive Avenger",
+        "imageName": "Challenge_mark_LMS_02.png",
+        "description": "Place third in Battle Royale mode"
+    },
+    {
+        "title": "The cream of the crop",
+        "imageName": "Challenge_mark_night_farm_03.png",
+        "description": "Win 50 matches on the Farm (Sunset) map in Team Deathmatch mode ."
+    },
+    {
+        "title": "Aspiring killer",
+        "imageName": "Challenge_mark_LMS_01.png",
+        "description": "Kill 10 enemies in Battle Royale on the Mojave map"
+    },
+    {
+        "title": "A fiery party",
+        "imageName": "Challenge_mark_LMS_05.png",
+        "description": "Kill 10 enemies with explosives in Battle Royale mode."
+    },
+    {
+        "title": "A gas mask won't save you.",
+        "imageName": "Challenge_mark_LMSP_04.png",
+        "description": "Kill 100 enemies with headshots on the Exclusion Zone map."
+    },
+    {
+        "title": "Newbie stalker",
+        "imageName": "Challenge_mark_LMSP_01.png",
+        "description": "Take third place on the Exclusion Zone map"
+    },
+    {
+        "title": "Silent killer",
+        "imageName": "Challenge_mark_LMSP_05.png",
+        "description": "Kill 100 enemies with a silenced weapon on the Exclusion Zone map."
+    },
+    {
+        "title": "Survive in the Zone",
+        "imageName": "Challenge_mark_LMSP_02.png",
+        "description": "Take second place on the Exclusion Zone map"
+    },
+    {
+        "title": "Timeless classic",
+        "imageName": "Challenge_mark_LMSP_06.png",
+        "description": "Kill 100 enemies with WWII weapons on the Exclusion Zone map."
+    },
+    {
+        "title": "King of the Dead City",
+        "imageName": "Challenge_mark_LMSP_03.png",
+        "description": "Take first place on the Exclusion Zone map"
+    },
+    {
+        "title": "Fortress guard",
+        "imageName": "Challenge_mark_firstPlaceCTFLongway1.png",
+        "description": "Win 10 Fortress matches in Capture mode ."
+    },
+    {
+        "title": "On your own wavelength",
+        "imageName": "Challenge_mark_firstPlaceDeepWater1.png",
+        "description": "Win 10 matches on Platform in Blitz mode ."
+    },
+    {
+        "title": "Brave defender",
+        "imageName": "Challenge_mark_firstPlaceCTFLongway2.png",
+        "description": "Win 25 Fortress matches in Capture mode ."
+    },
+    {
+        "title": "Open sea",
+        "imageName": "Challenge_mark_firstPlaceDeepWater2.png",
+        "description": "Win 25 matches on Platform in Blitz mode ."
+    },
+    {
+        "title": "Lord of the Citadel",
+        "imageName": "Challenge_mark_firstPlaceCTFLongway3.png",
+        "description": "Win 50 Fortress matches in Capture mode ."
+    },
+    {
+        "title": "Base of operations",
+        "imageName": "Challenge_mark_firstPlaceDeepWater3.png",
+        "description": "Win 50 matches on Platform in Blitz mode ."
+    },
+    {
+        "title": "Decent pressure",
+        "imageName": "Challenge_mark_firstPlaceDMNSirius1.png",
+        "description": "Win 10 matches on Launch in Domination mode ."
+    },
+    {
+        "title": "With the declaration of war",
+        "imageName": "Challenge_mark_firstPlaceDMNSirius2.png",
+        "description": "Win 25 matches on Launch in Domination mode ."
+    },
+    {
+        "title": "Where I am, there is victory.",
+        "imageName": "Challenge_mark_firstPlaceDMNSirius3.png",
+        "description": "Win 50 matches on Launch in Domination mode ."
+    },
+    {
+        "title": "Excellent marksman",
+        "imageName": "Challenge_mark_firstPlaceSTMWarf1.png",
+        "description": "Win 10 battles at Shipyard in Assault mode ."
+    },
+    {
+        "title": "Fire without missing",
+        "imageName": "Challenge_mark_firstPlaceSTMWarf2.png",
+        "description": "Win 25 battles at Shipyard in Assault mode ."
+    },
+    {
+        "title": "Shipyard Invader",
+        "imageName": "Challenge_mark_firstPlaceSTMWarf3.png",
+        "description": "Win 50 battles at Shipyard in Assault mode ."
+    },
+    {
+        "title": "Pharaoh's Servant",
+        "imageName": "Challenge_mark_firstPlacePTBPyramid1.png",
+        "description": "Win 10 matches on Pyramid in Bomb Mode ."
+    },
+    {
+        "title": "The snake's mouth",
+        "imageName": "Challenge_mark_winSTMBlackmamba1.png",
+        "description": "Win 10 matches on Black Mamba in Assault mode ."
+    },
+    {
+        "title": "Pharaoh's bodyguard",
+        "imageName": "Challenge_mark_firstPlacePTBPyramid2.png",
+        "description": "Win 25 matches on Pyramid in Bomb Mode ."
+    },
+    {
+        "title": "Deadly Tangle",
+        "imageName": "Challenge_mark_winSTMBlackmamba2.png",
+        "description": "Win 25 matches on Black Mamba in Assault mode ."
+    },
+    {
+        "title": "The Great Pharaoh",
+        "imageName": "Challenge_mark_firstPlacePTBPyramid3.png",
+        "description": "Win 50 matches on Pyramid in Bomb Mode ."
+    },
+    {
+        "title": "Snake Eater",
+        "imageName": "Challenge_mark_winSTMBlackmamba3.png",
+        "description": "Win 50 matches on the Black Mamba in Assault mode ."
+    },
+    {
+        "title": "Stop, cut!",
+        "imageName": "Challenge_mark_xxx_marsdst_01.png",
+        "description": "Win 10 matches on Studio in Destruction mode ."
+    },
+    {
+        "title": "The scourge of doctors",
+        "imageName": "Challenge_mark_sed_kills_01.png",
+        "description": "Kill 100 Medics in PvP while playing as SED"
+    },
+    {
+        "title": "Premiere",
+        "imageName": "Challenge_mark_xxx_marsdst_02.png",
+        "description": "Win 25 matches on Studio in Destruction mode ."
+    },
+    {
+        "title": "Sniper liquidator",
+        "imageName": "Challenge_mark_sed_kills_02.png",
+        "description": "Kill 100 snipers in PvP while playing as SED"
+    },
+    {
+        "title": "Blockbuster",
+        "imageName": "Challenge_mark_xxx_marsdst_03.png",
+        "description": "Win 50 matches on Studio in Destruction mode ."
+    },
+    {
+        "title": "Stormtrooper Hunter",
+        "imageName": "Challenge_mark_sed_kills_03.png",
+        "description": "Kill 100 Stormtroopers in PvP while playing as the SED."
+    },
+    {
+        "title": "Night Hunter-SED",
+        "imageName": "Challenge_mark_hunt_08.png",
+        "description": "Kill 1,000 enemies in Survival mode while playing as the SED."
+    },
+    {
+        "title": "Engineer killer",
+        "imageName": "Challenge_mark_sed_kills_04.png",
+        "description": "Kill 100 engineers in PvP while playing as SED"
+    },
+    {
+        "title": "A couple of trifles",
+        "imageName": "Challenge_mark_firstPlaceCTFVault1.png",
+        "description": "Win 10 matches on the Sanctuary map in Conquest mode ."
+    },
+    {
+        "title": "Everything is under control",
+        "imageName": "Challenge_mark_firstPlacePTBBridgesup1.png",
+        "description": "Win 10 matches on the Bridges map in Plant the Bomb mode ."
+    },
+    {
+        "title": "You can't hide!",
+        "imageName": "Challenge_mark_firstPlaceCTFVault2.png",
+        "description": "Win 25 matches on the Sanctuary map in Conquest mode ."
+    },
+    {
+        "title": "Dangerous Bridge",
+        "imageName": "Challenge_mark_firstPlacePTBBridgesup2.png",
+        "description": "Win 25 matches on the Bridges map in Plant the Bomb mode ."
+    },
+    {
+        "title": "This is my land",
+        "imageName": "Challenge_mark_firstPlaceCTFVault3.png",
+        "description": "Win 50 matches on the Sanctuary map in Conquest mode ."
+    },
+    {
+        "title": "Bridge of Death",
+        "imageName": "Challenge_mark_firstPlacePTBBridgesup3.png",
+        "description": "Win 50 matches on the Bridges map in Plant the Bomb mode ."
+    },
+    {
+        "title": "I'll get you!",
+        "imageName": "Challenge_mark_firstPlaceTDMCodenameD181.png",
+        "description": "Win 10 matches on the Object D18 map in Team Deathmatch mode ."
+    },
+    {
+        "title": "I warn you, I am armed!",
+        "imageName": "Challenge_mark_winTBSWaterfalling1.png",
+        "description": "Win 10 matches on the Residence map in Blitz mode ."
+    },
+    {
+        "title": "Your song is sung",
+        "imageName": "Challenge_mark_firstPlaceTDMCodenameD182.png",
+        "description": "Win 25 matches on the Object D18 map in Team Deathmatch mode ."
+    },
+    {
+        "title": "Get out of my house!",
+        "imageName": "Challenge_mark_winTBSWaterfalling2.png",
+        "description": "Win 25 matches on the Residence map in Blitz mode ."
+    },
+    {
+        "title": "If you mess with the best, die like everyone else.",
+        "imageName": "Challenge_mark_firstPlaceTDMCodenameD183.png",
+        "description": "Win 50 matches on the Object D18 map in Team Deathmatch mode ."
+    },
+    {
+        "title": "Who's in charge here?",
+        "imageName": "Challenge_mark_winTBSWaterfalling3.png",
+        "description": "Win 50 matches on the Residence map in Blitz mode ."
+    },
+    {
+        "title": "Black Future",
+        "imageName": "Challenge_mark_blackstm_01.png",
+        "description": "Win 10 matches at Blackwood Base in Assault mode ."
+    },
+    {
+        "title": "Dead Streets",
+        "imageName": "Challenge_mark_ghosttown_01.png",
+        "description": "Win 10 matches on District 4 in Team Deathmatch ."
+    },
+    {
+        "title": "Black War",
+        "imageName": "Challenge_mark_blackstm_02.png",
+        "description": "Win 25 matches at Blackwood Base in Assault mode ."
+    },
+    {
+        "title": "Dead area",
+        "imageName": "Challenge_mark_ghosttown_02.png",
+        "description": "Win 25 matches on District 4 in Team Deathmatch ."
+    },
+    {
+        "title": "Black Apocalypse",
+        "imageName": "Challenge_mark_blackstm_03.png",
+        "description": "Win 50 matches at Blackwood Base in Assault mode ."
+    },
+    {
+        "title": "Dead City",
+        "imageName": "Challenge_mark_ghosttown_03.png",
+        "description": "Win 50 matches on District 4 in Team Deathmatch ."
+    },
+    {
+        "title": "Bomb on the outskirts",
+        "imageName": "Challenge_mark_winptb_district_up1.png",
+        "description": "Win 10 matches on Outskirts in Plant the Bomb mode ."
+    },
+    {
+        "title": "Poisoned Souvenir",
+        "imageName": "Challenge_mark_hnt_pripyat_collectdogtags_01.png",
+        "description": "Collect 10 tokens in Survival mode ( Ghost Town )"
+    },
+    {
+        "title": "Explosion on the outskirts",
+        "imageName": "Challenge_mark_winptb_district_up2.png",
+        "description": "Win 25 matches on Outskirts in Bomb It mode ."
+    },
+    {
+        "title": "Infected souvenir",
+        "imageName": "Challenge_mark_hnt_pripyat_collectdogtags_02.png",
+        "description": "Collect 100 tokens in Survival mode ( Ghost Town )"
+    },
+    {
+        "title": "Hell on the outskirts",
+        "imageName": "Challenge_mark_winptb_district_up3.png",
+        "description": "Win 50 matches on Outskirts in Bomb It mode ."
+    },
+    {
+        "title": "Radioactive souvenir",
+        "imageName": "Challenge_mark_hnt_pripyat_collectdogtags_03.png",
+        "description": "Collect 1000 tokens in Survival mode ( Ghost Town )"
+    },
+    {
+        "title": "Bandit on the \"Lane\"",
+        "imageName": "Challenge_mark_ffa_afghan_01.png",
+        "description": "Kill 250 enemies in the Alleys in Free for All mode."
+    },
+    {
+        "title": "Bandit on the Outskirts",
+        "imageName": "Challenge_mark_ffa_district_up_01.png",
+        "description": "Kill 250 enemies on Outskirts in Free for All mode."
+    },
+    {
+        "title": "The Killer on the Lanes",
+        "imageName": "Challenge_mark_ffa_afghan_02.png",
+        "description": "Kill 1000 enemies in the Lanes in Free for All mode."
+    },
+    {
+        "title": "Killer on the Outskirts",
+        "imageName": "Challenge_mark_ffa_district_up_02.png",
+        "description": "Kill 1000 enemies on Outskirts in Free for All mode."
+    },
+    {
+        "title": "The Ripper on the Lanes",
+        "imageName": "Challenge_mark_ffa_afghan_03.png",
+        "description": "Kill 2500 enemies in the Lanes in Free for All mode."
+    },
+    {
+        "title": "Ripper on the Outskirts",
+        "imageName": "Challenge_mark_ffa_district_up_03.png",
+        "description": "Kill 2500 enemies on Outskirts in Free for All mode."
+    },
+    {
+        "title": "Tunnel Bandit",
+        "imageName": "Challenge_mark_tdm_swarm_01.png",
+        "description": "Win 10 matches on the Tunnel map in Team Deathmatch mode ."
+    },
+    {
+        "title": "The best gift",
+        "imageName": "Challenge_mark_hangar_xmas_01.png",
+        "description": "Win 10 matches on the Hangar (New Year) map in Team Deathmatch mode ."
+    },
+    {
+        "title": "Tunnel killer",
+        "imageName": "Challenge_mark_tdm_swarm_02.png",
+        "description": "Win 25 matches on the Tunnel map in Team Deathmatch mode ."
+    },
+    {
+        "title": "More gifts needed!",
+        "imageName": "Challenge_mark_hangar_xmas_02.png",
+        "description": "Win 25 matches on the Hangar (New Year) map in Team Deathmatch mode ."
+    },
+    {
+        "title": "Tunnel Ripper",
+        "imageName": "Challenge_mark_tdm_swarm_03.png",
+        "description": "Win 50 matches on the Tunnel map in Team Deathmatch mode ."
+    },
+    {
+        "title": "You're Klaus!",
+        "imageName": "Challenge_mark_hangar_xmas_03.png",
+        "description": "Win 50 matches on the Hangar map (New Year) in Team Deathmatch mode ."
+    },
+    {
+        "title": "Young werewolf",
+        "imageName": "Challenge_mark_tbs_heist_01.png",
+        "description": "Win 10 matches in Bank in Blitz mode"
+    },
+    {
+        "title": "Adult werewolf",
+        "imageName": "Challenge_mark_tbs_heist_02.png",
+        "description": "Win 25 matches in Bank in Blitz mode"
+    },
+    {
+        "title": "A seasoned werewolf",
+        "imageName": "Challenge_mark_tbs_heist_03.png",
+        "description": "Win 50 matches in Bank in Blitz mode"
+    },
+    {
+        "title": "The beginning of a career",
+        "imageName": "Challenge_mark_01.png",
+        "description": "Reach rank 10"
+    },
+    {
+        "title": "Roaring Lion",
+        "imageName": "Challenge_mark_81.png",
+        "description": "Reach rank 70"
+    },
+    {
+        "title": "Playing for high stakes",
+        "imageName": "Challenge_mark_02.png",
+        "description": "Reach rank 30"
+    },
+    {
+        "title": "God of War",
+        "imageName": "Challenge_mark_119.png",
+        "description": "Reach rank 80"
+    },
+    {
+        "title": "Warface",
+        "imageName": "Challenge_mark_17.png",
+        "description": "Reach rank 60"
+    },
+    {
+        "title": "Long-awaited victory",
+        "imageName": "Challenge_mark_opencup_01.png",
+        "description": "Become the Warface Open Cup champion"
+    },
+    {
+        "title": "On the road to glory",
+        "imageName": "Challenge_mark_35.png",
+        "description": "Stay in the top 100 of the ratings until the end of the day"
+    },
+    {
+        "title": "Two-time champion",
+        "imageName": "Challenge_mark_opencup_02.png",
+        "description": "Become a two-time Warface Open Cup champion"
+    },
+    {
+        "title": "Rising star",
+        "imageName": "Challenge_mark_34.png",
+        "description": "Stay in the top ten of the rating until the end of the day"
+    },
+    {
+        "title": "The best of the best",
+        "imageName": "Challenge_mark_opencup_03.png",
+        "description": "Become a three-time Warface Open Cup champion"
+    },
+    {
+        "title": "King of the Hill",
+        "imageName": "Challenge_mark_33.png",
+        "description": "Stay in first place in the ranking until the end of the day"
+    },
+    {
+        "title": "Fast Cup Winner",
+        "imageName": "Challenge_mark_fastcup.png",
+        "description": "Become the winner of the Warface Fast Cup"
+    },
+    {
+        "title": "In the top ten!",
+        "imageName": "Challenge_mark_clan_race_01.png",
+        "description": "Reach the Elite League following the monthly clan race"
+    },
+    {
+        "title": "I'm following the trail",
+        "imageName": "Challenge_mark_winter_hunt01.png",
+        "description": "Register for the Winter Hunt tournament"
+    },
+    {
+        "title": "huntsman",
+        "imageName": "Challenge_mark_winter_hunt02.png",
+        "description": "Place between 50th and 100th in the Winter Hunt tournament"
+    },
+    {
+        "title": "St. John's wort",
+        "imageName": "Challenge_mark_winter_hunt03.png",
+        "description": "Place 16th to 49th in the Winter Hunt tournament"
+    },
+    {
+        "title": "Survival expert",
+        "imageName": "Challenge_mark_winter_hunt04.png",
+        "description": "Place 1-15 in the Winter Hunt tournament"
+    },
+    {
+        "title": "First place in the clan race",
+        "imageName": "Challenge_mark_cw_01.png",
+        "description": "Take first place in the clan race"
+    },
+    {
+        "title": "Second place in the clan race",
+        "imageName": "Challenge_mark_cw_02.png",
+        "description": "Take second place in the clan race"
+    },
+    {
+        "title": "Third place in the clan race",
+        "imageName": "Challenge_mark_cw_03.png",
+        "description": "Take third place in the clan race"
+    },
+    {
+        "title": "Competitive spirit",
+        "imageName": "Challenge_mark_AW_05.png",
+        "description": "Take part in the Atlas of War tournament"
+    },
+    {
+        "title": "The path to the podium",
+        "imageName": "Challenge_mark_AW_06.png",
+        "description": "Place third in the Atlas of War tournament"
+    },
+    {
+        "title": "One step away from triumph",
+        "imageName": "Challenge_mark_AW_07.png",
+        "description": "Take second place in the Atlas of War tournament"
+    },
+    {
+        "title": "Victory or death",
+        "imageName": "Challenge_mark_AW_08.png",
+        "description": "Take first place in the Atlas of War tournament"
+    },
+    {
+        "title": "Bronze skull",
+        "imageName": "Challenge_mark_ap_02.png",
+        "description": "Take 3rd place in the Absolute Power tournament"
+    },
+    {
+        "title": "Silver Skull",
+        "imageName": "Challenge_mark_ap_03.png",
+        "description": "Take 2nd place in the Absolute Power tournament"
+    },
+    {
+        "title": "Golden Skull",
+        "imageName": "Challenge_mark_ap_04.png",
+        "description": "Take 1st place in the Absolute Power tournament"
+    },
+    {
+        "title": "KIWI tournament participant",
+        "imageName": "Challenge_mark_kiwi_18.png",
+        "description": "Take part in the KIWI tournament"
+    },
+    {
+        "title": "KIWI tournament bronze",
+        "imageName": "Challenge_mark_kiwi_19.png",
+        "description": "Take third place in the KIWI tournament"
+    },
+    {
+        "title": "Silver at the KIWI tournament",
+        "imageName": "Challenge_mark_kiwi_20.png",
+        "description": "Take second place in the KIWI tournament"
+    },
+    {
+        "title": "KIWI Tournament Gold",
+        "imageName": "Challenge_mark_kiwi_21.png",
+        "description": "Take first place in the KIWI tournament"
+    },
+    {
+        "title": "Participant of the Syndicate tournament",
+        "imageName": "Challenge_mark_bp05_05.png",
+        "description": "Take part in the Syndicate tournament"
+    },
+    {
+        "title": "Bronze of the Syndicate tournament",
+        "imageName": "Challenge_mark_bp05_06.png",
+        "description": "Take third place in the Syndicate tournament"
+    },
+    {
+        "title": "Silver of the Syndicate tournament",
+        "imageName": "Challenge_mark_bp05_07.png",
+        "description": "Take second place in the Syndicate tournament"
+    },
+    {
+        "title": "Gold of the Syndicate tournament",
+        "imageName": "Challenge_mark_bp05_08.png",
+        "description": "Take first place in the Syndicate tournament"
+    },
+    {
+        "title": "Participant in the \"Armageddon\" tournament",
+        "imageName": "Challenge_mark_bp06_01.png",
+        "description": "Take part in the Armageddon tournament"
+    },
+    {
+        "title": "Armageddon Tournament Bronze",
+        "imageName": "Challenge_mark_bp06_02.png",
+        "description": "Take third place in the Armageddon tournament"
+    },
+    {
+        "title": "Silver in the Armageddon tournament",
+        "imageName": "Challenge_mark_bp06_03.png",
+        "description": "Take second place in the Armageddon tournament"
+    },
+    {
+        "title": "Armageddon Tournament Gold",
+        "imageName": "Challenge_mark_bp06_04.png",
+        "description": "Take first place in the Armageddon tournament"
+    },
+    {
+        "title": "The habit of winning",
+        "imageName": "Challenge_mark_rg.png",
+        "description": "Collect all 12 League One badges"
+    },
+    {
+        "title": "Die is cast",
+        "imageName": "Challenge_mark_bp07_07.png",
+        "description": "Take part in one of the Berserk tournaments"
+    },
+    {
+        "title": "Hero of the month",
+        "imageName": "Challenge_mark_winners_01.png",
+        "description": "Become a winner of the monthly tournament"
+    },
+    {
+        "title": "Decisive matches",
+        "imageName": "Challenge_mark_xxxx_wlan_03.png",
+        "description": "Take part in the LAN finals"
+    },
+    {
+        "title": "Challenge accepted",
+        "imageName": "Challenge_mark_bp08_07.png",
+        "description": "Take part in one of the Blackwood tournaments"
+    },
+    {
+        "title": "Ascent to Olympus",
+        "imageName": "Challenge_mark_bp09_08.png",
+        "description": "Take part in one of the Gorgon event tournaments"
+    },
+    {
+        "title": "Moving forward",
+        "imageName": "Challenge_mark_mth_01.png",
+        "description": "PVP Daily Tournament Winner"
+    },
+    {
+        "title": "No one but us",
+        "imageName": "Challenge_mark_mth_02.png",
+        "description": "PVP Daily Rate Tournament Winner"
+    },
+    {
+        "title": "Valkyrie",
+        "imageName": "Challenge_mark_valkyrie_01.png",
+        "description": "Take part in the Valkyrie Cup tournament"
+    },
+    {
+        "title": "Thor's Hammer",
+        "imageName": "Challenge_mark_valkyrie_02.png",
+        "description": "Become the best assault trooper at the Valkyrie Cup tournament"
+    },
+    {
+        "title": "Odin's Spear",
+        "imageName": "Challenge_mark_valkyrie_03.png",
+        "description": "Become the top sniper at the Valkyrie Cup tournament"
+    },
+    {
+        "title": "Horn of Heimdall",
+        "imageName": "Challenge_mark_valkyrie_04.png",
+        "description": "Become the best engineer at the Valkyrie Cup tournament"
+    },
+    {
+        "title": "Freya's Blade",
+        "imageName": "Challenge_mark_valkyrie_05.png",
+        "description": "Become the best medic in the Valkyrie Cup tournament"
+    },
+    {
+        "title": "The creation of the dwarves",
+        "imageName": "Challenge_mark_valkyrie_06.png",
+        "description": "Become the best SED at the Valkyrie Cup tournament"
+    },
+    {
+        "title": "There is no time to think",
+        "imageName": "Challenge_mark_bp10_07.png",
+        "description": "Take part in one of the Dark Samurai event tournaments"
+    },
+    {
+        "title": "Clear goal",
+        "imageName": "Challenge_mark_pro_01.png",
+        "description": "Become a member of PRO.Challengers"
+    },
+    {
+        "title": "One step away from victory",
+        "imageName": "Challenge_mark_pro_02.png",
+        "description": "Become a PRO.Challengers finalist"
+    },
+    {
+        "title": "PRO.Challengers Winner",
+        "imageName": "Challenge_mark_pro_03.png",
+        "description": "Become a PRO.Challengers winner"
+    },
+    {
+        "title": "Clan War Leaders",
+        "imageName": "Challenge_mark_cc01_01.png",
+        "description": "Become the strongest clan on the server during the Clans Cup"
+    },
+    {
+        "title": "Keeper of the hearth",
+        "imageName": "Challenge_mark_cc01_02.png",
+        "description": "Officer or Head of the strongest clan on your server"
+    },
+    {
+        "title": "Bloodletter's Trophy",
+        "imageName": "Challenge_mark_rm_firstplace_01.png",
+        "description": "Become the best player on the winning team in ranked matches 10 times"
+    },
+    {
+        "title": "Battle Cup: Best Player",
+        "imageName": "Challenge_mark_bc_01.png",
+        "description": "Become the best player in the Battle Cup tournament"
+    },
+    {
+        "title": "Sniper of the Year",
+        "imageName": "Challenge_mark_esports_01.png",
+        "description": "Best Sniper of the year"
+    },
+    {
+        "title": "Medic of the Year",
+        "imageName": "Challenge_mark_esports_02.png",
+        "description": "Best Medic of the Year"
+    },
+    {
+        "title": "Stormtrooper of the Year",
+        "imageName": "Challenge_mark_esports_03.png",
+        "description": "Best Stormtrooper of the year"
+    },
+    {
+        "title": "Engineer of the Year",
+        "imageName": "Challenge_mark_esports_04.png",
+        "description": "Best Engineer of the Year"
+    },
+    {
+        "title": "To victory, ArenaStars!",
+        "imageName": "Challenge_mark_esports09.png",
+        "description": "ArenaStars fan badge, participant of PRO.Fall 2021"
+    },
+    {
+        "title": "To victory, Awinaw!",
+        "imageName": "Challenge_mark_esports10.png",
+        "description": "A fan badge for Team Awinaw, a participant in PRO.Fall 2021"
+    },
+    {
+        "title": "To victory, Major!",
+        "imageName": "Challenge_mark_esports11.png",
+        "description": "A fan badge for Team Major, a participant in PRO.Fall 2021."
+    },
+    {
+        "title": "To victory, Rebellion!",
+        "imageName": "Challenge_mark_esports12.png",
+        "description": "A fan badge for the Rebellion team, a participant in PRO.Fall 2021."
+    },
+    {
+        "title": "To victory, Repulse!",
+        "imageName": "Challenge_mark_esports13.png",
+        "description": "A fan badge for Team Repulse, a participant in PRO.Fall 2021."
+    },
+    {
+        "title": "To victory, Svoyaki!",
+        "imageName": "Challenge_mark_esports14.png",
+        "description": "A fan badge for Svoyaki, a participant in PRO.Fall 2021."
+    },
+    {
+        "title": "To victory, WII!",
+        "imageName": "Challenge_mark_esports15.png",
+        "description": "A fan badge for Team WII, a participant in PRO.Fall 2021."
+    },
+    {
+        "title": "To victory, Young!",
+        "imageName": "Challenge_mark_esports16.png",
+        "description": "A fan badge for Team Young, a participant in PRO.Fall 2021"
+    },
+    {
+        "title": "To victory, Infer!",
+        "imageName": "Challenge_mark_esports17.png",
+        "description": "A fan badge for Team Infer, a participant in PRO.Fall 2021."
+    },
+    {
+        "title": "Animal Fury",
+        "imageName": "Challenge_mark_rating04.png",
+        "description": "A true hunter never gets too close to his prey."
+    },
+    {
+        "title": "Warface Pro: Best Engineer",
+        "imageName": "Challenge_mark_esport_pro01_engineer.png",
+        "description": "Secret achievement with unknown conditions"
+    },
+    {
+        "title": "Warface Pro: Best Medic",
+        "imageName": "Challenge_mark_esport_pro01_medic.png",
+        "description": "Secret achievement with unknown conditions"
+    },
+    {
+        "title": "Warface Pro: The Best Sniper",
+        "imageName": "Challenge_mark_esport_pro01_sniper.png",
+        "description": "Secret achievement with unknown conditions"
+    },
+    {
+        "title": "Warface Pro: The Best Assault Player",
+        "imageName": "Challenge_mark_esport_pro01_soldier.png",
+        "description": "Secret achievement with unknown conditions"
+    },
+    {
+        "title": "Assault squad",
+        "imageName": "Challenge_mark_rifleman_01.png",
+        "description": "Collect all Stormtrooper series trading cards"
+    },
+    {
+        "title": "First aid",
+        "imageName": "Challenge_mark_medic_01.png",
+        "description": "Collect all Medic series trading cards"
+    },
+    {
+        "title": "Explosives fan",
+        "imageName": "Challenge_mark_engineer_01.png",
+        "description": "Collect all Engineer series trading cards"
+    },
+    {
+        "title": "The fatal shot",
+        "imageName": "Challenge_mark_sniper_01.png",
+        "description": "Collect all Sniper Series trading cards"
+    },
+    {
+        "title": "One of our own",
+        "imageName": "Challenge_mark_meetings01.png",
+        "description": "Attend a players' meeting"
+    },
+    {
+        "title": "Connoisseur",
+        "imageName": "Challenge_mark_znatok.png",
+        "description": "Collect 500 best answers on the forum"
+    },
+    {
+        "title": "The host of the holiday",
+        "imageName": "Challenge_mark_NY_marathon_01.png",
+        "description": "Complete one task of the 2015–2016 New Year's Marathon"
+    },
+    {
+        "title": "First throw",
+        "imageName": "Challenge_mark_NYM_marathon_02.png",
+        "description": "Complete one task of the 2016–2017 New Year's Marathon"
+    },
+    {
+        "title": "Bread and circuses!",
+        "imageName": "Challenge_mark_watcher.png",
+        "description": "Collect all the Champion's Heart trading cards ."
+    },
+    {
+        "title": "Man versus machine",
+        "imageName": "Challenge_mark_man.png",
+        "description": "Collect all Man vs. Machine trading cards"
+    },
+    {
+        "title": "Peace to the world",
+        "imageName": "Challenge_mark_peace.png",
+        "description": "Collect all Spring Harvest trading cards"
+    },
+    {
+        "title": "Hidden Strike",
+        "imageName": "Challenge_mark_skull.png",
+        "description": "Collect all Skull Series trading cards"
+    },
+    {
+        "title": "Some people play football, we live it!",
+        "imageName": "Challenge_mark_euro2016.png",
+        "description": "We are the champions!"
+    },
+    {
+        "title": "Weapons of Victory",
+        "imageName": "Challenge_mark_gun.png",
+        "description": "Successfully complete 100 operations in Vulcan: Standoff"
+    },
+    {
+        "title": "Brainstorming",
+        "imageName": "Challenge_mark_brainstorm.png",
+        "description": "Collect all Brain Activity trading cards"
+    },
+    {
+        "title": "Participant of the season \"Siege\"",
+        "imageName": "Challenge_mark_tower_OK.png",
+        "description": "Collect all Siege series trading cards"
+    },
+    {
+        "title": "A view from the underworld",
+        "imageName": "Challenge_mark_magmaeye_01.png",
+        "description": "You could get it for participating in the \"Magma as a Gift\" promotion."
+    },
+    {
+        "title": "Aspiring hacker",
+        "imageName": "Challenge_mark_note_01.png",
+        "description": "Hack the Mysterious Laptop"
+    },
+    {
+        "title": "Something went wrong",
+        "imageName": "Challenge_mark_secret_01.png",
+        "description": "Secret achievement with unknown conditions"
+    },
+    {
+        "title": "Large caliber",
+        "imageName": "Challenge_mark_secret_02.png",
+        "description": "Secret achievement with unknown conditions"
+    },
+    {
+        "title": "Clash of Heads",
+        "imageName": "Challenge_mark_secret_03.png",
+        "description": "Secret achievement with unknown conditions"
+    },
+    {
+        "title": "The game is a 5!",
+        "imageName": "Challenge_mark_play_05.png",
+        "description": "Collect all 5 Years series trading cards"
+    },
+    {
+        "title": "Steel Atlas",
+        "imageName": "Challenge_mark_AW_04.png",
+        "description": "Reach level 25 in the Atlas of War"
+    },
+    {
+        "title": "Bronze Atlas",
+        "imageName": "Challenge_mark_AW_03.png",
+        "description": "Reach level 50 in the Atlas of War"
+    },
+    {
+        "title": "Silver Satin",
+        "imageName": "Challenge_mark_AW_02.png",
+        "description": "Reach level 75 in the Atlas of War"
+    },
+    {
+        "title": "Golden Atlas",
+        "imageName": "Challenge_mark_AW_01.png",
+        "description": "Reach level 100 in the Atlas of War"
+    },
+    {
+        "title": "Parties are my thing",
+        "imageName": "Challenge_mark_AW_ticket.png",
+        "description": "For WarFest 2017 ticket holders"
+    },
+    {
+        "title": "At high speeds",
+        "imageName": "Challenge_mark_race.png",
+        "description": "For completing individual tasks in the server race"
+    },
+    {
+        "title": "Jan Hus Memorial Day",
+        "imageName": "Challenge_mark_nb_09.png",
+        "description": "Kill 1415 enemies with the CZ 75-Auto , Skorpion vz. 83 , and CZ Scorpion Evo3 A1"
+    },
+    {
+        "title": "Independence Day of the United States",
+        "imageName": "Challenge_mark_nb_01.png",
+        "description": "Kill 1,776 enemies with the M4A1 , Remington 870 , Colt M1911A1 , or Ka-Bar."
+    },
+    {
+        "title": "Bastille Day",
+        "imageName": "Challenge_mark_nb_02.png",
+        "description": "Kill 1789 enemies with the Famas F1 , Calico M950 , or Beretta M93R."
+    },
+    {
+        "title": "German Unity Day",
+        "imageName": "Challenge_mark_nb_03.png",
+        "description": "Kill 1990 enemies with the H&K MP7 , MP5 , G36K , MG36 , SL8 , USP or UMP"
+    },
+    {
+        "title": "Republic Day in Turkey",
+        "imageName": "Challenge_mark_nb_04.png",
+        "description": "Kill 1923 enemies with the Anakon , FN SCAR-H , Tavor TAR-21 , or RPK."
+    },
+    {
+        "title": "Poland's Independence Day",
+        "imageName": "Challenge_mark_nb_05.png",
+        "description": "Kill 1918 enemies with the MSBS Radon , PM-84 , SIG 551 , P226 , Five-Seven , or FN P90."
+    },
+    {
+        "title": "Treaty of the Union",
+        "imageName": "Challenge_mark_nb_06.png",
+        "description": "Kill 1707 enemies with the M249 Para , Enfield L85A2 , AWM , MPA10SST-X , M4 CQB , AT308"
+    },
+    {
+        "title": "Columbus Day",
+        "imageName": "Challenge_mark_nb_07.png",
+        "description": "Kill 1492 enemies with the Barrett M98B , MG4 , AUG A3 Hbar or ACR"
+    },
+    {
+        "title": "Republic Day in Italy",
+        "imageName": "Challenge_mark_nb_08.png",
+        "description": "Kill 1946 enemies with the SPAS-15 , SAT 8 Pro , Benelli M4 , Beretta MX4 , ARX160"
+    },
+    {
+        "title": "Future celebrity",
+        "imageName": "Challenge_mark_97.png",
+        "description": "Get 25,000 subscribers"
+    },
+    {
+        "title": "Silver button",
+        "imageName": "Challenge_mark_98.png",
+        "description": "Reach 100,000 subscribers"
+    },
+    {
+        "title": "A quarter of a million",
+        "imageName": "Challenge_mark_99.png",
+        "description": "Reach 250,000 subscribers"
+    },
+    {
+        "title": "The Hippocratic Oath",
+        "imageName": "Challenge_mark_ap_05.png",
+        "description": "Perform 50 Medic surgeries in Absolute Power"
+    },
+    {
+        "title": "Reliable cover",
+        "imageName": "Challenge_mark_ap_06.png",
+        "description": "Complete 50 Sniper Operations in Absolute Power"
+    },
+    {
+        "title": "Unstoppable onslaught",
+        "imageName": "Challenge_mark_ap_07.png",
+        "description": "Complete 50 Stormtrooper missions in Absolute Power."
+    },
+    {
+        "title": "Technological superiority",
+        "imageName": "Challenge_mark_ap_08.png",
+        "description": "Complete 50 Engineer Operations in Absolute Power"
+    },
+    {
+        "title": "Handyman",
+        "imageName": "Challenge_mark_ap_09.png",
+        "description": "Complete 100 Universal Operations in Absolute Power"
+    },
+    {
+        "title": "The Elite in Action",
+        "imageName": "Challenge_mark_ap_10.png",
+        "description": "Complete 100 Elite Operations in Absolute Power"
+    },
+    {
+        "title": "Absolute Power Ⅰ",
+        "imageName": "Challenge_mark_ap_11.png",
+        "description": "Reach level 25 in Absolute Power"
+    },
+    {
+        "title": "Absolute Power II",
+        "imageName": "Challenge_mark_ap_12.png",
+        "description": "Reach level 50 in Absolute Power"
+    },
+    {
+        "title": "Absolute Power Ⅲ",
+        "imageName": "Challenge_mark_ap_13.png",
+        "description": "Reach level 75 in Absolute Power"
+    },
+    {
+        "title": "Absolute Power Ⅳ",
+        "imageName": "Challenge_mark_ap_14.png",
+        "description": "Reach level 100 in Absolute Power"
+    },
+    {
+        "title": "North American challenger",
+        "imageName": "Challenge_mark_comp02_01.png",
+        "description": "Complete 10 missions of each Absolute Power difficulty in North America"
+    },
+    {
+        "title": "African pretender",
+        "imageName": "Challenge_mark_comp02_02.png",
+        "description": "Complete 10 missions of each Absolute Power difficulty in Africa"
+    },
+    {
+        "title": "Eurasian pretender",
+        "imageName": "Challenge_mark_comp02_03.png",
+        "description": "Complete 10 missions of each Absolute Power difficulty in Eurasia"
+    },
+    {
+        "title": "South American pretender",
+        "imageName": "Challenge_mark_comp02_04.png",
+        "description": "Complete 10 missions of each Absolute Power difficulty in South America"
+    },
+    {
+        "title": "Absolute Power: Grandmaster",
+        "imageName": "Challenge_mark_comp02_tasks.png",
+        "description": "Become one of the top 10 players in the PvP squad rankings in Absolute Power"
+    },
+    {
+        "title": "Steel Skull",
+        "imageName": "Challenge_mark_ap_01.png",
+        "description": "Gain access to Operation Absolute Power"
+    },
+    {
+        "title": "Mentor",
+        "imageName": "Challenge_mark_mc_referral.png",
+        "description": "For 5 referrals reaching rank 10"
+    },
+    {
+        "title": "Back in action",
+        "imageName": "Challenge_mark_128.png",
+        "description": "Take part in the Back in Action program"
+    },
+    {
+        "title": "Weapons from Russia",
+        "imageName": "Challenge_mark_129.png",
+        "description": "Kill 1990 enemies with Russian-made weapons."
+    },
+    {
+        "title": "A finger in the sky",
+        "imageName": "Challenge_mark_fans_01.png",
+        "description": "Guess the outcome of one match"
+    },
+    {
+        "title": "Silver Star",
+        "imageName": "Challenge_mark_kiwi_01.png",
+        "description": "Complete all tasks in the KIWI event with at least one star"
+    },
+    {
+        "title": "Gold Star",
+        "imageName": "Challenge_mark_kiwi_02.png",
+        "description": "Complete all KIWI event missions with three stars."
+    },
+    {
+        "title": "Icebreaker Dossier (one star)",
+        "imageName": "Challenge_mark_kiwi_03.png",
+        "description": "Complete all Icebreaker dossier missions in the KIWI event with at least one star."
+    },
+    {
+        "title": "Icebreaker Dossier (two stars)",
+        "imageName": "Challenge_mark_kiwi_04.png",
+        "description": "Complete all Icebreaker dossier missions in the KIWI event with at least two stars."
+    },
+    {
+        "title": "Icebreaker Dossier (three stars)",
+        "imageName": "Challenge_mark_kiwi_05.png",
+        "description": "Complete all Icebreaker Dossier missions in the KIWI event with three stars."
+    },
+    {
+        "title": "Vulcan Dossier (one star)",
+        "imageName": "Challenge_mark_kiwi_06.png",
+        "description": "Complete all Vulcan Dossier missions in the KIWI event with at least one star."
+    },
+    {
+        "title": "Vulcan Dossier (two stars)",
+        "imageName": "Challenge_mark_kiwi_07.png",
+        "description": "Complete all Vulcan Dossier missions in the KIWI event with at least two stars."
+    },
+    {
+        "title": "Vulcan Dossier (three stars)",
+        "imageName": "Challenge_mark_kiwi_08.png",
+        "description": "Complete all Vulcan Dossier missions in the KIWI event with three stars."
+    },
+    {
+        "title": "Pripyat Dossier (one star)",
+        "imageName": "Challenge_mark_kiwi_09.png",
+        "description": "Complete all Pripyat Dossier missions in the KIWI event with at least one star."
+    },
+    {
+        "title": "Pripyat Dossier (two stars)",
+        "imageName": "Challenge_mark_kiwi_10.png",
+        "description": "Complete all Pripyat Dossier missions in the KIWI event with at least two stars."
+    },
+    {
+        "title": "Pripyat Dossier (three stars)",
+        "imageName": "Challenge_mark_kiwi_11.png",
+        "description": "Complete all Pripyat Dossier missions in the KIWI event with three stars."
+    },
+    {
+        "title": "Shark Files (one star)",
+        "imageName": "Challenge_mark_kiwi_12.png",
+        "description": "Complete all Shark Dossier missions in the KIWI event with at least one star."
+    },
+    {
+        "title": "Shark Files (two stars)",
+        "imageName": "Challenge_mark_kiwi_13.png",
+        "description": "Complete all Shark Dossier missions in the KIWI event with at least two stars."
+    },
+    {
+        "title": "Shark File (three stars)",
+        "imageName": "Challenge_mark_kiwi_14.png",
+        "description": "Complete all Shark Dossier missions in the KIWI event with three stars."
+    },
+    {
+        "title": "Anubis Dossier (one star)",
+        "imageName": "Challenge_mark_kiwi_15.png",
+        "description": "Complete all Anubis Dossier missions in the KIWI event with at least one star."
+    },
+    {
+        "title": "Dossier \"Anubis\" (two stars)",
+        "imageName": "Challenge_mark_kiwi_16.png",
+        "description": "Complete all Anubis Dossier missions in the KIWI event with at least two stars."
+    },
+    {
+        "title": "Anubis Dossier (three stars)",
+        "imageName": "Challenge_mark_kiwi_17.png",
+        "description": "Complete all Anubis Dossier missions in the KIWI event with three stars."
+    },
+    {
+        "title": "Brave New World",
+        "imageName": "Challenge_mark_kiwi_22.png",
+        "description": "Get access to KIWI"
+    },
+    {
+        "title": "It's time to have fun!",
+        "imageName": "Challenge_mark_warfest_01.png",
+        "description": "For WarFest 2018 ticket holders"
+    },
+    {
+        "title": "German Unity",
+        "imageName": "Challenge_mark_DE_01.png",
+        "description": "Kill 1990 enemies with the MG3 , Alpine , [Walther WA 2000"
+    },
+    {
+        "title": "The last jump",
+        "imageName": "Challenge_mark_secret_04.png",
+        "description": "Secret achievement with unknown conditions"
+    },
+    {
+        "title": "The Pied Piper",
+        "imageName": "Challenge_mark_secret_05.png",
+        "description": "Secret achievement with unknown conditions"
+    },
+    {
+        "title": "Syndicate Stormtrooper",
+        "imageName": "Challenge_mark_bp05_04.png",
+        "description": "Complete the Assault Gear Set in the Syndicate event."
+    },
+    {
+        "title": "Syndicate Engineer",
+        "imageName": "Challenge_mark_bp05_02.png",
+        "description": "Complete the Engineer Gear Set in the Syndicate event."
+    },
+    {
+        "title": "Syndicate medic",
+        "imageName": "Challenge_mark_bp05_01.png",
+        "description": "Complete the Medic loadout in the Syndicate event."
+    },
+    {
+        "title": "Syndicate Sniper",
+        "imageName": "Challenge_mark_bp05_03.png",
+        "description": "Complete the Sniper loadout in the Syndicate event."
+    },
+    {
+        "title": "The second week of \"Syndicate\"",
+        "imageName": "Challenge_mark_bp05_09.png",
+        "description": "Complete all Week 2 missions in the Syndicate event."
+    },
+    {
+        "title": "Fifth week of \"Syndicate\"",
+        "imageName": "Challenge_mark_bp05_10.png",
+        "description": "Complete all Week 5 missions in the Syndicate event."
+    },
+    {
+        "title": "Week 8 of \"Syndicate\"",
+        "imageName": "Challenge_mark_bp05_11.png",
+        "description": "Complete all Week 8 missions in the Syndicate event."
+    },
+    {
+        "title": "Week Eleven of Syndicate",
+        "imageName": "Challenge_mark_bp05_12.png",
+        "description": "Complete all 11th week missions in the Syndicate event."
+    },
+    {
+        "title": "The first stage of the \"Syndicate\"",
+        "imageName": "Challenge_mark_bp05_13.png",
+        "description": "Reach level 20 in the Syndicate event"
+    },
+    {
+        "title": "The second stage of the \"Syndicate\"",
+        "imageName": "Challenge_mark_bp05_14.png",
+        "description": "Reach level 40 in the Syndicate event"
+    },
+    {
+        "title": "The third stage of the \"Syndicate\"",
+        "imageName": "Challenge_mark_bp05_15.png",
+        "description": "Reach level 60 in the Syndicate event"
+    },
+    {
+        "title": "The fourth stage of \"Syndicate\"",
+        "imageName": "Challenge_mark_bp05_16.png",
+        "description": "Reach level 80 in the Syndicate event"
+    },
+    {
+        "title": "The fifth stage of \"Syndicate\"",
+        "imageName": "Challenge_mark_bp05_17.png",
+        "description": "Reach level 100 in the Syndicate event"
+    },
+    {
+        "title": "I like!",
+        "imageName": "Challenge_mark_vk.png",
+        "description": "For those who love to win!"
+    },
+    {
+        "title": "The party is in full swing!",
+        "imageName": "Challenge_mark_hlw_01.png",
+        "description": "Earn the final reward in the Halloween Event 30 times."
+    },
+    {
+        "title": "I still have plenty of strength!",
+        "imageName": "Challenge_mark_hlw_02.png",
+        "description": "Earn the final reward in the Halloween Event 50 times."
+    },
+    {
+        "title": "I'm for Blackwood!",
+        "imageName": "Challenge_mark_ec02_02.png",
+        "description": "Score 25 goals while playing as Blackwood during a football event"
+    },
+    {
+        "title": "I'm for Warface!",
+        "imageName": "Challenge_mark_ec02_03.png",
+        "description": "Score 25 goals while playing as Warface during a football event"
+    },
+    {
+        "title": "Goooooal!",
+        "imageName": "Challenge_mark_ec02_01.png",
+        "description": "Score a goal while playing for any team during a football event"
+    },
+    {
+        "title": "A true romantic",
+        "imageName": "Challenge_mark_love.png",
+        "description": "Congratulate your loved ones on Valentine's Day!"
+    },
+    {
+        "title": "The Cunning Leprechaun",
+        "imageName": "Challenge_mark_patrick_01.png",
+        "description": "Wish your opponent a Happy St. Patrick's Day!"
+    },
+    {
+        "title": "Black magic",
+        "imageName": "Challenge_mark_magic.png",
+        "description": "Kill 90 gremlins, 5 rats, 4 rabbits and 1 basilisk"
+    },
+    {
+        "title": "Under the protection of Pringles",
+        "imageName": "Challenge_mark_pringles.png",
+        "description": "For lovers of the most delicious chips in the world!"
+    },
+    {
+        "title": "Space cabin boy",
+        "imageName": "Challenge_mark_bp06_13.png",
+        "description": "Complete any 12 quests (except daily ones)"
+    },
+    {
+        "title": "Space sailor",
+        "imageName": "Challenge_mark_bp06_14.png",
+        "description": "Complete any 36 quests (except daily ones)"
+    },
+    {
+        "title": "Space officer",
+        "imageName": "Challenge_mark_bp06_15.png",
+        "description": "Complete 60 any tasks (except daily ones)"
+    },
+    {
+        "title": "Space Captain",
+        "imageName": "Challenge_mark_bp06_16.png",
+        "description": "Complete any 84 quests (except daily ones)"
+    },
+    {
+        "title": "Space Admiral",
+        "imageName": "Challenge_mark_bp06_17.png",
+        "description": "Complete any 108 quests (except daily ones)"
+    },
+    {
+        "title": "One giant leap for mankind",
+        "imageName": "Challenge_mark_bp06_05.png",
+        "description": "Reach level 10 of personal progress in the Armageddon event"
+    },
+    {
+        "title": "Temporary difficulties",
+        "imageName": "Challenge_mark_bp06_06.png",
+        "description": "Successfully create a temporary weapon in the lab 10 times"
+    },
+    {
+        "title": "A serious guy",
+        "imageName": "Challenge_mark_bp06_07.png",
+        "description": "Successfully complete 50 challenging missions"
+    },
+    {
+        "title": "Armed to the teeth",
+        "imageName": "Challenge_mark_bp06_08.png",
+        "description": "Successfully create a permanent weapon in the lab 5 times"
+    },
+    {
+        "title": "Armageddon Medic",
+        "imageName": "Challenge_mark_bp06_09.png",
+        "description": "Collect the Medic's loadout in the Armageddon event (by completing missions)"
+    },
+    {
+        "title": "Armageddon Sniper",
+        "imageName": "Challenge_mark_bp06_10.png",
+        "description": "Collect the Sniper loadout in the Armageddon event (by completing missions)"
+    },
+    {
+        "title": "Armageddon Stormtrooper",
+        "imageName": "Challenge_mark_bp06_11.png",
+        "description": "Collect the Assault loadout in the Armageddon event (by completing missions)"
+    },
+    {
+        "title": "Armageddon Engineer",
+        "imageName": "Challenge_mark_bp06_12.png",
+        "description": "Collect the Engineer's Gear Set in the Armageddon event (by completing missions)"
+    },
+    {
+        "title": "Instructor",
+        "imageName": "Challenge_mark_mentor.png",
+        "description": "Reward for helping other players"
+    },
+    {
+        "title": "The desired triumph",
+        "imageName": "Challenge_mark_watcher_01.png",
+        "description": "Collect all Will to Win trading cards"
+    },
+    {
+        "title": "Regular player",
+        "imageName": "Challenge_mark_bonus_01.png",
+        "description": "A reward for the most dedicated and active players"
+    },
+    {
+        "title": "Path of Fury",
+        "imageName": "Challenge_mark_bp07_06.png",
+        "description": "Gain access to the Berserker event"
+    },
+    {
+        "title": "Berserker Engineer",
+        "imageName": "Challenge_mark_bp07_01.png",
+        "description": "Collect the Engineer's gear set in the Berserk event."
+    },
+    {
+        "title": "Berserker medic",
+        "imageName": "Challenge_mark_bp07_02.png",
+        "description": "Complete the Medic Gear Set in the Berserker Event."
+    },
+    {
+        "title": "Berserker Sniper",
+        "imageName": "Challenge_mark_bp07_03.png",
+        "description": "Complete the Sniper Gear Set in the Berserk Event."
+    },
+    {
+        "title": "Berserker Stormtrooper",
+        "imageName": "Challenge_mark_bp07_04.png",
+        "description": "Complete the Stormtrooper loadout in the Berserker event."
+    },
+    {
+        "title": "Berserk's newcomer",
+        "imageName": "Challenge_mark_bp07_08.png",
+        "description": "Complete 25 weekly quests"
+    },
+    {
+        "title": "Inexhaustible enthusiasm",
+        "imageName": "Challenge_mark_xxxx_wlan_01.png",
+        "description": "Attend a player meeting and take part in a competition"
+    },
+    {
+        "title": "Special invitation",
+        "imageName": "Challenge_mark_xxxx_wlan_02.png",
+        "description": "For VIP ticket holders to the LAN finals"
+    },
+    {
+        "title": "The strongest will win",
+        "imageName": "Challenge_mark_cybersport_01.png",
+        "description": "Reward for visitors to the eSports website"
+    },
+    {
+        "title": "Newcomer Blackwood",
+        "imageName": "Challenge_mark_bp08_01.png",
+        "description": "Complete 25 weekly quests in the Blackwood event."
+    },
+    {
+        "title": "Blackwood Sniper",
+        "imageName": "Challenge_mark_bp08_02.png",
+        "description": "Complete the Sniper loadout in the Blackwood event."
+    },
+    {
+        "title": "Medic Blackwood",
+        "imageName": "Challenge_mark_bp08_03.png",
+        "description": "Complete the Medic loadout in the Blackwood event."
+    },
+    {
+        "title": "Blackwood Engineer",
+        "imageName": "Challenge_mark_bp08_04.png",
+        "description": "Complete the Engineer Gear Set in the Blackwood Event."
+    },
+    {
+        "title": "Blackwood Stormtrooper",
+        "imageName": "Challenge_mark_bp08_05.png",
+        "description": "Complete the Assault loadout in the Blackwood event."
+    },
+    {
+        "title": "To arms",
+        "imageName": "Challenge_mark_bp08_06.png",
+        "description": "Get full access to the Blackwood event"
+    },
+    {
+        "title": "Cherry blossom",
+        "imageName": "Challenge_mark_kanobu_01.png",
+        "description": "Awarded to true specialists of the East"
+    },
+    {
+        "title": "Broken heart",
+        "imageName": "Challenge_mark_love02.png",
+        "description": "All's fair in love and war!"
+    },
+    {
+        "title": "Horseshoe for good luck",
+        "imageName": "Challenge_mark_patrick02.png",
+        "description": "Wish your opponent a Happy St. Patrick's Day!"
+    },
+    {
+        "title": "Deadly Look",
+        "imageName": "Challenge_mark_bp09_06.png",
+        "description": "Get full access to the Gorgon event"
+    },
+    {
+        "title": "Stormtrooper Hero",
+        "imageName": "Challenge_mark_bp09_01.png",
+        "description": "Unique achievement of the Gorgon event"
+    },
+    {
+        "title": "Hero Engineer",
+        "imageName": "Challenge_mark_bp09_02.png",
+        "description": "Unique achievement of the Gorgon event"
+    },
+    {
+        "title": "Hero medic",
+        "imageName": "Challenge_mark_bp09_03.png",
+        "description": "Unique achievement of the Gorgon event"
+    },
+    {
+        "title": "Hero Sniper",
+        "imageName": "Challenge_mark_bp09_04.png",
+        "description": "Unique achievement of the Gorgon event"
+    },
+    {
+        "title": "Jellyfish",
+        "imageName": "Challenge_mark_bp09_07.png",
+        "description": "Unique achievement of the Gorgon event"
+    },
+    {
+        "title": "Tornado energy",
+        "imageName": "Challenge_mark_tornado_01.png",
+        "description": "A special achievement for the most energetic players"
+    },
+    {
+        "title": "The plumage of war",
+        "imageName": "Challenge_mark_bp10_01.png",
+        "description": "Unique achievement of the Dark Samurai event"
+    },
+    {
+        "title": "Samurai medic",
+        "imageName": "Challenge_mark_bp10_02.png",
+        "description": "Unique achievement of the Dark Samurai event"
+    },
+    {
+        "title": "Samurai sniper",
+        "imageName": "Challenge_mark_bp10_03.png",
+        "description": "Unique achievement of the Dark Samurai event"
+    },
+    {
+        "title": "Samurai Stormtrooper",
+        "imageName": "Challenge_mark_bp10_04.png",
+        "description": "Unique achievement of the Dark Samurai event"
+    },
+    {
+        "title": "Steel Samurai",
+        "imageName": "Challenge_mark_bp10_05.png",
+        "description": "Unique achievement of the Dark Samurai event"
+    },
+    {
+        "title": "Samurai Engineer",
+        "imageName": "Challenge_mark_bp10_06.png",
+        "description": "Unique achievement of the Dark Samurai event"
+    },
+    {
+        "title": "The Way of the Blade",
+        "imageName": "Challenge_mark_bp10_08.png",
+        "description": "Get full access to the Dark Samurai event"
+    },
+    {
+        "title": "Rowan bonfires",
+        "imageName": "Challenge_mark_september3rd_01.png",
+        "description": "An achievement for those who turned the calendar upside down"
+    },
+    {
+        "title": "Pirate flag",
+        "imageName": "Challenge_mark_pirate01_02.png",
+        "description": "The symbol of a true conqueror of the seas"
+    },
+    {
+        "title": "Big Bon",
+        "imageName": "Challenge_mark_bigbon_01.png",
+        "description": "Treat yourself to delicious instant noodles!"
+    },
+    {
+        "title": "Rebel Stormtrooper",
+        "imageName": "Challenge_mark_bp11_01.png",
+        "description": "Reach level 22 in the Rebellion event"
+    },
+    {
+        "title": "Rebel medic",
+        "imageName": "Challenge_mark_bp11_02.png",
+        "description": "Reach level 29 in the Rebellion event"
+    },
+    {
+        "title": "Rebel Engineer",
+        "imageName": "Challenge_mark_bp11_03.png",
+        "description": "Reach level 50 in the Uprising event"
+    },
+    {
+        "title": "Rebel Sniper",
+        "imageName": "Challenge_mark_bp11_04.png",
+        "description": "Reach level 57 in the Rebellion event"
+    },
+    {
+        "title": "Arguments in a dispute",
+        "imageName": "Challenge_mark_bp11_05.png",
+        "description": "Reach level 64 in the Rebellion event"
+    },
+    {
+        "title": "A budding rebel",
+        "imageName": "Challenge_mark_bp11_06.png",
+        "description": "Reach level 8 in the Rebellion event"
+    },
+    {
+        "title": "Good intentions",
+        "imageName": "Challenge_mark_bp11_07.png",
+        "description": "Reach level 36 in the Rebellion event"
+    },
+    {
+        "title": "Hero of the streets",
+        "imageName": "Challenge_mark_bp11_08.png",
+        "description": "Reach level 78 in the Uprising event"
+    },
+    {
+        "title": "SED-arachnid",
+        "imageName": "Challenge_mark_bp12_01.png",
+        "description": "Reach level 67 in the Swarm event"
+    },
+    {
+        "title": "Arachnid medic",
+        "imageName": "Challenge_mark_bp12_02.png",
+        "description": "Reach level 37 in the Swarm event"
+    },
+    {
+        "title": "Arachnid Stormtrooper",
+        "imageName": "Challenge_mark_bp12_03.png",
+        "description": "Reach level 23 in the Swarm event"
+    },
+    {
+        "title": "Arachnid Engineer",
+        "imageName": "Challenge_mark_bp12_04.png",
+        "description": "Reach level 45 in the Swarm event"
+    },
+    {
+        "title": "Arachnid Sniper",
+        "imageName": "Challenge_mark_bp12_05.png",
+        "description": "Reach level 57 in the Swarm event"
+    },
+    {
+        "title": "Predatory flowers",
+        "imageName": "Challenge_mark_swarm_08.png",
+        "description": "The hallmark of a true collector"
+    },
+    {
+        "title": "\"Together Against the Swarm\" badge",
+        "imageName": "Challenge_mark_publisher_01.png",
+        "description": "You're not alone in the fight against bugs."
+    },
+    {
+        "title": "Together with Shimoro against Roy",
+        "imageName": "Challenge_mark_publisher_02.png",
+        "description": "You're not alone in the fight against bugs."
+    },
+    {
+        "title": "Together with the Butcher against the Swarm",
+        "imageName": "Challenge_mark_publisher_03.png",
+        "description": "You're not alone in the fight against bugs."
+    },
+    {
+        "title": "Together with Rakutagin against Roy",
+        "imageName": "Challenge_mark_publisher_04.png",
+        "description": "You're not alone in the fight against bugs."
+    },
+    {
+        "title": "Together with X Medium against Roy",
+        "imageName": "Challenge_mark_publisher_05.png",
+        "description": "You're not alone in the fight against bugs."
+    },
+    {
+        "title": "Together with MC Serega against Roy",
+        "imageName": "Challenge_mark_publisher_06.png",
+        "description": "You're not alone in the fight against bugs."
+    },
+    {
+        "title": "Together with JonTronShow against Roy",
+        "imageName": "Challenge_mark_publisher_07.png",
+        "description": "You're not alone in the fight against bugs."
+    },
+    {
+        "title": "With JoshDub vs. Roy",
+        "imageName": "Challenge_mark_publisher_08.png",
+        "description": "You're not alone in the fight against bugs."
+    },
+    {
+        "title": "With Razor against Roy",
+        "imageName": "Challenge_mark_publisher_09.png",
+        "description": "You're not alone in the fight against bugs."
+    },
+    {
+        "title": "Roy and PLAYER ONE Icon",
+        "imageName": "Challenge_mark_publisher_10.png",
+        "description": "Player one, get ready"
+    },
+    {
+        "title": "Roy and Twitch Badge",
+        "imageName": "Challenge_mark_publisher_11.png",
+        "description": "Attention to the screen!"
+    },
+    {
+        "title": "Swarm in the City badge",
+        "imageName": "Challenge_mark_publisher_12.png",
+        "description": "Protect your city!"
+    },
+    {
+        "title": "Swarm Destroyer Badge",
+        "imageName": "Challenge_mark_publisher_13.png",
+        "description": "A couple of beetles less, a couple of beetles more"
+    },
+    {
+        "title": "Insect Bat Badge",
+        "imageName": "Challenge_mark_publisher_14.png",
+        "description": "Arachnids? No, thanks!"
+    },
+    {
+        "title": "The \"Against Arachnids\" badge",
+        "imageName": "Challenge_mark_publisher_15.png",
+        "description": "Arachnids shall not pass!"
+    },
+    {
+        "title": "Twitch Prime",
+        "imageName": "Challenge_mark_twitch_01.png",
+        "description": "Twitch Prime Reward"
+    },
+    {
+        "title": "Christmas tree decoration",
+        "imageName": "Challenge_mark_xmas20_01.png",
+        "description": "Happy New Year holidays!"
+    },
+    {
+        "title": "Discord regular",
+        "imageName": "Challenge_mark_discord_01.png",
+        "description": "A reward for the most active and communicative Discord users"
+    },
+    {
+        "title": "Guru of love",
+        "imageName": "Challenge_mark_love03.png",
+        "description": "Not by war alone"
+    },
+    {
+        "title": "Victory over oneself",
+        "imageName": "Challenge_mark_web1.png",
+        "description": "Complete the mission to win battles in a unique event"
+    },
+    {
+        "title": "Their blood",
+        "imageName": "Challenge_mark_web2.png",
+        "description": "Complete a mission to eliminate enemies in a unique event"
+    },
+    {
+        "title": "There are no barriers",
+        "imageName": "Challenge_mark_web3.png",
+        "description": "Complete a mini-achievement quest in a unique event"
+    },
+    {
+        "title": "Hello, daisies!",
+        "imageName": "Challenge_mark_8march.png",
+        "description": "Spring is coming – make way for spring!"
+    },
+    {
+        "title": "gold coin",
+        "imageName": "Challenge_mark_patrick03_01.png",
+        "description": "Wish your enemies a Happy St. Patrick's Day!"
+    },
+    {
+        "title": "Swarm in the City 2",
+        "imageName": "Challenge_mark_swarm_city_01.png",
+        "description": "Secret achievement with unknown conditions"
+    },
+    {
+        "title": "Roy in the city 5",
+        "imageName": "Challenge_mark_swarm_city_02.png",
+        "description": "Secret achievement with unknown conditions"
+    },
+    {
+        "title": "Roy in the city 8",
+        "imageName": "Challenge_mark_swarm_city_03.png",
+        "description": "Secret achievement with unknown conditions"
+    },
+    {
+        "title": "Roy in the city 11",
+        "imageName": "Challenge_mark_swarm_city_04.png",
+        "description": "Secret achievement with unknown conditions"
+    },
+    {
+        "title": "Roy in the city 14",
+        "imageName": "Challenge_mark_swarm_city_05.png",
+        "description": "Secret achievement with unknown conditions"
+    },
+    {
+        "title": "Roy in the city 17",
+        "imageName": "Challenge_mark_swarm_city_06.png",
+        "description": "Secret achievement with unknown conditions"
+    },
+    {
+        "title": "Marshal FIVE",
+        "imageName": "Challenge_mark_five_01.png",
+        "description": "A special achievement for FIVE fans"
+    },
+    {
+        "title": "CyberLife",
+        "imageName": "Challenge_mark_bite_01.png",
+        "description": "Get energized with Bite!"
+    },
+    {
+        "title": "Stormtrooper Coin",
+        "imageName": "Challenge_mark_bp_heist_01.png",
+        "description": "A souvenir to remember"
+    },
+    {
+        "title": "Sniper's Coin",
+        "imageName": "Challenge_mark_bp_heist_02.png",
+        "description": "A souvenir to remember"
+    },
+    {
+        "title": "Engineer's coin",
+        "imageName": "Challenge_mark_bp_heist_03.png",
+        "description": "A souvenir to remember"
+    },
+    {
+        "title": "Physician's Coin",
+        "imageName": "Challenge_mark_bp_heist_04.png",
+        "description": "A souvenir to remember"
+    },
+    {
+        "title": "SED coin",
+        "imageName": "Challenge_mark_bp_heist_05.png",
+        "description": "A souvenir to remember"
+    },
+    {
+        "title": "Stolen identity",
+        "imageName": "Challenge_mark_bp_heist_06.png",
+        "description": "The jokes are over"
+    },
+    {
+        "title": "Bag of money",
+        "imageName": "Challenge_mark_bp_heist_07.png",
+        "description": "It's about to burst!"
+    },
+    {
+        "title": "Bull",
+        "imageName": "Challenge_mark_bp_heist_08.png",
+        "description": "Reach level 18 in the Heist event"
+    },
+    {
+        "title": "Eagle",
+        "imageName": "Challenge_mark_bp_heist_09.png",
+        "description": "Reach level 72 in the Heist event"
+    },
+    {
+        "title": "Gorilla",
+        "imageName": "Challenge_mark_bp_heist_10.png",
+        "description": "Reach level 35 in the Heist event"
+    },
+    {
+        "title": "Wolf",
+        "imageName": "Challenge_mark_bp_heist_11.png",
+        "description": "Reach level 59 in the Heist event"
+    },
+    {
+        "title": "From many, one",
+        "imageName": "Challenge_mark_usday00001.png",
+        "description": "Where is the stronghold of the free and where is the land of the brave?"
+    },
+    {
+        "title": "Desert Dogs",
+        "imageName": "Challenge_mark_desert_dog00001.png",
+        "description": "The Law of the Desert: Not Just Survive, But Win"
+    },
+    {
+        "title": "Ifrit",
+        "imageName": "Challenge_mark_desert_dog00002.png",
+        "description": "The Law of the Desert: Not Just Survive, But Win"
+    },
+    {
+        "title": "Metal scarab",
+        "imageName": "Challenge_mark_bp_egypt_01.png",
+        "description": "Secret achievement with unknown conditions"
+    },
+    {
+        "title": "Bronze scarab",
+        "imageName": "Challenge_mark_bp_egypt_02.png",
+        "description": "Secret achievement with unknown conditions"
+    },
+    {
+        "title": "Silver scarab",
+        "imageName": "Challenge_mark_bp_egypt_03.png",
+        "description": "Secret achievement with unknown conditions"
+    },
+    {
+        "title": "Golden Scarab",
+        "imageName": "Challenge_mark_bp_egypt_04.png",
+        "description": "Secret achievement with unknown conditions"
+    },
+    {
+        "title": "Iron and blood",
+        "imageName": "Challenge_mark_bp07_console_01.png",
+        "description": "Unique Battle Pass achievement \"Secret War\""
+    },
+    {
+        "title": "Gold and gunpowder",
+        "imageName": "Challenge_mark_bp07_console_02.png",
+        "description": "Unique Battle Pass achievement \"Secret War\""
+    },
+    {
+        "title": "Shadow and Kevlar",
+        "imageName": "Challenge_mark_bp07_console_03.png",
+        "description": "Unique Battle Pass achievement \"Secret War\""
+    },
+    {
+        "title": "Steel and soot",
+        "imageName": "Challenge_mark_bp07_console_04.png",
+        "description": "Unique Battle Pass achievement \"Secret War\""
+    },
+    {
+        "title": "Carnival of Death",
+        "imageName": "Challenge_mark_cartel_00001.png",
+        "description": "And let everyone remember - strangers are not welcome here!"
+    },
+    {
+        "title": "The Glow of Death",
+        "imageName": "Challenge_mark_fbs_cartel_00001.png",
+        "description": "And let everyone remember - strangers are not welcome here!"
+    },
+    {
+        "title": "Help is near",
+        "imageName": "Challenge_mark_valkyrie_00001.png",
+        "description": "She brings death to her enemies and salvation to her allies."
+    },
+    {
+        "title": "In difficult times",
+        "imageName": "Challenge_mark_fbs_valkyrie_00001.png",
+        "description": "She brings death to her enemies and salvation to her allies."
+    },
+    {
+        "title": "Sword of justice",
+        "imageName": "Challenge_mark_swat_00001.png",
+        "description": "The STAB squad is always ready for battle."
+    },
+    {
+        "title": "Always on guard",
+        "imageName": "Challenge_mark_fbs_swat_00001.png",
+        "description": "The STAB squad is always ready for battle."
+    },
+    {
+        "title": "Sea of ​​Steel",
+        "imageName": "Challenge_mark_navy_00001.png",
+        "description": "Well-coordinated teamwork is the only way to victory"
+    },
+    {
+        "title": "Submarine warfare",
+        "imageName": "Challenge_mark_fbs_navy_00001.png",
+        "description": "Well-coordinated teamwork is the only way to victory"
+    },
+    {
+        "title": "Triple threat",
+        "imageName": "Challenge_mark_secret_00001.png",
+        "description": "The will of a few can change the destinies of many"
+    },
+    {
+        "title": "Sledgehammer",
+        "imageName": "Challenge_mark_fbs_secret_00001.png",
+        "description": "The will of a few can change the destinies of many"
+    },
+    {
+        "title": "Flame of Hope",
+        "imageName": "Challenge_mark_realwars01_01.png",
+        "description": "It's up to you to decide who to fight for."
+    },
+    {
+        "title": "Phoenix",
+        "imageName": "Challenge_mark_realwars01_02.png",
+        "description": "It's up to you to decide who to fight for."
+    },
+    {
+        "title": "Restricted area",
+        "imageName": "Challenge_mark_coldwar01.png",
+        "description": "The survivors will envy the dead"
+    },
+    {
+        "title": "Secrets of the Dead",
+        "imageName": "Challenge_mark_halloween01.png",
+        "description": "Sometimes the dead come back"
+    },
+    {
+        "title": "Shackles",
+        "imageName": "Challenge_mark_prisonbreak01_01.png",
+        "description": "Only in prison do you truly begin to appreciate freedom."
+    },
+    {
+        "title": "Prisoner 193",
+        "imageName": "Challenge_mark_prisonbreak01_02.png",
+        "description": "You can't run away from yourself"
+    },
+    {
+        "title": "Hurry!",
+        "imageName": "Challenge_mark_friday01_console_01.png",
+        "description": "Otherwise you won't get anything."
+    },
+    {
+        "title": "Lotus",
+        "imageName": "Challenge_mark_fbs_snowman01.png",
+        "description": "What is a constant for one person is a variable for another."
+    },
+    {
+        "title": "Melting point",
+        "imageName": "Challenge_mark_snowstorm01.png",
+        "description": "Ice can kill as effectively as fire."
+    },
+    {
+        "title": "Below zero",
+        "imageName": "Challenge_mark_snowstorm02.png",
+        "description": "Ice can kill as effectively as fire."
+    },
+    {
+        "title": "Time for gifts!",
+        "imageName": "Challenge_mark_newyear01.png",
+        "description": "Let's meet the New Year fully armed!"
+    },
+    {
+        "title": "New Year's sweets",
+        "imageName": "Challenge_mark_ny01_console_01.png",
+        "description": "A small but pleasant surprise"
+    },
+    {
+        "title": "The Hacker's Secret",
+        "imageName": "Challenge_mark_snowman01.png",
+        "description": "There is no protection that cannot be hacked."
+    },
+    {
+        "title": "Bloodsport",
+        "imageName": "Challenge_mark_weapon10_45.png",
+        "description": "Kill 5,000 enemies with grenades"
+    },
+    {
+        "title": "Bloodsport II",
+        "imageName": "Challenge_mark_weapon25_45.png",
+        "description": "Kill 10,000 enemies with grenades"
+    },
+    {
+        "title": "Killing machine",
+        "imageName": "Challenge_mark_03.png",
+        "description": "Deal 100,000 damage to enemies"
+    },
+    {
+        "title": "Knife lover",
+        "imageName": "Challenge_mark_84.png",
+        "description": "Earn 50 \"Butchers\""
+    },
+    {
+        "title": "Thermonuclear energy",
+        "imageName": "Challenge_mark_04.png",
+        "description": "Deal 1,000,000 damage to enemies"
+    },
+    {
+        "title": "Bloody mince",
+        "imageName": "Challenge_mark_85.png",
+        "description": "Earn 250 Butchers"
+    },
+    {
+        "title": "Twenty megatons",
+        "imageName": "Challenge_mark_05.png",
+        "description": "Deal 20,000,000 damage to enemies"
+    },
+    {
+        "title": "Flayer",
+        "imageName": "Challenge_mark_86.png",
+        "description": "Earn 1,000 \"butchers\""
+    },
+    {
+        "title": "Close contact",
+        "imageName": "Challenge_mark_24.png",
+        "description": "Kill 1,000 enemies with melee weapons (PvP)"
+    },
+    {
+        "title": "Heavy hand",
+        "imageName": "Challenge_mark_39.png",
+        "description": "Kill 100 enemies with a rifle butt"
+    },
+    {
+        "title": "Field repairs",
+        "imageName": "Challenge_mark_19.png",
+        "description": "Repair your teammates' armor by a total of 10,000 HP"
+    },
+    {
+        "title": "Tombstone",
+        "imageName": "Challenge_mark_94.png",
+        "description": "Hit enemies with firearms 10,000 times."
+    },
+    {
+        "title": "The armor is strong",
+        "imageName": "Challenge_mark_88.png",
+        "description": "Repair your teammates' armor for a total of 100,000 HP."
+    },
+    {
+        "title": "Tombstone 2",
+        "imageName": "Challenge_mark_95.png",
+        "description": "Hit enemies with firearms 100,000 times."
+    },
+    {
+        "title": "Bulletproof",
+        "imageName": "Challenge_mark_89.png",
+        "description": "Repair your teammates' armor for a total of 1,000,000 HP"
+    },
+    {
+        "title": "Tombstone Ⅲ",
+        "imageName": "Challenge_mark_96.png",
+        "description": "Hit enemies with firearms 1,000,000 times."
+    },
+    {
+        "title": "Saving lives is my job",
+        "imageName": "Challenge_mark_123.png",
+        "description": "Revive your comrades 25,000 times"
+    },
+    {
+        "title": "The Nightmare Before Christmas",
+        "imageName": "Challenge_mark_ny.png",
+        "description": "Kill 1,000 enemies with New Year's weapons."
+    },
+    {
+        "title": "Set fire and move away",
+        "imageName": "Challenge_mark_xmas_03.png",
+        "description": "Kill 1,000 enemies with the New Year's Cracker."
+    },
+    {
+        "title": "Challenge mark 1april.png",
+        "imageName": "Challenge_mark_1april.png",
+        "description": "Kill a Juggernaut 250 times with a knife roll in the Great White Shark special operation. [ show ] Kill 250 enemies with an April Fool's Day weapon: a finger gun or a wooden mallet."
+    },
+    {
+        "title": "Wet work",
+        "imageName": "Challenge_mark_1april_02.png",
+        "description": "Deal 100,500 damage to enemies using the Hydro-Disintegrator."
+    },
+    {
+        "title": "Reward for loyalty",
+        "imageName": "Challenge_mark_anniversary.png",
+        "description": "Kill 1,000 enemies with a reward weapon. Only available in 2013."
+    },
+    {
+        "title": "Loyalty Reward - 3",
+        "imageName": "Challenge_mark_anniversary_3.png",
+        "description": "Kill 1,000 enemies with a 2015 award weapon . Only obtainable in 2015."
+    },
+    {
+        "title": "Hero of Labor",
+        "imageName": "Challenge_mark_ww2.png",
+        "description": "Kill 250 players with a hammer or sickle"
+    },
+    {
+        "title": "Steel Fury",
+        "imageName": "Challenge_mark_vdv.png",
+        "description": "Kill 500 enemies with the Saiga \"Stal\" or SVD \"Stal\""
+    },
+    {
+        "title": "Scarier than your ex",
+        "imageName": "Challenge_mark_hlw01.png",
+        "description": "Kill 500 enemies with the Anti-Zombie APS or a melee weapon of this series."
+    },
+    {
+        "title": "The latest fashion trend",
+        "imageName": "Challenge_mark_122.png",
+        "description": "Kill 100 enemies with headshots using the standard Micro Desert Eagle."
+    },
+    {
+        "title": "Sport of the future",
+        "imageName": "Challenge_mark_rio_01.png",
+        "description": "Kill 500 enemies with weapons from the Summer Games 2016 series."
+    },
+    {
+        "title": "Throne",
+        "imageName": "Challenge_mark_steam01.png",
+        "description": "Kill 1,000 enemies with the Tavor TAR-21 Neon or AUG A3 9mm XS Neon"
+    },
+    {
+        "title": "It's eSports, baby!",
+        "imageName": "Challenge_mark_rio_02.png",
+        "description": "Kill 2,500 enemies with weapons from the Summer Games 2016 series."
+    },
+    {
+        "title": "The power of magma",
+        "imageName": "Challenge_mark_lava01.png",
+        "description": "Kill 5,000 enemies with a Magma Series secondary weapon."
+    },
+    {
+        "title": "Cyberathlete",
+        "imageName": "Challenge_mark_rio_03.png",
+        "description": "Kill 10,000 enemies with a Summer Games 2016 weapon."
+    },
+    {
+        "title": "Sudden maneuver",
+        "imageName": "Challenge_mark_zsd02.png",
+        "description": "Kill 3,000 enemies while sliding with a Zombie Killer weapon."
+    },
+    {
+        "title": "Yeeha!",
+        "imageName": "Challenge_mark_xmas_01.png",
+        "description": "Kill 2,000 enemies in PvP with the New Year's Daewoo K1"
+    },
+    {
+        "title": "New Year's Eve Massacre",
+        "imageName": "Challenge_mark_evilsanta.png",
+        "description": "Kill 2,000 enemies in PvP with the Evil Santa weapon."
+    },
+    {
+        "title": "Ice Fury",
+        "imageName": "Challenge_mark_ice_01.png",
+        "description": "Kill 5,000 enemies with the Frost series secondary weapon."
+    },
+    {
+        "title": "Peew!",
+        "imageName": "Challenge_mark_pt66.png",
+        "description": "Kill 10 players with the Fingergun"
+    },
+    {
+        "title": "New Year: Beretta M9",
+        "imageName": "Challenge_mark_xmas_02.png",
+        "description": "Kill 200 players with the New Year's Beretta M9"
+    },
+    {
+        "title": "Carbon-based forms of death",
+        "imageName": "Challenge_mark_carbon01.png",
+        "description": "Kill 10,000 enemies with Carbon series weapons."
+    },
+    {
+        "title": "Sweet death",
+        "imageName": "Challenge_mark_cookie_01.png",
+        "description": "Kill 100 enemies in melee combat using the Gingerbread Gun."
+    },
+    {
+        "title": "Hidden Dragon",
+        "imageName": "Challenge_mark_dragon.png",
+        "description": "Kill 1,000 enemies with Dragon Series weapons."
+    },
+    {
+        "title": "Trophy weapons",
+        "imageName": "Challenge_mark_9May.png",
+        "description": "Kill 1,500 enemies with foreign weapons from World War II on Voskhod/Pripyat"
+    },
+    {
+        "title": "God of Destruction",
+        "imageName": "Challenge_mark_mars02.png",
+        "description": "Deal over 9,000 damage with a Deimos firearm."
+    },
+    {
+        "title": "The Great Carnival",
+        "imageName": "Challenge_mark_bra_01.png",
+        "description": "Kill 1,000 enemies with the Tavor TAR-21 , Desert Eagle , and Daewoo K1 Carnival Series ."
+    },
+    {
+        "title": "Open Cup 2019: Commando",
+        "imageName": "Challenge_mark_opencup2019_01.png",
+        "description": "Deal 25,000 damage with a weapon in the Open Cup 2019"
+    },
+    {
+        "title": "No room for error",
+        "imageName": "Challenge_mark_camo08_01.png",
+        "description": "Deal 25,000 damage with the Reed weapon."
+    },
+    {
+        "title": "Jumping Jack",
+        "imageName": "Challenge_mark_bp07_05.png",
+        "description": "Kill 1,000 enemies while jumping with the Berserker weapon."
+    },
+    {
+        "title": "Throw of the asp",
+        "imageName": "Challenge_mark_camo09.png",
+        "description": "Kill 1,000 enemies while jumping with the Aspid weapon."
+    },
+    {
+        "title": "Ominous Full Moon",
+        "imageName": "Challenge_mark_hlw02_01.png",
+        "description": "Kill 500 enemies with Poltergeist weapons ( Maxim , SIG MPX SBR , Butterfly Knife )"
+    },
+    {
+        "title": "Straight from Korea",
+        "imageName": "Challenge_mark_kra_01.png",
+        "description": "Kill 1,000 enemies with the Daewoo Voskhod."
+    },
+    {
+        "title": "Piece work",
+        "imageName": "Challenge_mark_friday_01.png",
+        "description": "Deal 25,000 damage with a Lux weapon."
+    },
+    {
+        "title": "Devil's Claw",
+        "imageName": "Challenge_mark_black01_01.png",
+        "description": "Deal 25,000 damage with the Obsidian weapon."
+    },
+    {
+        "title": "Black pattern",
+        "imageName": "Challenge_mark_black02_01.png",
+        "description": "Kill 1,000 enemies while jumping with the Morion weapon."
+    },
+    {
+        "title": "Corporate employee",
+        "imageName": "Challenge_mark_black03_01.png",
+        "description": "Deal 25,000 damage with the Onyx weapon."
+    },
+    {
+        "title": "One-way ticket",
+        "imageName": "Challenge_mark_stream02_01.png",
+        "description": "Deal 25,000 damage with the Ether weapon."
+    },
+    {
+        "title": "Master of Sports in jumping",
+        "imageName": "Challenge_mark_bp09_05.png",
+        "description": "Kill 1,000 enemies while jumping with the Hexagon weapon."
+    },
+    {
+        "title": "A different view",
+        "imageName": "Challenge_mark_stream03_01.png",
+        "description": "Kill 1,000 enemies with an Ether series weapon while aiming down sights."
+    },
+    {
+        "title": "Like a leaf in the wind",
+        "imageName": "Challenge_mark_samurai02_01.png",
+        "description": "Kill 1,000 enemies while jumping with the Sakura weapon."
+    },
+    {
+        "title": "Warface PRO I: Commando",
+        "imageName": "Challenge_mark_oc05_01.png",
+        "description": "Deal 25,000 damage with a Warface PRO I weapon"
+    },
+    {
+        "title": "Corsair",
+        "imageName": "Challenge_mark_pirate01_01.png",
+        "description": "Deal 25,000 damage with a Pirate series weapon."
+    },
+    {
+        "title": "Guardian of order",
+        "imageName": "Challenge_mark_brazil02_01.png",
+        "description": "Deal 25,000 damage with a Guardian weapon."
+    },
+    {
+        "title": "It's Halloween",
+        "imageName": "Challenge_mark_hlw03_01.png",
+        "description": "Deal 25,000 damage with a Halloween weapon."
+    },
+    {
+        "title": "Winter Punisher",
+        "imageName": "Challenge_mark_camo02.png",
+        "description": "Deal 25,000 damage with a Buran , Winter, or Vyuga weapon."
+    },
+    {
+        "title": "Golden bullets",
+        "imageName": "Challenge_mark_gold_01.png",
+        "description": "Kill 5,000 Stormtroopers with any golden weapon."
+    },
+    {
+        "title": "Gold is the best medicine",
+        "imageName": "Challenge_mark_gold_02.png",
+        "description": "Kill 5,000 Medics with any golden weapon."
+    },
+    {
+        "title": "Golden Gears of Death",
+        "imageName": "Challenge_mark_gold_03.png",
+        "description": "Kill 5,000 Engineers with any golden weapon."
+    },
+    {
+        "title": "A shot worth its weight in gold",
+        "imageName": "Challenge_mark_gold_04.png",
+        "description": "Kill 5,000 snipers with any golden weapon."
+    },
+    {
+        "title": "An ounce for each head",
+        "imageName": "Challenge_mark_gold_05.png",
+        "description": "Kill 5,000 enemies with headshots using golden weapons."
+    },
+    {
+        "title": "Cooler than Midas",
+        "imageName": "Challenge_mark_120.png",
+        "description": "Kill 10 players in melee combat with the golden Desert Eagle."
+    },
+    {
+        "title": "Sea Wolf",
+        "imageName": "Challenge_mark_weapon10_31.png",
+        "description": "Kill 5,000 enemies with the Beretta M9"
+    },
+    {
+        "title": "Sea Wolf II",
+        "imageName": "Challenge_mark_weapon25_31.png",
+        "description": "Kill 10,000 enemies with the Beretta M9"
+    },
+    {
+        "title": "A hail of bullets",
+        "imageName": "Challenge_mark_weapon10_35.png",
+        "description": "Kill 5,000 enemies with the Beretta M93R"
+    },
+    {
+        "title": "Hail of Bullets Ⅱ",
+        "imageName": "Challenge_mark_weapon25_35.png",
+        "description": "Kill 10,000 enemies with the Beretta M93R"
+    },
+    {
+        "title": "9 millimeters",
+        "imageName": "Challenge_mark_weapon10_29.png",
+        "description": "Kill 5,000 enemies with the Browning High Power"
+    },
+    {
+        "title": "9 millimeters Ⅱ",
+        "imageName": "Challenge_mark_weapon25_29.png",
+        "description": "Kill 10,000 enemies with the Browning High Power"
+    },
+    {
+        "title": "Delta Force",
+        "imageName": "Challenge_mark_weapon10_28.png",
+        "description": "Kill 5,000 enemies with the Calico M950"
+    },
+    {
+        "title": "Delta Force II",
+        "imageName": "Challenge_mark_weapon25_28.png",
+        "description": "Kill 10,000 enemies with the Calico M950"
+    },
+    {
+        "title": "Trusty Colt",
+        "imageName": "Challenge_mark_weapon10_26.png",
+        "description": "Kill 5,000 enemies with the Colt Python Elite"
+    },
+    {
+        "title": "Trusty Colt II",
+        "imageName": "Challenge_mark_weapon25_26.png",
+        "description": "Kill 10,000 enemies with the Colt Python Elite"
+    },
+    {
+        "title": "Fast fight",
+        "imageName": "Challenge_mark_weapon10_32.png",
+        "description": "Kill 5,000 enemies with the Daewoo K5"
+    },
+    {
+        "title": "Quick Fight II",
+        "imageName": "Challenge_mark_weapon25_32.png",
+        "description": "Kill 10,000 enemies with the Daewoo K5"
+    },
+    {
+        "title": "Shayetet 13",
+        "imageName": "Challenge_mark_weapon10_25.png",
+        "description": "Kill 5,000 enemies with a regular or golden Desert Eagle."
+    },
+    {
+        "title": "Shayetet 13 II",
+        "imageName": "Challenge_mark_weapon25_25.png",
+        "description": "Kill 10,000 enemies with a regular or golden Desert Eagle."
+    },
+    {
+        "title": "Callsign \"57\"",
+        "imageName": "Challenge_mark_weapon10_38.png",
+        "description": "Kill 5,000 enemies with the FN Five-seveN"
+    },
+    {
+        "title": "Callsign \"57\" Ⅱ",
+        "imageName": "Challenge_mark_weapon25_38.png",
+        "description": "Kill 10,000 enemies with the FN Five-seveN"
+    },
+    {
+        "title": "Perfection itself",
+        "imageName": "Challenge_mark_weapon10_37.png",
+        "description": "Kill 5,000 enemies with the Glock 18C"
+    },
+    {
+        "title": "Perfection itself Ⅱ",
+        "imageName": "Challenge_mark_weapon25_37.png",
+        "description": "Kill 10,000 enemies with the Glock 18C"
+    },
+    {
+        "title": "Commando",
+        "imageName": "Challenge_mark_weapon10_27.png",
+        "description": "Kill 5,000 enemies with the H&K USP"
+    },
+    {
+        "title": "Commando II",
+        "imageName": "Challenge_mark_weapon25_27.png",
+        "description": "Kill 10,000 enemies with the H&K USP"
+    },
+    {
+        "title": "General's Pistol",
+        "imageName": "Challenge_mark_weapon10_36.png",
+        "description": "Kill 5,000 enemies with the Colt M1911A1"
+    },
+    {
+        "title": "General II's Pistol",
+        "imageName": "Challenge_mark_weapon25_36.png",
+        "description": "Kill 10,000 enemies with the Colt M1911A1"
+    },
+    {
+        "title": "Macchine Thermo-Balistiche",
+        "imageName": "Challenge_mark_weapon10_42.png",
+        "description": "Kill 5,000 enemies with the Mateba Autorevolver"
+    },
+    {
+        "title": "Macchine Thermo-Balistiche Ⅱ",
+        "imageName": "Challenge_mark_weapon25_42.png",
+        "description": "Kill 10,000 enemies with the Mateba Autorevolver"
+    },
+    {
+        "title": "Trustworthy",
+        "imageName": "Challenge_mark_weapon10_34.png",
+        "description": "Kill 5,000 enemies with the SIG Sauer P226 C"
+    },
+    {
+        "title": "Trustworthy II",
+        "imageName": "Challenge_mark_weapon25_34.png",
+        "description": "Kill 10,000 enemies with the SIG Sauer P226 C"
+    },
+    {
+        "title": "Pride of the Czech Republic",
+        "imageName": "Challenge_mark_weapon10_51.png",
+        "description": "Kill 5,000 enemies with a regular or gold CZ 75-Auto."
+    },
+    {
+        "title": "Pride of the Czech Republic II",
+        "imageName": "Challenge_mark_weapon25_51.png",
+        "description": "Kill 10,000 enemies with a regular or gold CZ 75-Auto."
+    },
+    {
+        "title": "Austrian quality",
+        "imageName": "Challenge_mark_weapon10_30.png",
+        "description": "Kill 5,000 enemies with the Steyr M9-A1"
+    },
+    {
+        "title": "Austrian Quality II",
+        "imageName": "Challenge_mark_weapon25_30.png",
+        "description": "Kill 10,000 enemies with the Steyr M9-A1"
+    },
+    {
+        "title": "The strength of a rhinoceros",
+        "imageName": "Challenge_mark_weapon10_41.png",
+        "description": "Kill 5,000 enemies with the Rhino 60DS"
+    },
+    {
+        "title": "Rhinoceros Strength II",
+        "imageName": "Challenge_mark_weapon25_41.png",
+        "description": "Kill 10,000 enemies with the Rhino 60DS"
+    },
+    {
+        "title": "Service pistol",
+        "imageName": "Challenge_mark_weapon10_44.png",
+        "description": "Kill 5,000 enemies with the Walther P99"
+    },
+    {
+        "title": "Service Pistol II",
+        "imageName": "Challenge_mark_weapon25_44.png",
+        "description": "Kill 10,000 enemies with the Walther P99"
+    },
+    {
+        "title": "Black bird",
+        "imageName": "Challenge_mark_weapon10_43.png",
+        "description": "Kill 5,000 enemies with the Rook PY."
+    },
+    {
+        "title": "Black Bird II",
+        "imageName": "Challenge_mark_weapon25_43.png",
+        "description": "Kill 10,000 enemies with the Rook PY."
+    },
+    {
+        "title": "Stechkin",
+        "imageName": "Challenge_mark_weapon10_33.png",
+        "description": "Kill 5,000 enemies with the APS"
+    },
+    {
+        "title": "Stechkin II",
+        "imageName": "Challenge_mark_weapon25_33.png",
+        "description": "Kill 10,000 enemies with the APS"
+    },
+    {
+        "title": "Work of Art Ⅰ",
+        "imageName": "Challenge_mark_weapon10_57.png",
+        "description": "Kill 5,000 enemies with the MPA 930DMG"
+    },
+    {
+        "title": "Work of Art 2",
+        "imageName": "Challenge_mark_weapon25_57.png",
+        "description": "Kill 10,000 enemies with the MPA 930DMG"
+    },
+    {
+        "title": "Chinese Luger",
+        "imageName": "Challenge_mark_weapon10_39.png",
+        "description": "Kill 5,000 enemies with the QSZ-92"
+    },
+    {
+        "title": "Chinese Luger II",
+        "imageName": "Challenge_mark_weapon25_39.png",
+        "description": "Kill 10,000 enemies with the QSZ-92"
+    },
+    {
+        "title": "Cowboy Ⅰ",
+        "imageName": "Challenge_mark_weapon10_54.png",
+        "description": "Kill 5,000 enemies with a normal or golden S&W M&P R8"
+    },
+    {
+        "title": "Cowboy II",
+        "imageName": "Challenge_mark_weapon25_54.png",
+        "description": "Kill 10,000 enemies with a normal or golden S&W M&P R8"
+    },
+    {
+        "title": "Fair Trial Ⅰ",
+        "imageName": "Challenge_mark_weapon10_60.png",
+        "description": "Kill 5,000 enemies with the Taurus Judge"
+    },
+    {
+        "title": "Fair Trial II",
+        "imageName": "Challenge_mark_weapon25_60.png",
+        "description": "Kill 10,000 enemies with the Taurus Judge"
+    },
+    {
+        "title": "Killer Parrot Ⅰ",
+        "imageName": "Challenge_mark_weapon10_63.png",
+        "description": "Kill 5,000 enemies with a regular or gold CZ 75 Czechmate Parrot"
+    },
+    {
+        "title": "Killer Parrot II",
+        "imageName": "Challenge_mark_weapon25_63.png",
+        "description": "Kill 10,000 enemies with a regular or gold CZ 75 Czechmate Parrot"
+    },
+    {
+        "title": "Maximum Damage Ⅰ",
+        "imageName": "Challenge_mark_weapon10_66.png",
+        "description": "Kill 5,000 enemies with a normal or gold Maxim 9"
+    },
+    {
+        "title": "Maximum Damage Ⅱ",
+        "imageName": "Challenge_mark_weapon25_66.png",
+        "description": "Kill 10,000 enemies with a normal or gold Maxim 9"
+    },
+    {
+        "title": "Notoriety Ⅰ",
+        "imageName": "Challenge_mark_weapon10_67.png",
+        "description": "Kill 5,000 enemies with a regular or gold TEC-9."
+    },
+    {
+        "title": "Notoriety II",
+        "imageName": "Challenge_mark_weapon25_67.png",
+        "description": "Kill 10,000 enemies with a regular or gold TEC-9."
+    },
+    {
+        "title": "Siege of Masada",
+        "imageName": "Challenge_mark_weapon10_21.png",
+        "description": "Kill 5,000 enemies with ACR CQB Classic"
+    },
+    {
+        "title": "Siege of Masada II",
+        "imageName": "Challenge_mark_weapon25_21.png",
+        "description": "Kill 10,000 enemies with ACR CQB Classic"
+    },
+    {
+        "title": "Small but mighty",
+        "imageName": "Challenge_mark_weapon10_11.png",
+        "description": "Kill 5,000 enemies with the AUG A3 9mm XS"
+    },
+    {
+        "title": "Small but mighty Ⅱ",
+        "imageName": "Challenge_mark_weapon25_11.png",
+        "description": "Kill 10,000 enemies with the AUG A3 9mm XS"
+    },
+    {
+        "title": "Works like a clock",
+        "imageName": "Challenge_mark_weapon10_20.png",
+        "description": "Kill 5,000 enemies with the B&T MP9"
+    },
+    {
+        "title": "Works like a clock Ⅱ",
+        "imageName": "Challenge_mark_weapon25_20.png",
+        "description": "Kill 10,000 enemies with the B&T MP9"
+    },
+    {
+        "title": "Petrel",
+        "imageName": "Challenge_mark_weapon10_22.png",
+        "description": "Kill 5,000 enemies with the Beretta MX4 Storm."
+    },
+    {
+        "title": "Petrel II",
+        "imageName": "Challenge_mark_weapon25_22.png",
+        "description": "Kill 10,000 enemies with the Beretta MX4 Storm"
+    },
+    {
+        "title": "Bad guy",
+        "imageName": "Challenge_mark_weapon10_05.png",
+        "description": "Kill 5,000 enemies with the Calico M960A"
+    },
+    {
+        "title": "Bad Boy II",
+        "imageName": "Challenge_mark_weapon25_05.png",
+        "description": "Kill 10,000 enemies with the Calico M960A"
+    },
+    {
+        "title": "The Way of the Dragon",
+        "imageName": "Challenge_mark_weapon10_12.png",
+        "description": "Kill 5,000 enemies with the Daewoo K1"
+    },
+    {
+        "title": "Way of the Dragon II",
+        "imageName": "Challenge_mark_weapon25_12.png",
+        "description": "Kill 10,000 enemies with the Daewoo K1"
+    },
+    {
+        "title": "Silent death",
+        "imageName": "Challenge_mark_weapon10_14.png",
+        "description": "Kill 5,000 enemies with the Daewoo K7"
+    },
+    {
+        "title": "Silent Death II",
+        "imageName": "Challenge_mark_weapon25_14.png",
+        "description": "Kill 10,000 enemies with the Daewoo K7"
+    },
+    {
+        "title": "Armor-piercing",
+        "imageName": "Challenge_mark_weapon10_smg09.png",
+        "description": "Kill 5,000 enemies with the FN P90"
+    },
+    {
+        "title": "Armor-piercing II",
+        "imageName": "Challenge_mark_weapon25_smg09.png",
+        "description": "Kill 10,000 enemies with the FN P90"
+    },
+    {
+        "title": "Come one at a time!",
+        "imageName": "Challenge_mark_weapon10_07.png",
+        "description": "Kill 5,000 enemies with the H&K G36C"
+    },
+    {
+        "title": "Come one at a time Ⅱ",
+        "imageName": "Challenge_mark_weapon25_07.png",
+        "description": "Kill 10,000 enemies with the H&K G36C"
+    },
+    {
+        "title": "Law and order",
+        "imageName": "Challenge_mark_weapon10_04.png",
+        "description": "Kill 5,000 enemies with the H&K MP5"
+    },
+    {
+        "title": "Law & Order II",
+        "imageName": "Challenge_mark_weapon25_04.png",
+        "description": "Kill 10,000 enemies with the H&K MP5"
+    },
+    {
+        "title": "GSG 9",
+        "imageName": "Challenge_mark_weapon10_01.png",
+        "description": "Kill 5,000 enemies with the H&K MP7"
+    },
+    {
+        "title": "GSG 9 Ⅱ",
+        "imageName": "Challenge_mark_weapon25_01.png",
+        "description": "Kill 10,000 enemies with the H&K MP7"
+    },
+    {
+        "title": "Universal Soldier",
+        "imageName": "Challenge_mark_weapon10_17.png",
+        "description": "Kill 5,000 enemies with the H&K UMP"
+    },
+    {
+        "title": "Universal Soldier II",
+        "imageName": "Challenge_mark_weapon25_17.png",
+        "description": "Kill 10,000 enemies with the H&K UMP"
+    },
+    {
+        "title": "Snake Slayer",
+        "imageName": "Challenge_mark_weapon10_49.png",
+        "description": "Kill 5,000 enemies with a regular or golden Honey Badger."
+    },
+    {
+        "title": "Snake Slayer II",
+        "imageName": "Challenge_mark_weapon25_49.png",
+        "description": "Kill 10,000 enemies with a regular or golden Honey Badger."
+    },
+    {
+        "title": "Armed and very dangerous",
+        "imageName": "Challenge_mark_weapon10_23.png",
+        "description": "Kill 5,000 enemies with the JS 9mm"
+    },
+    {
+        "title": "Armed and very dangerous Ⅱ",
+        "imageName": "Challenge_mark_weapon25_23.png",
+        "description": "Kill 10,000 enemies with the JS 9mm"
+    },
+    {
+        "title": "Navy seal",
+        "imageName": "Challenge_mark_weapon10_03.png",
+        "description": "Kill 5,000 enemies with Kriss Super V Classic"
+    },
+    {
+        "title": "Navy Seal II",
+        "imageName": "Challenge_mark_weapon25_03.png",
+        "description": "Kill 10,000 enemies with Kriss Super V Classic"
+    },
+    {
+        "title": "Particularly dangerous",
+        "imageName": "Challenge_mark_weapon10_13.png",
+        "description": "Kill 5,000 enemies with the M4 CQB"
+    },
+    {
+        "title": "Particularly dangerous Ⅱ",
+        "imageName": "Challenge_mark_weapon25_13.png",
+        "description": "Kill 10,000 enemies with the M4 CQB"
+    },
+    {
+        "title": "Fine workmanship",
+        "imageName": "Challenge_mark_weapon10_02.png",
+        "description": "Kill 5,000 enemies with the Mini Uzi"
+    },
+    {
+        "title": "Jewelry Work II",
+        "imageName": "Challenge_mark_weapon25_02.png",
+        "description": "Kill 10,000 enemies with the Mini Uzi"
+    },
+    {
+        "title": "Just a gun",
+        "imageName": "Challenge_mark_weapon10_15.png",
+        "description": "Kill 5,000 enemies with the MPA10SST-X"
+    },
+    {
+        "title": "Just a pistol Ⅱ",
+        "imageName": "Challenge_mark_weapon25_15.png",
+        "description": "Kill 10,000 enemies with the MPA10SST-X"
+    },
+    {
+        "title": "A significant advantage",
+        "imageName": "Challenge_mark_weapon10_24.png",
+        "description": "Kill 5,000 enemies with the regular or gold FN SCAR-L PDW."
+    },
+    {
+        "title": "Significant advantage Ⅱ",
+        "imageName": "Challenge_mark_weapon25_24.png",
+        "description": "Kill 10,000 enemies with the regular or gold FN SCAR-L PDW."
+    },
+    {
+        "title": "A reliable assistant",
+        "imageName": "Challenge_mark_weapon10_19.png",
+        "description": "Kill 5,000 enemies with the SIG 552"
+    },
+    {
+        "title": "Reliable Assistant Ⅱ",
+        "imageName": "Challenge_mark_weapon25_19.png",
+        "description": "Kill 10,000 enemies with the SIG 552"
+    },
+    {
+        "title": "Scorpion sting",
+        "imageName": "Challenge_mark_weapon10_16.png",
+        "description": "Kill 5,000 enemies with the Skorpion vz. 83"
+    },
+    {
+        "title": "Scorpion Sting II",
+        "imageName": "Challenge_mark_weapon25_16.png",
+        "description": "Kill 10,000 enemies with the Skorpion vz. 83"
+    },
+    {
+        "title": "In the name of justice",
+        "imageName": "Challenge_mark_weapon10_10.png",
+        "description": "Kill 5,000 enemies with a regular or gold Tavor CTAR-21."
+    },
+    {
+        "title": "In the Name of Justice Ⅱ",
+        "imageName": "Challenge_mark_weapon25_10.png",
+        "description": "Kill 10,000 enemies with a regular or gold Tavor CTAR-21."
+    },
+    {
+        "title": "Compact killer",
+        "imageName": "Challenge_mark_weapon10_08.png",
+        "description": "Kill 5,000 enemies with the XM8 Compact"
+    },
+    {
+        "title": "Compact Killer II",
+        "imageName": "Challenge_mark_weapon25_08.png",
+        "description": "Kill 10,000 enemies with the XM8 Compact"
+    },
+    {
+        "title": "Special forces in action",
+        "imageName": "Challenge_mark_weapon10_06.png",
+        "description": "Kill 5,000 enemies with the AK-9"
+    },
+    {
+        "title": "Special Forces in Case II",
+        "imageName": "Challenge_mark_weapon25_06.png",
+        "description": "Kill 10,000 enemies with the AK-9"
+    },
+    {
+        "title": "The Power of the Bison",
+        "imageName": "Challenge_mark_weapon10_18.png",
+        "description": "Kill 5,000 enemies with the PP-19 \"Bison\""
+    },
+    {
+        "title": "Bison Might II",
+        "imageName": "Challenge_mark_weapon25_18.png",
+        "description": "Kill 10,000 enemies with the PP-19 \"Bison\""
+    },
+    {
+        "title": "Common heather",
+        "imageName": "Challenge_mark_weapon10_48.png",
+        "description": "Kill 5,000 enemies with the SR-2 Veresk"
+    },
+    {
+        "title": "Heather Ⅱ",
+        "imageName": "Challenge_mark_weapon25_48.png",
+        "description": "Kill 10,000 enemies with the SR-2 Veresk"
+    },
+    {
+        "title": "Self-defense in Russian",
+        "imageName": "Challenge_mark_weapon10_50.png",
+        "description": "Kill 5,000 enemies with the PP-2000"
+    },
+    {
+        "title": "Self-defense in Russian Ⅱ",
+        "imageName": "Challenge_mark_weapon25_50.png",
+        "description": "Kill 10,000 enemies with the PP-2000"
+    },
+    {
+        "title": "Take Ⅰ with you",
+        "imageName": "Challenge_mark_weapon10_52.png",
+        "description": "Kill 5,000 enemies with the regular or golden Magpul FMG-9."
+    },
+    {
+        "title": "Take with you Ⅱ",
+        "imageName": "Challenge_mark_weapon25_52.png",
+        "description": "Kill 10,000 enemies with the regular or golden Magpul FMG-9."
+    },
+    {
+        "title": "Made in Poland Ⅰ",
+        "imageName": "Challenge_mark_weapon10_53.png",
+        "description": "Kill 5,000 enemies with the PM-84 Glauberyt Custom."
+    },
+    {
+        "title": "Made in Poland II",
+        "imageName": "Challenge_mark_weapon25_53.png",
+        "description": "Kill 10,000 enemies with the PM-84 Glauberyt Custom."
+    },
+    {
+        "title": "The Mechanism of Evolution Ⅰ",
+        "imageName": "Challenge_mark_weapon10_55.png",
+        "description": "Kill 5,000 enemies with a regular or gold CZ Scorpion Evo3 A1"
+    },
+    {
+        "title": "Mechanism of Evolution 2",
+        "imageName": "Challenge_mark_weapon25_55.png",
+        "description": "Kill 10,000 enemies with a regular or gold CZ Scorpion Evo3 A1"
+    },
+    {
+        "title": "Tested Configuration Ⅰ",
+        "imageName": "Challenge_mark_weapon10_56.png",
+        "description": "Kill 5,000 enemies with the H&K MP5A5 Custom"
+    },
+    {
+        "title": "Tested Configuration Ⅱ",
+        "imageName": "Challenge_mark_weapon25_56.png",
+        "description": "Kill 10,000 enemies with the H&K MP5A5 Custom"
+    },
+    {
+        "title": "Desert Lizard Ⅰ",
+        "imageName": "Challenge_mark_weapon10_58.png",
+        "description": "Kill 5,000 enemies with the regular or gold Desert Tech MDR-C"
+    },
+    {
+        "title": "Desert Lizard II",
+        "imageName": "Challenge_mark_weapon25_58.png",
+        "description": "Kill 10,000 enemies with the regular or gold Desert Tech MDR-C"
+    },
+    {
+        "title": "Silent Death Ⅰ",
+        "imageName": "Challenge_mark_weapon10_59.png",
+        "description": "Kill 5,000 enemies with the Uzi Pro"
+    },
+    {
+        "title": "Silent Death II",
+        "imageName": "Challenge_mark_weapon25_59.png",
+        "description": "Kill 10,000 enemies with the Uzi Pro"
+    },
+    {
+        "title": "In the ring of the snake Ⅰ",
+        "imageName": "Challenge_mark_weapon10_62.png",
+        "description": "Kill 5,000 enemies with the Kriss Super V Custom"
+    },
+    {
+        "title": "In the Ring of the Snake Ⅱ",
+        "imageName": "Challenge_mark_weapon25_62.png",
+        "description": "Kill 10,000 enemies with the Kriss Super V Custom"
+    },
+    {
+        "title": "Devil Wolf Ⅰ",
+        "imageName": "Challenge_mark_weapon10_61.png",
+        "description": "Kill 5,000 enemies with the regular or golden Micro-Roni CAA"
+    },
+    {
+        "title": "Devil Wolf II",
+        "imageName": "Challenge_mark_weapon25_61.png",
+        "description": "Kill 10,000 enemies with the regular or golden Micro-Roni CAA"
+    },
+    {
+        "title": "Inevitable Death Ⅰ",
+        "imageName": "Challenge_mark_weapon10_65.png",
+        "description": "Kill 5,000 enemies with a normal or gold LWRC SMG-45."
+    },
+    {
+        "title": "Inevitable Death II",
+        "imageName": "Challenge_mark_weapon25_65.png",
+        "description": "Kill 10,000 enemies with a normal or gold LWRC SMG-45."
+    },
+    {
+        "title": "Silent Death Ⅰ",
+        "imageName": "Challenge_mark_weapon10_64.png",
+        "description": "Kill 5,000 enemies with a regular or gold SIG MPX SBR Custom."
+    },
+    {
+        "title": "Silent Death II",
+        "imageName": "Challenge_mark_weapon25_64.png",
+        "description": "Kill 10,000 enemies with a regular or gold SIG MPX SBR Custom."
+    },
+    {
+        "title": "Ironclad Argument Ⅰ",
+        "imageName": "Challenge_mark_weapon10_68.png",
+        "description": "Kill 5,000 enemies with a regular or gold Thompson M1928."
+    },
+    {
+        "title": "Ironclad Argument 2",
+        "imageName": "Challenge_mark_weapon25_68.png",
+        "description": "Kill 10,000 enemies with a regular or gold Thompson M1928."
+    },
+    {
+        "title": "Kinetic energy Ⅰ",
+        "imageName": "Challenge_mark_weapon10_smg48.png",
+        "description": "Kill 5,000 enemies with the Cobalt Kinetics Stealth Pistol"
+    },
+    {
+        "title": "Kinetic energy Ⅱ",
+        "imageName": "Challenge_mark_weapon25_smg48.png",
+        "description": "Kill 10,000 enemies with the Cobalt Kinetics Stealth Pistol"
+    },
+    {
+        "title": "The Inevitable End Ⅰ",
+        "imageName": "Challenge_mark_weapon10_smg49.png",
+        "description": "Kill 5,000 enemies with a regular or golden AM-17."
+    },
+    {
+        "title": "The Inevitable End II",
+        "imageName": "Challenge_mark_weapon25_smg49.png",
+        "description": "Kill 10,000 enemies with a regular or golden AM-17."
+    },
+    {
+        "title": "Master Beretta M9 (Model 2)",
+        "imageName": "Challenge_mark_crown02_04.png",
+        "description": "Kill 1,000 enemies with the Beretta M9 Elite (Model 2)"
+    },
+    {
+        "title": "Master Beretta M9 (Model 1)",
+        "imageName": "Challenge_mark_66.png",
+        "description": "Kill 1,000 enemies with the Beretta M9 Elite (Model 1)"
+    },
+    {
+        "title": "Master Desert Eagle (Model 2)",
+        "imageName": "Challenge_mark_crown02_03.png",
+        "description": "Kill 1,000 enemies with the Desert Eagle Elite (Model 2)"
+    },
+    {
+        "title": "Master Desert Eagle (Model 1)",
+        "imageName": "Challenge_mark_65.png",
+        "description": "Kill 1,000 enemies with the Desert Eagle Elite (Model 1)"
+    },
+    {
+        "title": "Glock 18C Master (Model 2)",
+        "imageName": "Challenge_mark_crown02_02.png",
+        "description": "Kill 1,000 enemies with the Glock 18C Elite (Model 2)"
+    },
+    {
+        "title": "Master Tavor CTAR-21 (Model 1)",
+        "imageName": "Challenge_mark_78.png",
+        "description": "Kill 1,000 enemies with the elite Tavor CTAR-21 (Model 1)"
+    },
+    {
+        "title": "Master Kriss Super V Classic (model 2)",
+        "imageName": "Challenge_mark_crown02_05.png",
+        "description": "Kill 1,000 enemies with the Elite Kriss Super V Classic (Model 2)"
+    },
+    {
+        "title": "Master Kriss Super V Classic (model 1)",
+        "imageName": "Challenge_mark_67.png",
+        "description": "Kill 1,000 enemies with the Elite Kriss Super V Classic (Model 1)"
+    },
+    {
+        "title": "Master H&K UMP (model 2)",
+        "imageName": "Challenge_mark_crown02_01.png",
+        "description": "Kill 1,000 enemies with the H&K UMP Elite (Model 2)"
+    },
+    {
+        "title": "Master Daewoo K1 (model 1)",
+        "imageName": "Challenge_mark_68.png",
+        "description": "Kill 1,000 enemies with the Daewoo K1 Elite (Model 1)"
+    },
+    {
+        "title": "Master H&K USP (model 2)",
+        "imageName": "Challenge_mark_crown02_06.png",
+        "description": "Kill 1,000 enemies with the H&K USP Elite (Model 2)"
+    },
+    {
+        "title": "Master ACR CQB Classic (Model 2)",
+        "imageName": "Challenge_mark_crown02_07.png",
+        "description": "Kill 1,000 enemies with the Elite ACR CQB Classic (Model 2)"
+    },
+    {
+        "title": "Aries",
+        "imageName": "Challenge_mark_zodiac_01.png",
+        "description": "Aries icon"
+    },
+    {
+        "title": "Taurus",
+        "imageName": "Challenge_mark_zodiac_02.png",
+        "description": "Taurus icon"
+    },
+    {
+        "title": "Twins",
+        "imageName": "Challenge_mark_zodiac_03.png",
+        "description": "Gemini icon"
+    },
+    {
+        "title": "Cancer",
+        "imageName": "Challenge_mark_zodiac_04.png",
+        "description": "Cancer icon"
+    },
+    {
+        "title": "Lion",
+        "imageName": "Challenge_mark_zodiac_05.png",
+        "description": "Lion icon"
+    },
+    {
+        "title": "Virgo",
+        "imageName": "Challenge_mark_zodiac_06.png",
+        "description": "Virgo icon"
+    },
+    {
+        "title": "Scales",
+        "imageName": "Challenge_mark_zodiac_07.png",
+        "description": "Libra icon"
+    },
+    {
+        "title": "Scorpion",
+        "imageName": "Challenge_mark_zodiac_08.png",
+        "description": "Scorpio icon"
+    },
+    {
+        "title": "Sagittarius",
+        "imageName": "Challenge_mark_zodiac_09.png",
+        "description": "Sagittarius icon"
+    },
+    {
+        "title": "Capricorn",
+        "imageName": "Challenge_mark_zodiac_10.png",
+        "description": "Capricorn icon"
+    },
+    {
+        "title": "Aquarius",
+        "imageName": "Challenge_mark_zodiac_11.png",
+        "description": "Aquarius icon"
+    },
+    {
+        "title": "Fish",
+        "imageName": "Challenge_mark_zodiac_12.png",
+        "description": "Pisces icon"
+    },
+    {
+        "title": "Killer crocodile",
+        "imageName": "Challenge_mark_animals_01.png",
+        "description": "Killer Crocodile Sign"
+    },
+    {
+        "title": "Wild boar",
+        "imageName": "Challenge_mark_animals_02.png",
+        "description": "Wild Boar Sign"
+    },
+    {
+        "title": "The Big Bad Wolf",
+        "imageName": "Challenge_mark_animals_03.png",
+        "description": "Big Bad Wolf Sign"
+    },
+    {
+        "title": "Anglerfish",
+        "imageName": "Challenge_mark_animals_04.png",
+        "description": "Anglerfish sign"
+    },
+    {
+        "title": "Hippopotamus",
+        "imageName": "Challenge_mark_animals_05.png",
+        "description": "The Hippopotamus Sign"
+    },
+    {
+        "title": "Killer Piranha",
+        "imageName": "Challenge_mark_animals_06.png",
+        "description": "Killer Piranha Sign"
+    },
+    {
+        "title": "Eagle",
+        "imageName": "Challenge_mark_animals_07.png",
+        "description": "Eagle sign"
+    },
+    {
+        "title": "Gorilla",
+        "imageName": "Challenge_mark_animals_08.png",
+        "description": "Gorilla sign"
+    },
+    {
+        "title": "Grizzly",
+        "imageName": "Challenge_mark_animals_09.png",
+        "description": "Grizzly Bear Sign"
+    },
+    {
+        "title": "Tiger",
+        "imageName": "Challenge_mark_animals_10.png",
+        "description": "The Tiger sign"
+    },
+    {
+        "title": "Leopard",
+        "imageName": "Challenge_mark_animals_11.png",
+        "description": "Leopard sign"
+    },
+    {
+        "title": "Black Panther",
+        "imageName": "Challenge_mark_animals_12.png",
+        "description": "Black Panther sign"
+    },
+    {
+        "title": "Cobra",
+        "imageName": "Challenge_mark_animals_13.png",
+        "description": "Cobra sign"
+    },
+    {
+        "title": "Shark",
+        "imageName": "Challenge_mark_animals_14.png",
+        "description": "Shark sign"
+    },
+    {
+        "title": "Lion",
+        "imageName": "Challenge_mark_animals_15.png",
+        "description": "The sign of Leo"
+    },
+    {
+        "title": "Together with adAstra",
+        "imageName": "Challenge_mark_opencup2017_01.png",
+        "description": "adAstra, go ahead!"
+    },
+    {
+        "title": "Together with Sluper",
+        "imageName": "Challenge_mark_opencup2017_02.png",
+        "description": "Sluper, go ahead!"
+    },
+    {
+        "title": "Together with AG",
+        "imageName": "Challenge_mark_opencup2017_03.png",
+        "description": "AG, go ahead!"
+    },
+    {
+        "title": "Together with ArenaStars",
+        "imageName": "Challenge_mark_opencup2017_04.png",
+        "description": "ArenaStars, go!"
+    },
+    {
+        "title": "With KillPretty",
+        "imageName": "Challenge_mark_opencup2017_05.png",
+        "description": "KillPretty, go!"
+    },
+    {
+        "title": "With SuperStars",
+        "imageName": "Challenge_mark_opencup2017_06.png",
+        "description": "SuperStars, go!"
+    },
+    {
+        "title": "Together with SinePonte",
+        "imageName": "Challenge_mark_opencup2017_07.png",
+        "description": "SinePonte, go ahead!"
+    },
+    {
+        "title": "Together with Bez_Pontov",
+        "imageName": "Challenge_mark_opencup2017_08.png",
+        "description": "No_Show-Off, Go Forward!"
+    },
+    {
+        "title": "Together with Kovarnie",
+        "imageName": "Challenge_mark_opencup2017_09.png",
+        "description": "Kovarnie, forward!"
+    },
+    {
+        "title": "Together with hOpe",
+        "imageName": "Challenge_mark_opencup2017_10.png",
+        "description": "hOpe, go ahead!"
+    },
+    {
+        "title": "To victory, Sluper!",
+        "imageName": "Challenge_mark_pl_01.png",
+        "description": "Fan badge of the Sluper team, participant of the Open Cup Season XII"
+    },
+    {
+        "title": "To victory, AG!",
+        "imageName": "Challenge_mark_pl_02.png",
+        "description": "Fan badge of the AG team, participant of the Open Cup Season XII"
+    },
+    {
+        "title": "To victory, Airborne!",
+        "imageName": "Challenge_mark_pl_03.png",
+        "description": "Fan badge for the Airborne team, a participant in the Open Cup Season XII"
+    },
+    {
+        "title": "To victory, SinePonte!",
+        "imageName": "Challenge_mark_pl_04.png",
+        "description": "Fan badge of the SinePonte team, participant of the Open Cup Season XII"
+    },
+    {
+        "title": "To victory, ArenaStars!",
+        "imageName": "Challenge_mark_pl_05.png",
+        "description": "ArenaStars team fan badge, participant of Open Cup Season XII"
+    },
+    {
+        "title": "To victory, Squezzers!",
+        "imageName": "Challenge_mark_pl_06.png",
+        "description": "Fan badge of the Squezzers team, participant of the Open Cup Season XII"
+    },
+    {
+        "title": "To victory, No_Show-Off!",
+        "imageName": "Challenge_mark_pl_07.png",
+        "description": "Fan badge of the Bez_Pontov team, participant of Open Cup Season XII"
+    },
+    {
+        "title": "To victory, adAstra!",
+        "imageName": "Challenge_mark_pl_08.png",
+        "description": "Fan badge of the adAstra team, participant of Open Cup Season XII"
+    },
+    {
+        "title": "To victory, F4F4!",
+        "imageName": "Challenge_mark_pl_09.png",
+        "description": "Fan badge of the F4F4 team, participant of the Open Cup Season XII"
+    },
+    {
+        "title": "To victory, YoungStars!",
+        "imageName": "Challenge_mark_pl_10.png",
+        "description": "Fan badge of the YoungStars team, participant of Open Cup Season XII"
+    },
+    {
+        "title": "Bombardment",
+        "imageName": "Challenge_mark_pin-up.png",
+        "description": "Blow up my heart"
+    },
+    {
+        "title": "Deadly and beautiful",
+        "imageName": "Challenge_mark_womens_day_01.png",
+        "description": "Beauty is a terrible force!"
+    },
+    {
+        "title": "Sign of Mastery",
+        "imageName": "Challenge_mark_sell_01.png",
+        "description": "Not by numbers, but by skill"
+    },
+    {
+        "title": "Symbol of victory",
+        "imageName": "Challenge_mark_sell_02.png",
+        "description": "Glory is earned in battle"
+    },
+    {
+        "title": "CrowCrowd.AG fan",
+        "imageName": "Challenge_mark_proleague_01.png",
+        "description": "CrowCrowd.AG fan tag"
+    },
+    {
+        "title": "I'm rooting for Repulse!",
+        "imageName": "Challenge_mark_proleague_03.png",
+        "description": "Repulse fan badge"
+    },
+    {
+        "title": "A seasoned stormtrooper",
+        "imageName": "Challenge_mark_kills_01.png",
+        "description": "Earn 25 kill achievements with regular Assault weapons."
+    },
+    {
+        "title": "A seasoned sniper",
+        "imageName": "Challenge_mark_kills_02.png",
+        "description": "Earn 25 kill achievements with regular sniper weapons."
+    },
+    {
+        "title": "Certified Engineer",
+        "imageName": "Challenge_mark_kills_03.png",
+        "description": "Earn 25 Engineer kill achievements with regular weapons."
+    },
+    {
+        "title": "A skilled physician",
+        "imageName": "Challenge_mark_kills_04.png",
+        "description": "Earn 25 Medic kill achievements with standard weapons."
+    },
+    {
+        "title": "Effective electronic document management system",
+        "imageName": "Challenge_mark_kills_05.png",
+        "description": "Earn 6 achievements for kills with regular SED weapons"
+    },
+    {
+        "title": "Wall to wall",
+        "imageName": "Challenge_mark_mpvp_02.png",
+        "description": "Earn 15 achievements for winning in Team Deathmatch mode ."
+    },
+    {
+        "title": "Rapid breakthrough",
+        "imageName": "Challenge_mark_mpvp_03.png",
+        "description": "Earn 10 achievements for victories in Assault mode ."
+    },
+    {
+        "title": "Eternal confrontation",
+        "imageName": "Challenge_mark_mpvp_04.png",
+        "description": "Earn 10 achievements for winning in Plant the Bomb mode ."
+    },
+    {
+        "title": "Every man for himself",
+        "imageName": "Challenge_mark_mpvp_05.png",
+        "description": "Get 3 achievements for winning in the \" Meat Grinder \" mode"
+    },
+    {
+        "title": "Capture group",
+        "imageName": "Challenge_mark_mpvp_06.png",
+        "description": "Earn 5 achievements for winning in Capture mode ."
+    },
+    {
+        "title": "Air strike",
+        "imageName": "Challenge_mark_mpvp_07.png",
+        "description": "Earn 3 achievements for winning in Destruction mode ."
+    },
+    {
+        "title": "With a clear advantage",
+        "imageName": "Challenge_mark_mpvp_08.png",
+        "description": "Get 3 achievements for winning in Domination mode"
+    },
+    {
+        "title": "License to Kill",
+        "imageName": "Challenge_mark_mpvp_09.png",
+        "description": "Earn 3 achievements for winning in Survival mode ."
+    },
+    {
+        "title": "In the thick of things",
+        "imageName": "Challenge_mark_mpvp_10.png",
+        "description": "Earn 10 achievements for winning in Blitz mode ."
+    }
+]
