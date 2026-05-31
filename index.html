@@ -7,13 +7,13 @@
 <title>Blaststar</title>
 <meta property="og:title" content="Blaststar">
 <meta property="og:description" content="Self-taught developer and hobbyist.">
-<meta property="og:image" content="https://blaststar.net/wf/marks/Challenge_mark_cc01_02.png">
+<meta property="og:image" content="https://www.blaststar.net/wf/marks/Challenge_mark_cc01_02.png">
 <meta property="og:url" content="https://blaststar.net">
 <meta property="og:type" content="website">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Blaststar">
 <meta name="twitter:description" content="Self-taught developer and hobbyist.">
-<meta name="twitter:image" content="https://blaststar.net/wf/marks/Challenge_mark_cc01_02.png">
+<meta name="twitter:image" content="https://www.blaststar.net/wf/marks/Challenge_mark_cc01_02.png">
 </head>
 <!-- CSS and JS -->
 <link rel="stylesheet" href="style.css">
@@ -26,29 +26,33 @@
 <div class="wrapper">
   <div class="profile-card">
 
-    <!-- IDENTITY ROW: [badge+mark] [rank] [stripe/username] -->
+    <!-- IDENTITY ROW -->
     <div class="identity-row">
+      <div class="identity-scaler">
 
-      <!-- Badge with mark overlaid on top -->
-      <div class="badge-stack">
-        <img src="wf/badges/Challenge_badge_114.png" alt="badge">
-        <img src="wf/marks/Challenge_mark_gold_05.png" alt="mark">
-      </div>
+        <!-- Stripe -->
+        <div class="stripe-wrap">
+          <img class="stripe-img" src="wf/stripes/Challenge_strip_166.png" alt="stripe">
+        </div>
 
-      <!-- Rank icon — overlaps into left edge of stripe -->
-      <div class="rank-icon">
-        <img src="wf/ranks/Rank72.png" alt="rank">
-      </div>
+        <!-- Badge+mark -->
+        <div class="badge-stack">
+          <img src="wf/badges/Challenge_badge_114.png" alt="badge">
+          <img src="wf/marks/Challenge_mark_gold_05.png" alt="mark">
+        </div>
 
-      <!-- Stripe — rank overlaps its left, username upper area -->
-      <div class="stripe-wrap">
-        <img class="stripe-img" src="wf/stripes/Challenge_strip_166.png" alt="stripe">
-        <div class="stripe-username">       
+        <!-- Rank -->
+        <div class="rank-icon">
+          <img src="wf/ranks/Rank72.png" alt="rank">
+        </div>
+
+        <!-- Clan + Username -->
+        <div class="stripe-username">
           <div class="clan">Valor</div>
           <div class="uname">Blaststar</div>
         </div>
-      </div>
 
+      </div>
     </div>
 
     <hr>
@@ -107,5 +111,12 @@
     </div>
   </div>
 </div>
+
+<script>
+  document.getElementById('socials-modal').addEventListener('click', function(e) {
+    if (e.target === this) this.classList.remove('open');
+  });
+</script>
+
 </body>
 </html>
