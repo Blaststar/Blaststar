@@ -2,6 +2,7 @@
 **Main Language:** JavaScript, C#, Python (First being most experienced to least)
 
 **Discord:** _techsupport  
+**Website:** https://blaststar.net
 
 ---
 
@@ -18,7 +19,7 @@
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
+<!-- 
 ---
 
 ## 📊 GitHub Stats
@@ -31,6 +32,6 @@
 </p>
 
 ---
-
+--!>
 ## 🌍 Connect with Me
 [![Discord](https://img.shields.io/badge/Discord-%5FBlaststar-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1121203144152588288)  
