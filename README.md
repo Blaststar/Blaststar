@@ -30,8 +30,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blaststar&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
-
----
 --!>
+---
 ## 🌍 Connect with Me
 [![Discord](https://img.shields.io/badge/Discord-%5FBlaststar-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1121203144152588288)  
