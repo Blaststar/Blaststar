@@ -12,7 +12,7 @@
     {
       date: "05/31/26",
       header: "Envision Development",
-      description: "Currently working on Envision, hope to release relatively soon, join the <a href='https://discord.com/invite/6f459fHsVZ' target='_blank'>Discord</a> to stay updated."
+      description: "Currently working on Envision, hope to release relatively soon."
     },
     {
       date: "05/29/26",
